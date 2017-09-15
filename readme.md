@@ -30,6 +30,7 @@
 - [Protocol Buffers](#proto)
   * [Documentation](#proto-docs)
   * [Tools](#proto-tools)
+- [Similar](#similar)
 
 ## Documentation
 
@@ -204,6 +205,14 @@ Varun Talwar
 - [prototools](https://github.com/sourcegraph/prototools) - Documentation generator & other tools for protobuf/gRPC
 - [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
 - [openapi2proto](https://github.com/NYTimes/openapi2proto) - A tool for generating Protobuf v3 schemas and gRPC service definitions from OpenAPI specifications
+
+### Similar
+
+- [Cap’n Proto](https://capnproto.org/) - Think Protocol Buffers, except faster
+- [MessagePack](http://msgpack.org/index.html) - It's like JSON, but fast and small
+- [Thrift](https://thrift.apache.org/) - Thrift is an interface definition language and binary communication protocol
+- [TChannel](https://github.com/uber/tchannel) - Network multiplexing and framing protocol for RPC
+- [FlatBuffers](https://google.github.io/flatbuffers/) - An efficient cross platform serialization library
 
 ## Contribute
 
