@@ -89,7 +89,6 @@
 - [grpc-create-error](https://github.com/bojand/grpc-create-error) - Utility function for creating `Errors` for gRPC responses
 - [grpc-error](https://github.com/bojand/grpc-error) - `GRPCError` class that wraps `create-grpc-error`
 - [grpc-inspect](https://github.com/bojand/grpc-inspect) - gRPC protocol buffer inspection utility
-- [Node.js gRPC status codes](https://grpc.io/grpc/node/grpc.html) - The Node.js grpc status codes
 - [Node.js Proto Files](https://github.com/googleapis/nodejs-proto-files) - All of the Google API's protocol buffer files
 - [grpc-bus](https://github.com/paralin/grpc-bus) - Call GRPC services (even streams!) from the browser over any two-way socket to Node and soon Go
 - [grpc-errors](https://github.com/ortoo/grpc-errors) - A quick and easy way of generating errors for use with grpc
