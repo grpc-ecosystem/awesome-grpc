@@ -208,10 +208,10 @@ Varun Talwar
 
 ### Similar
 
-- [Cap’n Proto](https://capnproto.org/) - Think Protocol Buffers, except faster
 - [MessagePack](http://msgpack.org/index.html) - It's like JSON, but fast and small
 - [Thrift](https://thrift.apache.org/) - Thrift is an interface definition language and binary communication protocol
 - [TChannel](https://github.com/uber/tchannel) - Network multiplexing and framing protocol for RPC
+- [Cap’n Proto](https://capnproto.org/) - Think Protocol Buffers, except faster
 - [FlatBuffers](https://google.github.io/flatbuffers/) - An efficient cross platform serialization library
 
 ## Contribute
