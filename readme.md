@@ -5,9 +5,9 @@
 
 ## Contents
 
-- [Documentation](#docsumentation)
+- [Documentation](#documentation)
 - [Community](#community)
-- [Official Libraries and Tools](#officiallibs)
+- [Official Libraries and Tools](#official)
 - [Other](#other)
   * [Tools](#other-tools)
   * [Go](#other-go)
@@ -21,7 +21,7 @@
   * [Elixir](#other-elixir)
   * [Elm](#other-elm)
   * [TypeScript](#other-ts)
-- [Resources](#res)
+- [Resources](#resources)
   * [Tutorials](#res-tuts)
   * [Videos](#res-videos)
   * [Slides](#res-slides)
@@ -34,6 +34,8 @@
 ## Documentation
 
 - [Website](https://grpc.io/) - Official documentation, libraries, resources, samples and FAQ
+- [grpc_cli](https://github.com/grpc/grpc/blob/master/doc/command_line_tool.md) - gRPC CLI tool
+- [Technical documentation](https://github.com/grpc/grpc/tree/master/doc) - Collection of useful technical documentation
 - [gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) - Status codes and their use in gRPC
 - [gRPC status code mapping](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) - HTTP to gRPC Status Code Mapping
 
@@ -41,6 +43,7 @@
 
 - [Community links](https://grpc.io/community/) - Mailing list, Gitter, Twitter, Reddit
 
+<a name="official"></a>
 ## Official Libraries and Tools
 
 - [gRPC Core](https://github.com/grpc/grpc) - C, C++, Ruby, Node.js, Python, PHP, C#, Objective-C
@@ -139,15 +142,14 @@
 
 - [ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protoc Plugin for TypeScript Declarations
 
-<a name="#res"></a>
 ## Resources
 
-<a name="#res-tuts"></a>
+<a name="res-tuts"></a>
 ### Tutorials
 
 - [Building a gRPC service with Node.js](https://codelabs.developers.google.com/codelabs/cloud-grpc/index.html) - Google Clound Platform Codelab
 
-<a name="#res-videos"></a>
+<a name="res-videos"></a>
 ### Videos
 
 - [gRPC: Google's high-performance, open-source RPC framework](https://www.youtube.com/watch?v=sZx3oZt7LVg) - GothamGo 2015 by Sameer Ajmani
@@ -162,7 +164,7 @@
 - [Building Microservices w/gRPC & Kubernetes](https://www.youtube.com/watch?v=27swR9HACWU) - Philly ETE 2016 #49 by Kelsey Hightower
 - [Building high performance microservices with Kubernetes, Go, and gRPC](https://www.youtube.com/watch?v=YiNt4kUnnIM) - Google Cloud Next '17 by Andrew Jessup
 
-<a name="#res-slides"></a>
+<a name="res-slides"></a>
 ### Slides
 
 - [gRPC Overview](http://www.slideshare.net/VarunTalwar4/grpc-overview) - An overview at gRPC: Talk at Slack by 
@@ -174,7 +176,7 @@ Varun Talwar
 - [gRPC and Microservices](https://github.com/jonog/talks/blob/master/src/grpc/grpc-presentation.md) - Golang Melbourne - June 2016 Go Hack Night by Jonathan Gomez
 - [Scalable Microservices with gRPC, Kubernetes, and Containers](https://speakerdeck.com/googlecloudplatform/scalable-microservices-with-grpc-kubernetes-and-containers-devfest-ukraine) - DevFest Ukraine
 
-<a name="#res-examples"></a>
+<a name="res-examples"></a>
 ### Examples
 
 - [gifinator](https://github.com/GoogleCloudPlatform/gifinator) - A sample application demonstrating Kubernetes, gRPC, Go and cute Gophers demoed at Google GCP Next 2017
@@ -182,20 +184,20 @@ Varun Talwar
 - [Streaming RPC's using gRPC](https://github.com/ridha/grpc-streaming-demo) - A quick demo of bi-directional streaming RPC's using grpc, go and python
 - [gRPC Java Demos](https://github.com/saturnism/grpc-java-demos) - A collection of Java gRPC examples
 
-<a name="#res-misc"></a>
+<a name="res-misc"></a>
 ### Miscellaneous
 
 - [gRPC with Load Balancer or Proxy or on AWS](https://gist.github.com/bojand/6a604f7e369d7c7d8c39eb77878a42c2)
 
-<a name="#proto"></a>
+<a name="proto"></a>
 ## Protocol Buffers
 
-<a name="#proto-doc"></a>
+<a name="proto-doc"></a>
 ### Documentation
 
 - [Website](https://developers.google.com/protocol-buffers/) - Official website an documentation
 
-<a name="#proto-tools"></a>
+<a name="proto-tools"></a>
 ### Tools
 
 - [prototools](https://github.com/sourcegraph/prototools) - documentation generator & other tools for protobuf/gRPC
