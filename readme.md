@@ -188,7 +188,7 @@ Varun Talwar
 <a name="res-misc"></a>
 ### Miscellaneous
 
-- [gRPC with Load Balancer or Proxy or on AWS](https://gist.github.com/bojand/6a604f7e369d7c7d8c39eb77878a42c2)
+- [gRPC with Load Balancer or Proxy or on AWS](https://gist.github.com/bojand/6a604f7e369d7c7d8c39eb77878a42c2) - Various notes on doing gRPC behind a load balancer or proxy or on AWS
 
 <a name="proto"></a>
 ## Protocol Buffers
