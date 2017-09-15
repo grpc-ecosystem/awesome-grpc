@@ -47,9 +47,9 @@
 ## Official Libraries and Tools
 
 - [gRPC Core](https://github.com/grpc/grpc) - C, C++, Ruby, Node.js, Python, PHP, C#, Objective-C
-- [gRPC Java](https://github.com/grpc/grpc-java)
-- [gRPC Go](https://github.com/grpc/grpc-go)
-- [gRPC Swift](https://github.com/grpc/grpc-swift)
+- [gRPC Java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
+- [gRPC Go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
+- [gRPC Swift](https://github.com/grpc/grpc-swift) - The Swift language implementation of gRPC
 - [gRPC Ecosystem](https://github.com/grpc-ecosystem) - gRPC Ecosystem that complements gRPC
 - [gRPC contrib](https://github.com/grpc/grpc-contrib) - Known useful contributions around github
 - [Homebrew gRPC](https://github.com/grpc/homebrew-grpc) - gRPC formulae repo for Homebrew
@@ -59,7 +59,7 @@
 <a name="other-tools"></a>
 ### Tools
 
-- [letmegrpc](https://github.com/gogo/letmegrpc) - generate a web form gui from a grpc specification
+- [letmegrpc](https://github.com/gogo/letmegrpc) - Generate a web form gui from a grpc specification
 - [grpcc](https://github.com/njpatel/grpcc) - Node.js grpc command-line client
 - [gcall](https://github.com/bojand/gcall) - Simple Node.js gRPC command line interface
 - [kafka-pixy](https://github.com/mwitkow/grpc-proxy) - gRPC/REST proxy for Kafka
@@ -73,7 +73,7 @@
 - [gRPC over NATS](https://github.com/rapidloop/nrpc) - nRPC is an RPC framework like gRPC, but for NATS.
 - [grpcweb](https://github.com/improbable-eng/grpc-web) - gRPC Web implementation for Golang and TypeScript
 - [rpcx](https://github.com/smallnest/rpcx) - A RPC service framework based on net/rpc like alibaba Dubbo and weibo Motan
-- [grpclb](https://github.com/bsm/grpclb) - external Load Balancing Service solution for gRPC written in Go
+- [grpclb](https://github.com/bsm/grpclb) - External Load Balancing Service solution for gRPC written in Go
 - [grpc-proxy](https://github.com/mwitkow/grpc-proxy) - gRPC proxy is a Go reverse proxy that allows for rich routing of gRPC calls with minimum overhead
 - [go-microservice-helpers](https://github.com/google/go-microservice-helpers) - A collection of handy snippets that simplify creation of GRPC servers and clients
 - [lile](https://github.com/lileio/lile) - Easily create gRPC services in Go
@@ -135,7 +135,7 @@
 <a name="other-elm"></a>
 ### Elm
 
-- [elm-protobuf](https://github.com/tiziano88/elm-protobuf) - protobuf plugin generating elm code from proto definitions
+- [elm-protobuf](https://github.com/tiziano88/elm-protobuf) - Protoc plugin generating elm code from proto definitions
 
 <a name="other-ts"></a>
 ### TypeScript
@@ -154,11 +154,11 @@
 
 - [gRPC: Google's high-performance, open-source RPC framework](https://www.youtube.com/watch?v=sZx3oZt7LVg) - GothamGo 2015 by Sameer Ajmani
 - [Introduction to gRPC: A general RPC framework that puts mobile and HTTP/2 first](https://www.youtube.com/watch?v=kUz2zjkKxFg) - Devoxx by Mete Atamel
-- [gRPC: The Story of Microservices at Square](https://www.youtube.com/watch?v=-2sWDr3Z0Wo) - apigee webcast
+- [gRPC: The Story of Microservices at Square](https://www.youtube.com/watch?v=-2sWDr3Z0Wo) - Apigee webcast
 - [Scalable Realtime Microservices with Kubernetes and gRPC](https://www.youtube.com/watch?v=xb8u2s7cxzg) - Mark Mandel @ Google
 - [Text to Speech server with gRPC and Kubernetes](https://www.youtube.com/watch?v=XaMr--wAuSI) - justforfunc #12
 - [GRPC Microservices 101](https://www.youtube.com/watch?v=-t57ZQZpjqs) - Google Developer Group Washington by Ray Tsang
-- [Efficient Microservices w/ Binary Protocol - gRPC 101](https://www.youtube.com/watch?v=RqK-mwh3-aY) - by Ray Tsang
+- [Efficient Microservices w/ Binary Protocol - gRPC 101](https://www.youtube.com/watch?v=RqK-mwh3-aY) - By Ray Tsang
 - [grpc: From Tutorial to Production](https://www.youtube.com/watch?v=7FZ6ZyzGex0) - GopherCon 2017 by Alan Shreve
 - [Scalable Microservices with gRPC, Kubernetes, and Docker](https://www.youtube.com/watch?v=xsIwYL-N4vI) - Node Interactive 2016 by Sandeep Dinesh
 - [Building Microservices w/gRPC & Kubernetes](https://www.youtube.com/watch?v=27swR9HACWU) - Philly ETE 2016 #49 by Kelsey Hightower
@@ -200,14 +200,13 @@ Varun Talwar
 <a name="proto-tools"></a>
 ### Tools
 
-- [prototools](https://github.com/sourcegraph/prototools) - documentation generator & other tools for protobuf/gRPC
+- [prototools](https://github.com/sourcegraph/prototools) - Documentation generator & other tools for protobuf/gRPC
 - [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
 - [openapi2proto](https://github.com/NYTimes/openapi2proto) - A tool for generating Protobuf v3 schemas and gRPC service definitions from OpenAPI specifications
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
