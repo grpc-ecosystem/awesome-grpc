@@ -35,7 +35,6 @@
 ## Documentation
 
 - [Website](https://grpc.io/) - Official documentation, libraries, resources, samples and FAQ
-- [grpc_cli](https://github.com/grpc/grpc/blob/master/doc/command_line_tool.md) - gRPC CLI tool
 - [Technical documentation](https://github.com/grpc/grpc/tree/master/doc) - Collection of useful technical documentation
 - [gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) - Status codes and their use in gRPC
 - [gRPC status code mapping](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) - HTTP to gRPC Status Code Mapping
@@ -54,6 +53,7 @@
 - [gRPC Ecosystem](https://github.com/grpc-ecosystem) - gRPC Ecosystem that complements gRPC
 - [gRPC contrib](https://github.com/grpc/grpc-contrib) - Known useful contributions around github
 - [Homebrew gRPC](https://github.com/grpc/homebrew-grpc) - gRPC formulae repo for Homebrew
+- [grpc_cli](https://github.com/grpc/grpc/blob/master/doc/command_line_tool.md) - gRPC CLI tool
 
 ## Other
 
