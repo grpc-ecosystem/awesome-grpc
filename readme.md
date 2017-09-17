@@ -21,6 +21,7 @@
   * [Elixir](#other-elixir)
   * [Elm](#other-elm)
   * [TypeScript](#other-ts)
+  * [Scala](#other-scala)
 - [Resources](#resources)
   * [Tutorials](#res-tuts)
   * [Videos](#res-videos)
@@ -141,6 +142,11 @@
 ### TypeScript
 
 - [ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protoc Plugin for TypeScript Declarations
+
+<a name="other-scala"></a>
+### Scala
+
+- [ScalaPB](https://scalapb.github.io/) - Protocol Buffer Compiler for Scala
 
 ## Resources
 
