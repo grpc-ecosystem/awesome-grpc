@@ -14,6 +14,7 @@
   * [Node.js](#other-nodejs)
   * [Java](#other-java)
   * [Ruby](#other-ruby)
+  * [Python](#other-py)
   * [C#](#other-cs)
   * [Rust](#other-rust)
   * [Haskell](#other-hs)
@@ -106,6 +107,11 @@
 ### Ruby
 
 - [gruf](https://github.com/bigcommerce/gruf) - gRPC Ruby Framework
+
+<a name="other-py"></a>
+### Python
+
+- [grpclib](https://github.com/vmagamedov/grpclib) - Pure-Python gRPC implementation, based on hyper-h2 project
 
 <a name="other-cs"></a>
 ### C#
