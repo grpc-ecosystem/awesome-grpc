@@ -225,6 +225,7 @@ Varun Talwar
 - [TChannel](https://github.com/uber/tchannel) - Network multiplexing and framing protocol for RPC
 - [Cap’n Proto](https://capnproto.org/) - Think Protocol Buffers, except faster
 - [FlatBuffers](https://google.github.io/flatbuffers/) - An efficient cross platform serialization library
+- [RSocket](http://rsocket.io/) - Application protocol providing Reactive Streams semantics
 
 ## Contribute
 
