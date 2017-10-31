@@ -82,8 +82,7 @@
 - [go-microservice-helpers](https://github.com/google/go-microservice-helpers) - A collection of handy snippets that simplify creation of GRPC servers and clients
 - [lile](https://github.com/lileio/lile) - Easily create gRPC services in Go
 - [proteus](https://github.com/src-d/proteus) - Generate .proto files from Go source code
-- [protoc-gen-cobra](https://github.com/fiorix/protoc-gen-cobra) - [Cobra](https://github.com/spf13/cobra) command line tool generator for Go gRPC
-- [proteus](https://github.com/src-d/proteus) - [proteus](https://github.com/src-d/proteus) Generate .proto files from Go source code
+- [protoc-gen-cobra](https://github.com/fiorix/protoc-gen-cobra) - command line tool generator for Go gRPC
 
 <a name="other-nodejs"></a>
 ### Node.js
