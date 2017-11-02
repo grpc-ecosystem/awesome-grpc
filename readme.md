@@ -162,6 +162,7 @@
 
 - [Building a gRPC service with Node.js](https://codelabs.developers.google.com/codelabs/cloud-grpc/index.html) - Google Clound Platform Codelab
 - [Getting Started with Microservices using Go, gRPC and Kubernetes](https://outcrawl.com/getting-started-microservices-go-grpc-kubernetes/)
+- [gRPC in Production](https://about.sourcegraph.com/go/grpc-in-production-alan-shreve/)
 
 <a name="res-videos"></a>
 ### Videos
