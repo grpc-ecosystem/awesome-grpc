@@ -83,6 +83,7 @@
 - [lile](https://github.com/lileio/lile) - Easily create gRPC services in Go
 - [proteus](https://github.com/src-d/proteus) - Generate .proto files from Go source code
 - [protoc-gen-cobra](https://github.com/fiorix/protoc-gen-cobra) - command line tool generator for Go gRPC
+- [gRPC over WebSocket](https://github.com/glerchundi/grpc-boomerang) - connect to a gRPC Server behind a firewall by using a pre-established WebSocket connection
 
 <a name="other-nodejs"></a>
 ### Node.js
