@@ -171,6 +171,7 @@
 - [Getting Started with Microservices using Go, gRPC and Kubernetes](https://outcrawl.com/getting-started-microservices-go-grpc-kubernetes/)
 - [gRPC in Production](https://about.sourcegraph.com/go/grpc-in-production-alan-shreve/)
 - [gRPC Go: Beyond the basics](https://blog.gopheracademy.com/advent-2017/go-grpc-beyond-basics/) - GopherAcademy article
+- [Building High Performance APIs In Go Using gRPC](http://www.agiratech.com/building-high-performance-apis-go-grpc/) - Small tutorial on building a simple API using gRPC and Go
 
 <a name="res-videos"></a>
 ### Videos
