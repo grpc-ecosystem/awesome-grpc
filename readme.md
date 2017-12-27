@@ -203,6 +203,7 @@ Varun Talwar
 - [Scalable Microservices with gRPC, Kubernetes, and Containers](https://speakerdeck.com/googlecloudplatform/scalable-microservices-with-grpc-kubernetes-and-containers-devfest-ukraine) - DevFest Ukraine
 - [OpenAPI and gRPC Side by-Side](https://www.slideshare.net/timburks/openapi-and-grpc-side-byside) - APIStrat Conference - 
 Tim Burks
+- [https://talks.godoc.org/github.com/tcnksm/talks/2017/11/gocon2017/gocon2017.slide](https://talks.godoc.org/github.com/tcnksm/talks/2017/11/gocon2017/gocon2017.slide) - Go+Microservices at Mercari by Taichi Nakashima at Go Conference 2017
 
 <a name="res-examples"></a>
 ### Examples
