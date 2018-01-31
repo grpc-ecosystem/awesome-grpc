@@ -81,24 +81,25 @@
 - [rpcx](https://github.com/smallnest/rpcx) - A RPC service framework based on net/rpc like alibaba Dubbo and weibo Motan
 - [grpclb](https://github.com/bsm/grpclb) - External Load Balancing Service solution for gRPC written in Go
 - [grpc-proxy](https://github.com/mwitkow/grpc-proxy) - gRPC proxy is a Go reverse proxy that allows for rich routing of gRPC calls with minimum overhead
-- [go-microservice-helpers](https://github.com/google/go-microservice-helpers) - A collection of handy snippets that simplify creation of GRPC servers and clients
+- [go-microservice-helpers](https://github.com/google/go-microservice-helpers) - A collection of handy snippets that simplify creation of gRPC servers and clients
 - [lile](https://github.com/lileio/lile) - Easily create gRPC services in Go
 - [proteus](https://github.com/src-d/proteus) - Generate .proto files from Go source code
 - [protoc-gen-cobra](https://github.com/fiorix/protoc-gen-cobra) - command line tool generator for Go gRPC
 - [gRPC over WebSocket](https://github.com/glerchundi/grpc-boomerang) - connect to a gRPC Server behind a firewall by using a pre-established WebSocket connection
 - [yarpc](https://github.com/yarpc/yarpc-go) - A message passing platform for Go, including support for gRPC
+- [promgrpc](https://github.com/piotrkowalczuk/promgrpc) - Prometheus instrumentation for gRPC based services
 
 <a name="other-nodejs"></a>
 ### Node.js
 - [Mali](https://github.com/malijs/mali) - A minimalistic gRPC microservice framework for Node.js
-- [Condor Framework](https://github.com/devsu/condor-framework) - Framework for building GRPC services in Node JS
+- [Condor Framework](https://github.com/devsu/condor-framework) - Framework for building gRPC services in Node JS
 - [grpc-caller](https://github.com/bojand/grpc-caller) - An improved Node.js gRPC client
 - [grpc-create-metadata](https://github.com/bojand/grpc-create-metadata) - Helper utility for creating gRPC `Metadata`
 - [grpc-create-error](https://github.com/bojand/grpc-create-error) - Utility function for creating `Errors` for gRPC responses
 - [grpc-error](https://github.com/bojand/grpc-error) - `GRPCError` class that wraps `create-grpc-error`
 - [grpc-inspect](https://github.com/bojand/grpc-inspect) - gRPC protocol buffer inspection utility
 - [Node.js Proto Files](https://github.com/googleapis/nodejs-proto-files) - All of the Google API's protocol buffer files
-- [grpc-bus](https://github.com/paralin/grpc-bus) - Call GRPC services (even streams!) from the browser over any two-way socket to Node and soon Go
+- [grpc-bus](https://github.com/paralin/grpc-bus) - Call gRPC services (even streams!) from the browser over any two-way socket to Node and soon Go
 - [grpc-errors](https://github.com/ortoo/grpc-errors) - A quick and easy way of generating errors for use with grpc
 
 <a name="other-java"></a>
@@ -140,7 +141,7 @@
 <a name="other-erlang"></a>
 ### Erlang
 
-- [Erlang grpc](https://github.com/bluehouse-technology/grpc) - Erlang library for GRPC
+- [Erlang grpc](https://github.com/bluehouse-technology/grpc) - Erlang library for gRPC
 
 <a name="other-elixir"></a>
 ### Elixir
