@@ -101,6 +101,7 @@
 - [Node.js Proto Files](https://github.com/googleapis/nodejs-proto-files) - All of the Google API's protocol buffer files
 - [grpc-bus](https://github.com/paralin/grpc-bus) - Call gRPC services (even streams!) from the browser over any two-way socket to Node and soon Go
 - [grpc-errors](https://github.com/ortoo/grpc-errors) - A quick and easy way of generating errors for use with grpc
+- [grpc-client-promise](https://github.com/lvgithub/grpc-promise) - Grpc-promise also support Promise API. Which works very well with ES7 async await.
 
 <a name="other-java"></a>
 ### Java
