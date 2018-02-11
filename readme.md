@@ -131,7 +131,7 @@
 <a name="other-rust"></a>
 ### Rust
 
-- [grpc-rs](https://github.com/https://github.com/pingcap/grpc-rs) - The gRPC library for Rust built on C Core library and futures
+- [grpc-rs](https://github.com/pingcap/grpc-rs) - The gRPC library for Rust built on C Core library and futures
 - [grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
 
 <a name="other-hs"></a>
