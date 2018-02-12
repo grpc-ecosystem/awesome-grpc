@@ -255,7 +255,7 @@ Tim Burks
 - [FlatBuffers](https://google.github.io/flatbuffers/) - An efficient cross platform serialization library
 - [RSocket](http://rsocket.io/) - Application protocol providing Reactive Streams semantics
 - [Twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions 
-- [Greenpack]https://github.com/glycerine/greenpack - Serialization format similar to MessagePack, but adds field versioning and type annotation
+- [Greenpack](https://github.com/glycerine/greenpack) - Serialization format similar to MessagePack, but adds field versioning and type annotation
 
 ## Contribute
 
