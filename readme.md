@@ -197,6 +197,7 @@
 - [Intro to gRPC: A Modern Toolkit for Microservice Communication](https://www.youtube.com/watch?v=RoXT_Rkg8LA) - A video from Twilio's Signal Conference
 - [gRPC and Go: Developing Efficient and Type-Safe Services](https://www.youtube.com/watch?v=J-NTfvYL_OE)
 - [Best Practices for (Go) gRPC Services](https://www.youtube.com/watch?v=Z_yD7YPL2oE)
+- [Creating GopherJS Apps with gRPC-Web](https://www.youtube.com/watch?v=R2HaxH7Et64) - At FOSDEM
 
 <a name="res-slides"></a>
 ### Slides
