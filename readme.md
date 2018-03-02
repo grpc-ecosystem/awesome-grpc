@@ -72,6 +72,7 @@
 - [ratelimit](https://github.com/lyft/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications
 - [omgRPC](https://github.com/troylelandshields/omgrpc) - A GUI client for interacting with gRPC services, similar to what Postman is for REST APIs
 - [ProfaneDB](https://gitlab.com/ProfaneDB/ProfaneDB) - A Protocol Buffers database with gRPC API, built in C++ on top of RocksDB
+- [Evans](https://github.com/ktr0731/evans) - more expressive universal gRPC (CLI) client
 
 <a name="other-go"></a>
 ### Go
@@ -176,7 +177,7 @@
 - [gRPC in Production](https://about.sourcegraph.com/go/grpc-in-production-alan-shreve/)
 - [gRPC Go: Beyond the basics](https://blog.gopheracademy.com/advent-2017/go-grpc-beyond-basics/) - GopherAcademy article
 - [Building High Performance APIs In Go Using gRPC](http://www.agiratech.com/building-high-performance-apis-go-grpc/) - Small tutorial on building a simple API using gRPC and Go
-
+- [Bidirectional gRPC streaming for Go](https://rakyll.org/grpc-streaming/)
 <a name="res-videos"></a>
 ### Videos
 
