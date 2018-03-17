@@ -181,6 +181,9 @@
 - [gRPC Go: Beyond the basics](https://blog.gopheracademy.com/advent-2017/go-grpc-beyond-basics/) - GopherAcademy article
 - [Building High Performance APIs In Go Using gRPC](http://www.agiratech.com/building-high-performance-apis-go-grpc/) - Small tutorial on building a simple API using gRPC and Go
 - [Bidirectional gRPC streaming for Go](https://rakyll.org/grpc-streaming/)
+- [How We Build gRPC Services At Namely](https://medium.com/namely-labs/how-we-build-grpc-services-at-namely-52a3ae9e7c35) - Blog article from Namely Labs
+- [Our experience designing and building gRPC services](https://blog.bugsnag.com/using-grpc-in-production/) - Blog series from Bugsnag on building a new Releases dashboard backend using gRPC
+
 <a name="res-videos"></a>
 ### Videos
 
