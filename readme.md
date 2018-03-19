@@ -170,6 +170,11 @@
 
 - [ScalaPB](https://scalapb.github.io/) - Protocol Buffer Compiler for Scala
 
+<a name="other-dart"></a>
+### Dart
+
+- [grpc-dart](https://pub.dartlang.org/packages/grpc) - Protocol Buffer Compiler for Dart
+
 ## Resources
 
 <a name="res-tuts"></a>
