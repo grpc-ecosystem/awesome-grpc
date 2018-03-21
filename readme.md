@@ -25,6 +25,7 @@
   * [Elm](#other-elm)
   * [TypeScript](#other-ts)
   * [Scala](#other-scala)
+  * [Dart](#other-dart)
 - [Resources](#resources)
   * [Tutorials](#res-tuts)
   * [Videos](#res-videos)
