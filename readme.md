@@ -55,6 +55,7 @@
 - [gRPC Node.js](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [gRPC Go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [gRPC Swift](https://github.com/grpc/grpc-swift) - The Swift language implementation of gRPC
+- [gRPC Dart](https://github.com/grpc/grpc-dart) - The Dart language implementation of gRPC
 - [gRPC Ecosystem](https://github.com/grpc-ecosystem) - gRPC Ecosystem that complements gRPC
 - [gRPC contrib](https://github.com/grpc/grpc-contrib) - Known useful contributions around github
 - [Homebrew gRPC](https://github.com/grpc/homebrew-grpc) - gRPC formulae repo for Homebrew
