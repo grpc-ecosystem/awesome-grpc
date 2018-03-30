@@ -96,7 +96,8 @@
 - [gRPC over WebSocket](https://github.com/glerchundi/grpc-boomerang) - connect to a gRPC Server behind a firewall by using a pre-established WebSocket connection
 - [yarpc](https://github.com/yarpc/yarpc-go) - A message passing platform for Go, including support for gRPC
 - [promgrpc](https://github.com/piotrkowalczuk/promgrpc) - Prometheus instrumentation for gRPC based services
-- [protoreflect](https://github.com/jhump/protoreflect) - Reflection (Rich Descriptors) for Go Protocol Buffers 
+- [protoreflect](https://github.com/jhump/protoreflect) - Reflection (Rich Descriptors) for Go Protocol Buffers
+- [grpchan](https://github.com/fullstorydev/grpchan) - Channels for gRPC: custom transports, such as in-process and HTTP 1.1
 
 <a name="other-nodejs"></a>
 ### Node.js
