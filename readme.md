@@ -221,6 +221,7 @@
 - [Creating GopherJS Apps with gRPC-Web](https://www.youtube.com/watch?v=R2HaxH7Et64) - At FOSDEM
 - [justforfunc #31: gRPC Basics](https://www.youtube.com/watch?v=uolTUtioIrc) - JustForFunc: Programming in Go series Episode 31 covering gRPC
 - [Efficient service communication with gRPC](https://www.youtube.com/watch?v=t9SUcf3Uwlg) - Talk at microXchg 2018 Berlin
+- [gRPC Java Course on Udemy](http://bit.ly/grpc-java-github) - Online Course (4 hours) that walks through several examples and implementations of gRPC using the Java Language
 
 <a name="res-slides"></a>
 ### Slides
