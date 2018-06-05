@@ -189,7 +189,6 @@
 <a name="res-tuts"></a>
 ### Tutorials
 
-- [An introduction to gRPC](https://devopedia.org/grpc)
 - [Building a gRPC service with Node.js](https://codelabs.developers.google.com/codelabs/cloud-grpc/index.html) - Google Clound Platform Codelab
 - [Getting Started with Microservices using Go, gRPC and Kubernetes](https://outcrawl.com/getting-started-microservices-go-grpc-kubernetes/)
 - [gRPC in Production](https://about.sourcegraph.com/go/grpc-in-production-alan-shreve/)
@@ -199,6 +198,7 @@
 - [How We Build gRPC Services At Namely](https://medium.com/namely-labs/how-we-build-grpc-services-at-namely-52a3ae9e7c35) - Blog article from Namely Labs
 - [Our experience designing and building gRPC services](https://blog.bugsnag.com/using-grpc-in-production/) - Blog series from Bugsnag on building a new Releases dashboard backend using gRPC
 - [Writing gRPC Interceptors in Go](https://medium.com/@shijuvar/writing-grpc-interceptors-in-go-bf3e7671fe48) - A simple tutorial on gRPC Interceptors
+- [An introduction to gRPC](https://devopedia.org/grpc)
 
 <a name="res-videos"></a>
 ### Videos
