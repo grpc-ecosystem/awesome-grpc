@@ -248,7 +248,7 @@ Tim Burks
 - [Multiplayer Simon Says - A Game using gRPC and Kubernetes](https://github.com/grpc-ecosystem/grpc-simon-says) - Sample app with Go server and clients using Node.js (on Arduino and web), and Java (Android and CLI)
 - [Go Microservices Example](https://github.com/harlow/go-micro-services) - HTTP up front, Protobufs in the rear
 - [Streaming RPC's using gRPC](https://github.com/ridha/grpc-streaming-demo) - A quick demo of bi-directional streaming RPC's using grpc, Go and Python
-- [gRPC Java Demos](https://github.com/saturnism/grpc-java-demos) - A collection of Java gRPC examples
+- [gRPC Java Examples](https://github.com/saturnism/grpc-java-by-example) - A collection of useful/essential gRPC Java Examples 
 - [gRPC/OpenCensus Demo](https://github.com/rakyll/opencensus-grpc-demo) - Export metrics and traces from gRPC servers and clients using Java, Go and Prometheus
 - [go-micro-services](https://github.com/harlow/go-micro-services) - An demonstration of Golang micro-services that expose a HTTP/JSON frontend and then leverages gRPC for inter-service communication
 
