@@ -158,6 +158,7 @@
 ### Erlang
 
 - [Erlang grpc](https://github.com/bluehouse-technology/grpc) - Erlang library for gRPC
+- [grpcbox](https://github.com/tsloughter/grpcbox) - Erlang grpc client and server
 
 <a name="other-elixir"></a>
 ### Elixir
