@@ -43,6 +43,7 @@
 - [Technical documentation](https://github.com/grpc/grpc/tree/master/doc) - Collection of useful technical documentation
 - [gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) - Status codes and their use in gRPC
 - [gRPC status code mapping](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) - HTTP to gRPC Status Code Mapping
+- [API Design Guide ](https://cloud.google.com/apis/design/) - Google Cloud API Design Guide useful for gRPC API design insights
 
 ## Community
 
@@ -200,7 +201,10 @@
 - [Our experience designing and building gRPC services](https://blog.bugsnag.com/using-grpc-in-production/) - Blog series from Bugsnag on building a new Releases dashboard backend using gRPC
 - [Writing gRPC Interceptors in Go](https://medium.com/@shijuvar/writing-grpc-interceptors-in-go-bf3e7671fe48) - A simple tutorial on gRPC Interceptors
 - [An introduction to gRPC](https://devopedia.org/grpc)
-
+- [How we use gRPC to build a client/server system in Go](https://medium.com/pantomath/how-we-use-grpc-to-build-a-client-server-system-in-go-dd20045fa1c2) - A technical presentation on how to use gRPC (and Protobuf) to build a robust client/server system
+- [Serving gRPC and HTTP services on the same port](https://www.d3void.net/post/grpc-with-http/)
+ - Small tutorial on how to serve http and gRPC on same port in Go
+ 
 <a name="res-videos"></a>
 ### Videos
 
