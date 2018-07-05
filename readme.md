@@ -42,7 +42,7 @@
 - [Website](https://grpc.io/) - Official documentation, libraries, resources, samples and FAQ
 - [Technical documentation](https://github.com/grpc/grpc/tree/master/doc) - Collection of useful technical documentation
 - [gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) - Status codes and their use in gRPC
-- [gRPC status code mapping](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) - HTTP to gRPC Status Code Mapping
+- [gRPC status code mapping](https://github.com/grpc/grpc/blob/master/doc/http-grpc-status-mapping.md) - HTTP to gRPC Status Code Mapping
 - [API Design Guide ](https://cloud.google.com/apis/design/) - Google Cloud API Design Guide useful for gRPC API design insights
 
 ## Community
