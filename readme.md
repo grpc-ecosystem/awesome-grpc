@@ -80,7 +80,7 @@
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [danby](https://github.com/ericbets/danby) - A grpc proxy for the browser 
 - [docker-protoc](https://github.com/namely/docker-protoc) - Dockerized protoc, grpc-gateway, and grpc_cli commands bundled with Google API libraries
-- [grpcannon](https://github.com/bojand/grpcannon) - Simple gRPC benchmarking and load testing tool inspired by hey and grpcurl 
+- [ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool inspired by hey and grpcurl 
 
 <a name="other-go"></a>
 ### Go
