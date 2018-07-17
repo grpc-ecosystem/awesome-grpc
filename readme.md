@@ -117,6 +117,7 @@
 - [grpc-client-promise](https://github.com/lvgithub/grpc-promise) - Grpc-promise also support Promise API. Which works very well with ES7 async await.
 - [grpc-dynamic-gateway](https://github.com/konsumer/grpc-dynamic-gateway) - Like grpc-gateway, but written in node and dynamic.
 - [node-protoc-plugin](https://github.com/konsumer/node-protoc-plugin) - Create protoc code-generation plugins easily in nodejs.
+- [grpc-promise](https://github.com/carlessistare/grpc-promise) - GRPC promisify module for all Request/Response types: standard and stream
 
 <a name="other-java"></a>
 ### Java
