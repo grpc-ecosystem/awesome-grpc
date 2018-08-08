@@ -69,6 +69,7 @@
 <a name="other-tools"></a>
 ### Tools
 
+- [polyglot](https://github.com/grpc-ecosystem/polyglot) - A gRPC command line client written in Java
 - [letmegrpc](https://github.com/gogo/letmegrpc) - Generate a web form gui from a grpc specification
 - [grpcc](https://github.com/njpatel/grpcc) - Node.js grpc command-line client
 - [gcall](https://github.com/bojand/gcall) - Simple Node.js gRPC command line interface
