@@ -207,6 +207,7 @@
 - [How we use gRPC to build a client/server system in Go](https://medium.com/pantomath/how-we-use-grpc-to-build-a-client-server-system-in-go-dd20045fa1c2) - A technical presentation on how to use gRPC (and Protobuf) to build a robust client/server system
 - [Serving gRPC and HTTP services on the same port](https://www.d3void.net/post/grpc-with-http/) - Small tutorial on how to serve http and gRPC on same port in Go
 - [Take a REST with HTTP/2, Protobufs, and Swagger](https://coreos.com/blog/grpc-protobufs-swagger.html) - Small tutorial on how to serve http and gRPC on same port in Go
+- [OpenCensus for Go gRPC developers](https://medium.com/@orijtech/opencensus-for-go-grpc-developers-7f3ee1ac3d6d) - Tutorial on how to use OpenCensus with gRPC and Go
  
 <a name="res-videos"></a>
 ### Videos
