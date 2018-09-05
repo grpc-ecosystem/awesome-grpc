@@ -289,6 +289,7 @@ Tim Burks
 - [prototool](https://github.com/uber/prototool) - Compile, lint, and format Protobuf files, and generate stubs for any lanuguage/plugin, along with Vim/IDE integration
 - [protoc-gen-validate](https://github.com/lyft/protoc-gen-validate) - Protoc plugin to generate polyglot message validators
 - [go-proto-validators](https://github.com/mwitkow/go-proto-validators) - Generate message validators from .proto annotations, used in `grpc_validator` Go gRPC middleware.
+- [protolock](https://github.com/nilslice/protolock) - Protocol Buffer companion tool to `protoc` and `git`. Track your .proto files and prevent changes to messages and services which impact API compatibilty.
 
 ### Similar
 
