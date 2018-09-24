@@ -105,6 +105,7 @@
 - [promgrpc](https://github.com/piotrkowalczuk/promgrpc) - Prometheus instrumentation for gRPC based services
 - [protoreflect](https://github.com/jhump/protoreflect) - Reflection (Rich Descriptors) for Go Protocol Buffers
 - [grpchan](https://github.com/fullstorydev/grpchan) - Channels for gRPC: custom transports, such as in-process and HTTP 1.1
+- [clay](https://github.com/utrack/clay) - Minimal server platform for gRPС+REST+Swagger APIs
 
 <a name="other-nodejs"></a>
 ### Node.js
