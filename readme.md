@@ -107,6 +107,7 @@
 - [grpchan](https://github.com/fullstorydev/grpchan) - Channels for gRPC: custom transports, such as in-process and HTTP 1.1
 - [clay](https://github.com/utrack/clay) - Minimal server platform for gRPС+REST+Swagger APIs
 - [protoc-gen-cobra](https://github.com/fiorix/protoc-gen-cobra) - Cobra command line tool generator for Go gRPC
+- [grpc-consul-resolver](https://github.com/mbobakov/grpc-consul-resolver) - Easy to use endpoints resolver for the services registered in the [Consul](https://www.consul.io/)
 
 <a name="other-nodejs"></a>
 ### Node.js
