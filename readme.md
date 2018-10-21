@@ -99,7 +99,6 @@
 - [go-microservice-helpers](https://github.com/google/go-microservice-helpers) - A collection of handy snippets that simplify creation of gRPC servers and clients
 - [lile](https://github.com/lileio/lile) - Easily create gRPC services in Go
 - [proteus](https://github.com/src-d/proteus) - Generate .proto files from Go source code
-- [protoc-gen-cobra](https://github.com/fiorix/protoc-gen-cobra) - command line tool generator for Go gRPC
 - [gRPC over WebSocket](https://github.com/glerchundi/grpc-boomerang) - connect to a gRPC Server behind a firewall by using a pre-established WebSocket connection
 - [yarpc](https://github.com/yarpc/yarpc-go) - A message passing platform for Go, including support for gRPC
 - [promgrpc](https://github.com/piotrkowalczuk/promgrpc) - Prometheus instrumentation for gRPC based services
