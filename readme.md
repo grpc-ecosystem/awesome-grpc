@@ -188,6 +188,7 @@
 ### Scala
 
 - [ScalaPB](https://scalapb.github.io/) - Protocol Buffer Compiler for Scala
+- [Akka-gRPC](https://developer.lightbend.com/docs/akka-grpc/current/) - Akka gRPC provides support for building streaming gRPC servers and clients on top of Akka Streams.
 
 <a name="other-dart"></a>
 ### Dart
