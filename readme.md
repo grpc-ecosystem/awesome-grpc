@@ -99,14 +99,13 @@
 - [go-microservice-helpers](https://github.com/google/go-microservice-helpers) - A collection of handy snippets that simplify creation of gRPC servers and clients
 - [lile](https://github.com/lileio/lile) - Easily create gRPC services in Go
 - [proteus](https://github.com/src-d/proteus) - Generate .proto files from Go source code
-- [protoc-gen-cobra](https://github.com/fiorix/protoc-gen-cobra) - command line tool generator for Go gRPC
+- [protoc-gen-cobra](https://github.com/fiorix/protoc-gen-cobra) - Command line tool generator for Go gRPC
 - [gRPC over WebSocket](https://github.com/glerchundi/grpc-boomerang) - connect to a gRPC Server behind a firewall by using a pre-established WebSocket connection
 - [yarpc](https://github.com/yarpc/yarpc-go) - A message passing platform for Go, including support for gRPC
 - [promgrpc](https://github.com/piotrkowalczuk/promgrpc) - Prometheus instrumentation for gRPC based services
 - [protoreflect](https://github.com/jhump/protoreflect) - Reflection (Rich Descriptors) for Go Protocol Buffers
 - [grpchan](https://github.com/fullstorydev/grpchan) - Channels for gRPC: custom transports, such as in-process and HTTP 1.1
 - [clay](https://github.com/utrack/clay) - Minimal server platform for gRPС+REST+Swagger APIs
-- [protoc-gen-cobra](https://github.com/fiorix/protoc-gen-cobra) - Cobra command line tool generator for Go gRPC
 - [grpc-consul-resolver](https://github.com/mbobakov/grpc-consul-resolver) - Easy to use endpoints resolver for the services registered in the [Consul](https://www.consul.io/)
 
 <a name="other-nodejs"></a>
