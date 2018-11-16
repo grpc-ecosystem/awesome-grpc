@@ -216,6 +216,8 @@
 - [How to develop Go gRPC microservice with HTTP/REST endpoint, middleware, Kubernetes deployment, etc](https://medium.com/@amsokol.com/tutorial-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-kubernetes-daebb36a97e9) - A series of blog posts for gRPC development using Go. [Source code](https://github.com/amsokol/go-grpc-http-rest-microservice-tutorial).
 - [GopherJS Client and gRPC Server](https://jbrandhorst.com/post/gopherjs-client-grpc-server/) - A guide to implementing a GopherJS frontend to a gRPC backend exposed over HTTP via the gRPC-gateway. Also available [related gRPC-Web with GopherJS tutorial](https://jbrandhorst.com/post/gopherjs-grpcweb/).
 - [The G-Unit Stack: Go, GraphQL, and gRPC](https://iheanyi.com/journal/2018/05/12/the-g-unit-stack-go-graphql-and-grpc/) - A blog post and tutorial on using Go, GraphQL and gRPC. Associated [repo](https://github.com/iheanyi/go-grpc-graphql-simple-example).
+- [Envoy, gRPC, and Rate Limiting](https://venilnoronha.io/envoy-grpc-and-rate-limiting) - A tutorial on using gRPC and Envoy to build a rate limit service - [Venil Noronha](https://venilnoronha.io), VMware Open Source Technology Center
+- [Seamless Cloud-Native Apps with gRPC-Web and Istio](https://venilnoronha.io/seamless-cloud-native-apps-with-grpc-web-and-istio) - A tutorial on building a Cloud-Native web app using gRPC-Web and Istio - [Venil Noronha](https://venilnoronha.io), VMware Open Source Technology Center
  
 <a name="res-videos"></a>
 ### Videos
