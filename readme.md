@@ -218,6 +218,7 @@
 - [The G-Unit Stack: Go, GraphQL, and gRPC](https://iheanyi.com/journal/2018/05/12/the-g-unit-stack-go-graphql-and-grpc/) - A blog post and tutorial on using Go, GraphQL and gRPC. Associated [repo](https://github.com/iheanyi/go-grpc-graphql-simple-example).
 - [Envoy, gRPC, and Rate Limiting](https://venilnoronha.io/envoy-grpc-and-rate-limiting) - A tutorial on using gRPC and Envoy to build a rate limit service - [Venil Noronha](https://venilnoronha.io), VMware Open Source Technology Center
 - [Seamless Cloud-Native Apps with gRPC-Web and Istio](https://venilnoronha.io/seamless-cloud-native-apps-with-grpc-web-and-istio) - A tutorial on building a Cloud-Native web app using gRPC-Web and Istio - [Venil Noronha](https://venilnoronha.io), VMware Open Source Technology Center
+- [Backward and Forward Compatibility, Protobuf Versioning, Serialization](https://www.beautifulcode.co/backward-and-forward-compatibility-protobuf-versioning-serialization) - A small article on making gRPC API changes
  
 <a name="res-videos"></a>
 ### Videos
