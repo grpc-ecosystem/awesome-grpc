@@ -80,6 +80,7 @@
 - [ProfaneDB](https://gitlab.com/ProfaneDB/ProfaneDB) - A Protocol Buffers database with gRPC API, built in C++ on top of RocksDB
 - [Evans](https://github.com/ktr0731/evans) - more expressive universal gRPC (CLI) client
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+- [grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman (also, a Go library for embedding these web UIs into Go HTTP servers)
 - [danby](https://github.com/ericbets/danby) - A grpc proxy for the browser 
 - [docker-protoc](https://github.com/namely/docker-protoc) - Dockerized protoc, grpc-gateway, and grpc_cli commands bundled with Google API libraries
 - [ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool inspired by hey and grpcurl 
@@ -105,6 +106,7 @@
 - [promgrpc](https://github.com/piotrkowalczuk/promgrpc) - Prometheus instrumentation for gRPC based services
 - [protoreflect](https://github.com/jhump/protoreflect) - Reflection (Rich Descriptors) for Go Protocol Buffers
 - [grpchan](https://github.com/fullstorydev/grpchan) - Channels for gRPC: custom transports, such as in-process and HTTP 1.1
+- [grpcui](https://github.com/fullstorydev/grpcui) - Embed a gRPC web UI into a Go gRPC/HTTP server
 - [clay](https://github.com/utrack/clay) - Minimal server platform for gRPС+REST+Swagger APIs
 - [grpc-consul-resolver](https://github.com/mbobakov/grpc-consul-resolver) - Easy to use endpoints resolver for the services registered in the [Consul](https://www.consul.io/)
 
