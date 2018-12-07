@@ -109,6 +109,7 @@
 - [grpcui](https://github.com/fullstorydev/grpcui) - Embed a gRPC web UI into a Go gRPC/HTTP server
 - [clay](https://github.com/utrack/clay) - Minimal server platform for gRPС+REST+Swagger APIs
 - [grpc-consul-resolver](https://github.com/mbobakov/grpc-consul-resolver) - Easy to use endpoints resolver for the services registered in the [Consul](https://www.consul.io/)
+- [kuberesolver](https://github.com/sercand/kuberesolver) - gRPC Load Balancer with Kubernetes resolver
 
 <a name="other-nodejs"></a>
 ### Node.js
