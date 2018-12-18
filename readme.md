@@ -26,6 +26,7 @@
   * [TypeScript](#other-ts)
   * [Scala](#other-scala)
   * [Dart](#other-dart)
+  * [Kotlin](#other-kotlin)
 - [Resources](#resources)
   * [Tutorials](#res-tuts)
   * [Videos](#res-videos)
@@ -197,6 +198,11 @@
 ### Dart
 
 - [grpc-dart](https://pub.dartlang.org/packages/grpc) - Protocol Buffer Compiler for Dart
+
+<a name="other-kotlin"></a>
+### Kotlin
+
+- [kroto-plus](https://github.com/marcoferrer/kroto-plus) - gRPC Coroutines Integration and Protobuf message DSL support
 
 ## Resources
 
