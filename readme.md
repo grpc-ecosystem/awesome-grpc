@@ -256,6 +256,8 @@
 - [gRPC Java Course on Udemy](http://bit.ly/grpc-java-github) - Online Course (4 hours) that walks through several examples and implementations of gRPC using the Java Language
 - [HTTP and JSON for your gRPC Services - Michael Hamrah](https://www.youtube.com/watch?v=AmXo6tPGUdQ) - from Full Stack Fest
 - [Types All the Way Down — gRPC and Go Infrastructure at Lyft](https://www.youtube.com/watch?v=ZqPTKJu2QFk) - Christopher Burnett  at Istanbul Tech Talks
+- [Using gRPC for Long-lived and Streaming RPCs](https://www.youtube.com/watch?v=Naonb2XD_2Q) - Eric Anderson, Google at KubeCon North America 2018
+- [Intro: gRPC-Web](https://www.youtube.com/watch?v=RtyKEDZipsM) - Stanley Cheung & Wenbo Zhu, Google at at KubeCon North America 2018
 
 <a name="res-slides"></a>
 ### Slides
