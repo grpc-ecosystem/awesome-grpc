@@ -172,6 +172,7 @@
 
 - [Erlang grpc](https://github.com/bluehouse-technology/grpc) - Erlang library for gRPC
 - [grpcbox](https://github.com/tsloughter/grpcbox) - Erlang grpc client and server
+- [bert](https://github.com/synrc/bert) - Erlang Google Protobuf V3 generator from HRL files
 
 <a name="other-elixir"></a>
 ### Elixir
