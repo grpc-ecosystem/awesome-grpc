@@ -60,6 +60,7 @@
 - [gRPC Go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [gRPC Swift](https://github.com/grpc/grpc-swift) - The Swift language implementation of gRPC
 - [gRPC Dart](https://github.com/grpc/grpc-dart) - The Dart language implementation of gRPC
+- [gRPC C#](https://github.com/grpc/grpc-dotnet) - The C# language implementation of gRPC
 - [gRPC Web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [gRPC Ecosystem](https://github.com/grpc-ecosystem) - gRPC Ecosystem that complements gRPC
 - [gRPC contrib](https://github.com/grpc/grpc-contrib) - Known useful contributions around github
@@ -288,6 +289,7 @@ Tim Burks
 - [gRPC/OpenCensus Demo](https://github.com/rakyll/opencensus-grpc-demo) - Export metrics and traces from gRPC servers and clients using Java, Go and Prometheus
 - [go-micro-services](https://github.com/harlow/go-micro-services) - An demonstration of Golang micro-services that expose a HTTP/JSON frontend and then leverages gRPC for inter-service communication
 - [Colossus](https://github.com/lucperkins/colossus) - An example multi-language gRPC microservice architecture built by Bazel and targeting Kubernetes
+- [coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A containerized polyglot gRPC microservices based on .NET Core, Nodejs and more running on Istio
 
 <a name="res-misc"></a>
 ### Miscellaneous
