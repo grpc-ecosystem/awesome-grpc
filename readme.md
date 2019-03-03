@@ -78,7 +78,7 @@
 - [gcall](https://github.com/bojand/gcall) - Simple Node.js gRPC command line interface
 - [kafka-pixy](https://github.com/mwitkow/grpc-proxy) - gRPC/REST proxy for Kafka
 - [ratelimit](https://github.com/lyft/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications
-- [omgRPC](https://github.com/troylelandshields/omgrpc)(Depreciated) - A GUI client for interacting with gRPC services, similar to what Postman is for REST APIs
+- [omgRPC](https://github.com/troylelandshields/omgrpc)(Deprecated) - A GUI client for interacting with gRPC services, similar to what Postman is for REST APIs
 - [ProfaneDB](https://gitlab.com/ProfaneDB/ProfaneDB) - A Protocol Buffers database with gRPC API, built in C++ on top of RocksDB
 - [Evans](https://github.com/ktr0731/evans) - more expressive universal gRPC (CLI) client
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
