@@ -27,6 +27,7 @@
   * [Scala](#other-scala)
   * [Dart](#other-dart)
   * [Kotlin](#other-kotlin)
+  * [Perl](#other-perl)
 - [Resources](#resources)
   * [Tutorials](#res-tuts)
   * [Videos](#res-videos)
