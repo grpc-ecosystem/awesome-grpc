@@ -113,6 +113,7 @@
 - [clay](https://github.com/utrack/clay) - Minimal server platform for gRPС+REST+Swagger APIs
 - [grpc-consul-resolver](https://github.com/mbobakov/grpc-consul-resolver) - Easy to use endpoints resolver for the services registered in the [Consul](https://www.consul.io/)
 - [kuberesolver](https://github.com/sercand/kuberesolver) - gRPC Load Balancer with Kubernetes resolver
+- [ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments
 
 <a name="other-nodejs"></a>
 ### Node.js
