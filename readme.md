@@ -208,6 +208,11 @@
 
 - [kroto-plus](https://github.com/marcoferrer/kroto-plus) - gRPC Coroutines Integration and Protobuf message DSL support
 
+<a name="other-perl"></a>
+### Perl
+
+- [grpc-perl](https://github.com/joyrex2001/grpc-perl) - Experimental Perl gRPC library supporting grpc client
+
 ## Resources
 
 <a name="res-tuts"></a>
