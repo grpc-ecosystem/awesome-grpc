@@ -120,6 +120,7 @@
 ### Node.js
 - [Mali](https://github.com/malijs/mali) - A minimalistic gRPC microservice framework for Node.js
 - [Condor Framework](https://github.com/devsu/condor-framework) - Framework for building gRPC services in Node JS
+- [grpc-host-builder](https://github.com/litichevskiydv/grpc-host-builder) - Lightweight library for building gRPC services with server side interceptors support
 - [grpc-caller](https://github.com/bojand/grpc-caller) - An improved Node.js gRPC client
 - [grpc-create-metadata](https://github.com/bojand/grpc-create-metadata) - Helper utility for creating gRPC `Metadata`
 - [grpc-create-error](https://github.com/bojand/grpc-create-error) - Utility function for creating `Errors` for gRPC responses
