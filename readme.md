@@ -287,6 +287,7 @@ Varun Talwar
 - [OpenAPI and gRPC Side by-Side](https://www.slideshare.net/timburks/openapi-and-grpc-side-byside) - APIStrat Conference - 
 Tim Burks
 - [Go+Microservices at Mercari](https://talks.godoc.org/github.com/tcnksm/talks/2017/11/gocon2017/gocon2017.slide) - Taichi Nakashima at Go Conference 2017
+- [gRPC - RPC rebirth?] (https://www.slideshare.net/LusBarbosa9/grpcrpc-rebirth) - Presentation about gRPC at the 23. NetPonto community meeting in Porto by Luís Barbosa
 
 <a name="res-examples"></a>
 ### Examples
