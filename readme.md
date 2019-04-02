@@ -10,29 +10,28 @@
 - [Documentation](#documentation)
 - [Community](#community)
 - [Official Libraries and Tools](#official)
-- [Other](#other)
 - [Tools](#tools)
   * [CLI](#tools-cli)
   * [GUI](#tools-gui)
   * [Testing](#tools-test)
   * [Other](#tools-other)
 - [Language-Specific](#lang)
-  * [Go](#other-go)
-  * [Node.js](#other-nodejs)
-  * [Java](#other-java)
-  * [Ruby](#other-ruby)
-  * [Python](#other-py)
-  * [C#](#other-cs)
-  * [Rust](#other-rust)
-  * [Haskell](#other-hs)
-  * [Erlang](#other-erlang)
-  * [Elixir](#other-elixir)
-  * [Elm](#other-elm)
-  * [TypeScript](#other-ts)
-  * [Scala](#other-scala)
-  * [Dart](#other-dart)
-  * [Kotlin](#other-kotlin)
-  * [Perl](#other-perl)
+  * [Go](#lang-go)
+  * [Node.js](#lang-nodejs)
+  * [Java](#lang-java)
+  * [Ruby](#lang-ruby)
+  * [Python](#lang-py)
+  * [C#](#lang-cs)
+  * [Rust](#lang-rust)
+  * [Haskell](#lang-hs)
+  * [Erlang](#lang-erlang)
+  * [Elixir](#lang-elixir)
+  * [Elm](#lang-elm)
+  * [TypeScript](#lang-ts)
+  * [Scala](#lang-scala)
+  * [Dart](#lang-dart)
+  * [Kotlin](#lang-kotlin)
+  * [Perl](#lang-perl)
 - [Resources](#resources)
   * [Tutorials](#res-tuts)
   * [Videos](#res-videos)
@@ -114,7 +113,7 @@
 <a name="lang"></a>
 ## Language-Specific
 
-<a name="other-go"></a>
+<a name="lang-go"></a>
 ### Go
 
 - [go-GRPC Micro](https://github.com/micro/go-grpc) - [Micro](https://github.com/micro) based gRPC framework for microservices
@@ -139,7 +138,7 @@
 - [kuberesolver](https://github.com/sercand/kuberesolver) - gRPC Load Balancer with Kubernetes resolver
 - [ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments
 
-<a name="other-nodejs"></a>
+<a name="lang-nodejs"></a>
 ### Node.js
 - [Mali](https://github.com/malijs/mali) - A minimalistic gRPC microservice framework for Node.js
 - [Condor Framework](https://github.com/devsu/condor-framework) - Framework for building gRPC services in Node JS
@@ -157,7 +156,7 @@
 - [node-protoc-plugin](https://github.com/konsumer/node-protoc-plugin) - Create protoc code-generation plugins easily in nodejs.
 - [grpc-promise](https://github.com/carlessistare/grpc-promise) - GRPC promisify module for all Request/Response types: standard and stream
 
-<a name="other-java"></a>
+<a name="lang-java"></a>
 ### Java
 
 - [gax-java](https://github.com/googleapis/gax-java) - Google API Extensions for Java
@@ -167,75 +166,75 @@
 - [grpc-java-contrib](https://github.com/salesforce/grpc-java-contrib) - Useful extensions for the grpc-java library
 - [rejoiner](https://github.com/google/rejoiner) - Generates a GraphQL schema from gRPC microservices
 
-<a name="other-ruby"></a>
+<a name="lang-ruby"></a>
 ### Ruby
 
 - [gruf](https://github.com/bigcommerce/gruf) - gRPC Ruby Framework
 
-<a name="other-py"></a>
+<a name="lang-py"></a>
 ### Python
 
 - [grpclib](https://github.com/vmagamedov/grpclib) - Pure-Python gRPC implementation, based on hyper-h2 project
 - [pytest-grpc](https://github.com/kataev/pytest-grpc) - pytest plugin which allow test gRPC services
 
-<a name="other-cs"></a>
+<a name="lang-cs"></a>
 ### C#
 
 - [MagicOnion](https://github.com/neuecc/MagicOnion) - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity
 
-<a name="other-rust"></a>
+<a name="lang-rust"></a>
 ### Rust
 
 - [grpc-rs](https://github.com/pingcap/grpc-rs) - The gRPC library for Rust built on C Core library and futures
 - [grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
 - [tower-grpc](https://github.com/tower-rs/tower-grpc) - A client and server gRPC implementation based on Tower
 
-<a name="other-hs"></a>
+<a name="lang-hs"></a>
 ### Haskell
 
 - [grpc-haskell](https://github.com/grpc/grpc-haskell) - gRPC library binding for Haskell
 
-<a name="other-erlang"></a>
+<a name="lang-erlang"></a>
 ### Erlang
 
 - [Erlang grpc](https://github.com/bluehouse-technology/grpc) - Erlang library for gRPC
 - [grpcbox](https://github.com/tsloughter/grpcbox) - Erlang grpc client and server
 - [bert](https://github.com/synrc/bert) - Erlang Google Protobuf V3 generator from HRL files
 
-<a name="other-elixir"></a>
+<a name="lang-elixir"></a>
 ### Elixir
 
 - [grpc-elixir](https://github.com/tony612/grpc-elixir) - The Elixir implementation of gRPC
 
-<a name="other-elm"></a>
+<a name="lang-elm"></a>
 ### Elm
 
 - [elm-protobuf](https://github.com/tiziano88/elm-protobuf) - Protoc plugin generating elm code from proto definitions
 
-<a name="other-ts"></a>
+<a name="lang-ts"></a>
 ### TypeScript
 
 - [ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protoc Plugin for TypeScript Declarations
 - [protoc-gen-tstypes](https://godoc.org/github.com/tmc/grpcutil/protoc-gen-tstypes) - Configurable Protoc Plugin to generate TypeScript types.
 
-<a name="other-scala"></a>
+<a name="lang-scala"></a>
 ### Scala
 
 - [ScalaPB](https://scalapb.github.io/) - Protocol Buffer Compiler for Scala
 - [Akka-gRPC](https://developer.lightbend.com/docs/akka-grpc/current/) - Akka gRPC provides support for building streaming gRPC servers and clients on top of Akka Streams.
 - [Mu](https://higherkindness.io/mu/) - Mu RPC is a purely functional library for building RPC endpoint-based services with support for gRPC and HTTP/2
 
-<a name="other-dart"></a>
+<a name="lang-dart"></a>
 ### Dart
 
 - [grpc-dart](https://pub.dartlang.org/packages/grpc) - Protocol Buffer Compiler for Dart
 
-<a name="other-kotlin"></a>
+<a name="lang-kotlin"></a>
 ### Kotlin
 
 - [kroto-plus](https://github.com/marcoferrer/kroto-plus) - gRPC Coroutines Integration and Protobuf message DSL support
 
-<a name="other-perl"></a>
+<a name="lang-perl"></a>
 ### Perl
 
 - [grpc-perl](https://github.com/joyrex2001/grpc-perl) - Experimental Perl gRPC library supporting grpc client
