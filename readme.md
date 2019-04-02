@@ -11,11 +11,12 @@
 - [Community](#community)
 - [Official Libraries and Tools](#official)
 - [Other](#other)
-  * [Tools](#other-tools)
-    + [CLI](#tools-cli)
-    + [GUI](#tools-gui)
-    + [Testing](#tools-test)
-    + [Other](#tools-other)
+- [Tools](#tools)
+  * [CLI](#tools-cli)
+  * [GUI](#tools-gui)
+  * [Testing](#tools-test)
+  * [Other](#tools-other)
+- [Language-Specific](#lang)
   * [Go](#other-go)
   * [Node.js](#other-nodejs)
   * [Java](#other-java)
@@ -72,13 +73,10 @@
 - [Homebrew gRPC](https://github.com/grpc/homebrew-grpc) - gRPC formulae repo for Homebrew
 - [grpc_cli](https://github.com/grpc/grpc/blob/master/doc/command_line_tool.md) - gRPC CLI tool
 
-## Other
-
-<a name="other-tools"></a>
-### Tools
+## Tools
 
 <a name="tools-cli"></a>
-#### CLI
+### CLI
 
 - [polyglot](https://github.com/grpc-ecosystem/polyglot) - A gRPC command line client written in Java
 - [grpcc](https://github.com/njpatel/grpcc) - Node.js grpc command-line client
@@ -87,7 +85,7 @@
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 
 <a name="tools-gui"></a>
-#### GUI
+### GUI
 
 - [letmegrpc](https://github.com/gogo/letmegrpc) - Generate a web form gui from a grpc specification
 - [omgRPC](https://github.com/troylelandshields/omgrpc) (Deprecated) - A GUI client for interacting with gRPC services, similar to what Postman is for REST APIs
@@ -95,7 +93,7 @@
 - [BloomRPC](https://github.com/uw-labs/bloomrpc) - A nice and simple GUI Client. Exploring and interacting with gRPC services has never been simpler, Inspired By GraphQL-Playground and Postman
 
 <a name="tools-test"></a>
-#### Testing
+### Testing
 
 - [ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool inspired by hey and grpcurl 
 - [gatling-grpc](https://github.com/phiSgr/gatling-grpc) - A [Gatling](http://gatling.io/) stress test plugin for gRPC.
@@ -103,7 +101,7 @@
 - [hazana](https://github.com/emicklei/hazana) - A Go package for creating load test tooling. Supports gRPC.
 
 <a name="tools-other"></a>
-#### Other
+### Other
 
 - [kafka-pixy](https://github.com/mwitkow/grpc-proxy) - gRPC/REST proxy for Kafka
 - [ratelimit](https://github.com/lyft/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications
@@ -112,6 +110,9 @@
 - [docker-protoc](https://github.com/namely/docker-protoc) - Dockerized protoc, grpc-gateway, and grpc_cli commands bundled with Google API libraries
 - [grpc-json-proxy](https://github.com/jnewmano/grpc-json-proxy) - A proxy which allows existing tools like Postman or curl to interact with gRPC servers
 - [protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) - Generic generator based on golang's template system
+
+<a name="lang"></a>
+## Language-Specific
 
 <a name="other-go"></a>
 ### Go
