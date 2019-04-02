@@ -14,7 +14,6 @@
   * [CLI](#tools-cli)
   * [GUI](#tools-gui)
   * [Testing](#tools-test)
-  * [Other](#tools-other)
 - [Language-Specific](#lang)
   * [Go](#lang-go)
   * [Node.js](#lang-nodejs)
