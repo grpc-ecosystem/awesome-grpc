@@ -12,6 +12,10 @@
 - [Official Libraries and Tools](#official)
 - [Other](#other)
   * [Tools](#other-tools)
+    + [CLI](#tools-cli)
+    + [GUI](#tools-gui)
+    + [Testing](#tools-test)
+    + [Other](#tools-other)
   * [Go](#other-go)
   * [Node.js](#other-nodejs)
   * [Java](#other-java)
@@ -73,23 +77,41 @@
 <a name="other-tools"></a>
 ### Tools
 
+<a name="tools-cli"></a>
+#### CLI
+
 - [polyglot](https://github.com/grpc-ecosystem/polyglot) - A gRPC command line client written in Java
-- [letmegrpc](https://github.com/gogo/letmegrpc) - Generate a web form gui from a grpc specification
 - [grpcc](https://github.com/njpatel/grpcc) - Node.js grpc command-line client
 - [gcall](https://github.com/bojand/gcall) - Simple Node.js gRPC command line interface
-- [kafka-pixy](https://github.com/mwitkow/grpc-proxy) - gRPC/REST proxy for Kafka
-- [ratelimit](https://github.com/lyft/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications
-- [omgRPC](https://github.com/troylelandshields/omgrpc)(Deprecated) - A GUI client for interacting with gRPC services, similar to what Postman is for REST APIs
-- [ProfaneDB](https://gitlab.com/ProfaneDB/ProfaneDB) - A Protocol Buffers database with gRPC API, built in C++ on top of RocksDB
 - [Evans](https://github.com/ktr0731/evans) - more expressive universal gRPC (CLI) client
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+
+<a name="tools-gui"></a>
+#### GUI
+
+- [letmegrpc](https://github.com/gogo/letmegrpc) - Generate a web form gui from a grpc specification
+- [omgRPC](https://github.com/troylelandshields/omgrpc) (Deprecated) - A GUI client for interacting with gRPC services, similar to what Postman is for REST APIs
 - [grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman (also, a Go library for embedding these web UIs into Go HTTP servers)
+- [BloomRPC](https://github.com/uw-labs/bloomrpc) - A nice and simple GUI Client. Exploring and interacting with gRPC services has never been simpler, Inspired By GraphQL-Playground and Postman
+
+<a name="tools-test"></a>
+#### Testing
+
+- [ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool inspired by hey and grpcurl 
+- [gatling-grpc](https://github.com/phiSgr/gatling-grpc) - A [Gatling](http://gatling.io/) stress test plugin for gRPC.
+- [strest-grpc](https://github.com/BuoyantIO/strest-grpc) - A load tester for stress testing grpc intermediaries. 
+- [hazana](https://github.com/emicklei/hazana) - A Go package for creating load test tooling. Supports gRPC.
+
+<a name="tools-other"></a>
+#### Other
+
+- [kafka-pixy](https://github.com/mwitkow/grpc-proxy) - gRPC/REST proxy for Kafka
+- [ratelimit](https://github.com/lyft/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications
+- [ProfaneDB](https://gitlab.com/ProfaneDB/ProfaneDB) - A Protocol Buffers database with gRPC API, built in C++ on top of RocksDB
 - [danby](https://github.com/ericbets/danby) - A grpc proxy for the browser 
 - [docker-protoc](https://github.com/namely/docker-protoc) - Dockerized protoc, grpc-gateway, and grpc_cli commands bundled with Google API libraries
-- [ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool inspired by hey and grpcurl 
 - [grpc-json-proxy](https://github.com/jnewmano/grpc-json-proxy) - A proxy which allows existing tools like Postman or curl to interact with gRPC servers
 - [protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) - Generic generator based on golang's template system
-- [BloomRPC](https://github.com/uw-labs/bloomrpc) - A nice and simple GUI Client. Exploring and interacting with gRPC services has never been simpler, Inspired By GraphQL-Playground and Postman
 
 <a name="other-go"></a>
 ### Go
