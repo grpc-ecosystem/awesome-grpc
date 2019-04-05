@@ -102,7 +102,8 @@
 <a name="tools-other"></a>
 ### Other
 
-- [kafka-pixy](https://github.com/mwitkow/grpc-proxy) - gRPC/REST proxy for Kafka
+- [kafka-pixy](https://github.com/mailgun/kafka-pixy) - gRPC/REST proxy for Kafka
+- [grpc-proxy](https://github.com/mwitkow/grpc-proxy) - gRPC reverse proxy with the goal of making it easy to expose gRPC services over the internet
 - [ratelimit](https://github.com/lyft/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications
 - [ProfaneDB](https://gitlab.com/ProfaneDB/ProfaneDB) - A Protocol Buffers database with gRPC API, built in C++ on top of RocksDB
 - [danby](https://github.com/ericbets/danby) - A grpc proxy for the browser 
