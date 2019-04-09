@@ -296,6 +296,7 @@
 - [Using gRPC for Long-lived and Streaming RPCs](https://www.youtube.com/watch?v=Naonb2XD_2Q) - Eric Anderson, Google at KubeCon North America 2018
 - [Intro: gRPC-Web](https://www.youtube.com/watch?v=RtyKEDZipsM) - Stanley Cheung & Wenbo Zhu, Google at at KubeCon North America 2018
 - [gRPC Loadbalancing on Kubernetes](https://www.youtube.com/watch?v=F2znfxn_5Hg) - Presentation at KubeCon Europe 2018. [Source](https://github.com/jtattermusch/grpc-loadbalancing-kubernetes-examples).
+- [Putting gRPC in Practice](https://www.youtube.com/watch?v=8KWmNw9jQ04) - Presentation on working with gRPC.
 
 <a name="res-slides"></a>
 ### Slides
