@@ -332,6 +332,7 @@ Tim Burks
 - [gRPC with Load Balancer or Proxy or on AWS](https://gist.github.com/bojand/6a604f7e369d7c7d8c39eb77878a42c2) - Various notes on doing gRPC behind a load balancer or proxy or on AWS
 - [gRPC service upgrade, versioning](https://groups.google.com/forum/#!topic/grpc-io/LPsPg5ctQd4) - A short possibly useful discussion on gRPC service upgrade and versioning
 - [Packaging Generated Code for gRPC Services](https://blog.bugsnag.com/libraries-for-grpc-services/) - An article demonstrating a strategy on how to version and package gRPC libraries
+- [Migrating APIs from REST to gRPC at WePay](https://wecode.wepay.com/posts/migrating-apis-from-rest-to-grpc-at-wepay) - A blog post on migrating from REST to gRPC
 
 <a name="proto"></a>
 ## Protocol Buffers
