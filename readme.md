@@ -180,6 +180,7 @@
 
 - [grpclib](https://github.com/vmagamedov/grpclib) - Pure-Python gRPC implementation, based on hyper-h2 project
 - [pytest-grpc](https://github.com/kataev/pytest-grpc) - pytest plugin which allow test gRPC services
+- [grpcalchemy](https://github.com/GuangTianLi/grpcalchemy) - The Python micro framework for building gPRC application
 
 <a name="lang-cs"></a>
 ### C#
