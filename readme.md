@@ -115,6 +115,7 @@
 - [docker-protoc](https://github.com/namely/docker-protoc) - Dockerized protoc, grpc-gateway, and grpc_cli commands bundled with Google API libraries
 - [grpc-json-proxy](https://github.com/jnewmano/grpc-json-proxy) - A proxy which allows existing tools like Postman or curl to interact with gRPC servers
 - [protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) - Generic generator based on golang's template system
+- [grpc-http-proxy](https://github.com/mercari/grpc-http-proxy) - A reverse proxy server which translate JSON HTTP requests to gRPC calls based on protoreflect
 
 <a name="lang"></a>
 ## Language-Specific
