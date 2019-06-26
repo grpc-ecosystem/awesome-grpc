@@ -346,7 +346,7 @@ Tim Burks
 <a name="proto"></a>
 ## Protocol Buffers
 
-<a name="proto-doc"></a>
+<a name="proto-docs"></a>
 ### Documentation
 
 - [Website](https://developers.google.com/protocol-buffers/) - Official website an documentation
