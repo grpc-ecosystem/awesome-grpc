@@ -149,7 +149,6 @@
 <a name="lang-nodejs"></a>
 ### Node.js
 - [Mali](https://github.com/malijs/mali) - A minimalistic gRPC microservice framework for Node.js
-- [Condor Framework](https://github.com/devsu/condor-framework) - Framework for building gRPC services in Node JS
 - [grpc-host-builder](https://github.com/litichevskiydv/grpc-host-builder) - Lightweight library for building gRPC services with server side interceptors support
 - [grpc-caller](https://github.com/bojand/grpc-caller) - An improved Node.js gRPC client
 - [grpc-create-metadata](https://github.com/bojand/grpc-create-metadata) - Helper utility for creating gRPC `Metadata`
@@ -347,7 +346,7 @@ Tim Burks
 <a name="proto"></a>
 ## Protocol Buffers
 
-<a name="proto-doc"></a>
+<a name="proto-docs"></a>
 ### Documentation
 
 - [Website](https://developers.google.com/protocol-buffers/) - Official website an documentation
