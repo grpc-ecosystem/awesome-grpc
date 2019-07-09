@@ -304,6 +304,10 @@
 - [Intro: gRPC-Web](https://www.youtube.com/watch?v=RtyKEDZipsM) - Stanley Cheung & Wenbo Zhu, Google at at KubeCon North America 2018
 - [gRPC Loadbalancing on Kubernetes](https://www.youtube.com/watch?v=F2znfxn_5Hg) - Presentation at KubeCon Europe 2018. [Source](https://github.com/jtattermusch/grpc-loadbalancing-kubernetes-examples).
 - [Putting gRPC in Practice](https://www.youtube.com/watch?v=8KWmNw9jQ04) - Presentation on working with gRPC.
+- [The Story of Why We Migrate to gRPC and How We Go About It](https://www.youtube.com/watch?v=fMq3IpPE3TU) - Matthias Grüter, Spotify at KubeCon + CloudNativeCon Europe 2019
+- [Authentication and Security in gRPC Microservices](https://www.youtube.com/watch?v=_y-lzjdVEf0) - Jan Tattermusch, Google at KubeCon + CloudNativeCon Europe 2019
+- [JustFootball’s Journey to gRPC + Linkerd in Production](https://www.youtube.com/watch?v=AxPfa7Mp_WY) - Ben Lambert, & Kevin Lingerfelt at KubeCon + CloudNativeCon Europe 2019
+- [gRPC load balancing and Service Mesh](https://www.youtube.com/watch?v=FuXnfGHUZcU) - Vishal Powar, Google at KubeCon + CloudNativeCon Europe 2019
 
 <a name="res-slides"></a>
 ### Slides
