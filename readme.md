@@ -362,6 +362,7 @@ Tim Burks
 
 - [prototools](https://github.com/sourcegraph/prototools) - Documentation generator & other tools for protobuf/gRPC
 - [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
+- [Protoxygen](https://github.com/lisroach/Protoxygen) - [Doxygen](http://doxygen.nl) plugin to generate documentation for protobuf/gRPC
 - [openapi2proto](https://github.com/NYTimes/openapi2proto) - A tool for generating Protobuf v3 schemas and gRPC service definitions from OpenAPI specifications
 - [Wireshark Protobuf Dissector](https://github.com/128technology/protobuf_dissector) - A Wireshark Lua plugin for decoding Google protobuf packets. [Relevant PR and discussion](https://github.com/google/protobuf/issues/3303).
 - [protoc-gen-lint](https://github.com/ckaznocha/protoc-gen-lint) - A plug-in for Google's Protocol Buffers (protobufs) compiler to lint .proto files for style violations
