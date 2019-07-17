@@ -241,6 +241,7 @@
 ### Kotlin
 
 - [kroto-plus](https://github.com/marcoferrer/kroto-plus) - gRPC Coroutines Integration and Protobuf message DSL support
+- [grpc-kotlin](https://github.com/rouzwawi/grpc-kotlin) - A protoc plugin for generating native Kotlin bindings using coroutine primitives for gRPC services
 
 <a name="lang-perl"></a>
 ### Perl
