@@ -146,6 +146,7 @@
 - [kuberesolver](https://github.com/sercand/kuberesolver) - gRPC Load Balancer with Kubernetes resolver
 - [ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments
 - [grapi](https://github.com/izumin5210/grapi) - 😮 A surprisingly easy API server and generator in gRPC and Go
+- [gripmock](https://github.com/tokopedia/gripmock) - gRPC Mock Server
 
 <a name="lang-nodejs"></a>
 ### Node.js
