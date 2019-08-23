@@ -147,6 +147,7 @@
 - [ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments
 - [grapi](https://github.com/izumin5210/grapi) - 😮 A surprisingly easy API server and generator in gRPC and Go
 - [gripmock](https://github.com/tokopedia/gripmock) - gRPC Mock Server
+- [grpc-gateway-boilerplate](https://github.com/johanbrandhorst/grpc-gateway-boilerplate) - All the boilerplate you need to get started with writing grpc-gateway powered REST services in Go
 
 <a name="lang-nodejs"></a>
 ### Node.js
