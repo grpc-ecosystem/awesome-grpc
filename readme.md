@@ -181,6 +181,7 @@
 ### Ruby
 
 - [gruf](https://github.com/bigcommerce/gruf) - gRPC Ruby Framework
+- [gapic-generator-ruby](https://github.com/googleapis/gapic-generator-ruby) - Generates Ruby gRPC client libraries from protocol buffer definitions of an API.
 
 <a name="lang-py"></a>
 ### Python
