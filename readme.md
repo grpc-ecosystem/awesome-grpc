@@ -246,6 +246,8 @@
 
 - [kroto-plus](https://github.com/marcoferrer/kroto-plus) - gRPC Coroutines Integration and Protobuf message DSL support
 - [grpc-kotlin](https://github.com/rouzwawi/grpc-kotlin) - A protoc plugin for generating native Kotlin bindings using coroutine primitives for gRPC services
+- [gapic-generator-kotlin](https://github.com/googleapis/gapic-generator-kotlin) - Generates coroutine-based gRPC Kotlin client libraries from a protocol buffer description of an API
+- [grpc-kapt](https://github.com/google/grpc-kapt) - Annotation driven gRPC clients & servers in Kotlin with coroutines
 
 <a name="lang-perl"></a>
 ### Perl
