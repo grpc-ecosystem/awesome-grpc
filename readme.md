@@ -166,6 +166,7 @@
 - [node-protoc-plugin](https://github.com/konsumer/node-protoc-plugin) - Create protoc code-generation plugins easily in nodejs.
 - [grpc-promise](https://github.com/carlessistare/grpc-promise) - GRPC promisify module for all Request/Response types: standard and stream
 - [firecomm](https://github.com/firecomm/firecomm) - Feature library for gRPC-Node
+- [grpc-web-gateway](https://github.com/dialogs/grpc-web-gateway) – HTTP & WebSocket proxy gateway for gRPC services
 
 <a name="lang-java"></a>
 ### Java
