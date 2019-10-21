@@ -97,9 +97,9 @@
 <a name="tools-test"></a>
 ### Testing
 
-- [ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool inspired by hey and grpcurl 
+- [ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool inspired by hey and grpcurl
 - [gatling-grpc](https://github.com/phiSgr/gatling-grpc) - A [Gatling](http://gatling.io/) stress test plugin for gRPC.
-- [strest-grpc](https://github.com/BuoyantIO/strest-grpc) - A load tester for stress testing grpc intermediaries. 
+- [strest-grpc](https://github.com/BuoyantIO/strest-grpc) - A load tester for stress testing grpc intermediaries.
 - [hazana](https://github.com/emicklei/hazana) - A Go package for creating load test tooling. Supports gRPC.
 - [fortio](https://github.com/fortio/fortio) - A microservices (http, grpc) load testing library and tool from Istio project.
 - [grpc-swagger](https://github.com/grpc-swagger/grpc-swagger) - Debugging gRPC application with swagger-ui.
@@ -111,7 +111,7 @@
 - [grpc-proxy](https://github.com/mwitkow/grpc-proxy) - gRPC reverse proxy with the goal of making it easy to expose gRPC services over the internet
 - [ratelimit](https://github.com/lyft/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications
 - [ProfaneDB](https://gitlab.com/ProfaneDB/ProfaneDB) - A Protocol Buffers database with gRPC API, built in C++ on top of RocksDB
-- [danby](https://github.com/ericbets/danby) - A grpc proxy for the browser 
+- [danby](https://github.com/ericbets/danby) - A grpc proxy for the browser
 - [docker-protoc](https://github.com/namely/docker-protoc) - Dockerized protoc, grpc-gateway, and grpc_cli commands bundled with Google API libraries
 - [grpc-json-proxy](https://github.com/jnewmano/grpc-json-proxy) - A proxy which allows existing tools like Postman or curl to interact with gRPC servers
 - [protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) - Generic generator based on golang's template system
@@ -286,7 +286,7 @@
 - [Backward and Forward Compatibility, Protobuf Versioning, Serialization](https://www.beautifulcode.co/backward-and-forward-compatibility-protobuf-versioning-serialization) - A small article on making gRPC API changes
 - [Node, gRPC, and Postgres](https://mherman.org/blog/node-grpc-postgres/) - This tutorial looks at how to implement an API with Node, gRPC, and Postgres.
 - [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b) - An introductory gRPC Go tutorial.
- 
+
 <a name="res-videos"></a>
 ### Videos
 
@@ -326,7 +326,7 @@
 <a name="res-slides"></a>
 ### Slides
 
-- [gRPC Overview](http://www.slideshare.net/VarunTalwar4/grpc-overview) - An overview at gRPC: Talk at Slack by 
+- [gRPC Overview](http://www.slideshare.net/VarunTalwar4/grpc-overview) - An overview at gRPC: Talk at Slack by
 Varun Talwar
 - [gRPC Design and Implementation](https://www.slideshare.net/VarunTalwar4/grpc-design-and-implementation) - April 2016 talk at Stanford by Varun Talwar
 - [gRPC - boilerplate to high-performance scalable APIs](https://www.slideshare.net/AboutYouGmbH/robert-kubis-grpc-boilerplate-to-highperformance-scalable-apis-codetalks-2015) - code.talks 2015 by Robert Kubis
@@ -334,7 +334,7 @@ Varun Talwar
 - [gRPC and Microservices](https://www.slideshare.net/blinkingsquirrel/grpc-and-microservices) - Overview of Google's open source microservices framework - gRPC, based on HTTP2 and protocol buffers. Presented at Golang Melbourne, June 2016 by Jonathan Gomez
 - [gRPC and Microservices](https://github.com/jonog/talks/blob/master/src/grpc/grpc-presentation.md) - Golang Melbourne - June 2016 Go Hack Night by Jonathan Gomez
 - [Scalable Microservices with gRPC, Kubernetes, and Containers](https://speakerdeck.com/googlecloudplatform/scalable-microservices-with-grpc-kubernetes-and-containers-devfest-ukraine) - DevFest Ukraine
-- [OpenAPI and gRPC Side by-Side](https://www.slideshare.net/timburks/openapi-and-grpc-side-byside) - APIStrat Conference - 
+- [OpenAPI and gRPC Side by-Side](https://www.slideshare.net/timburks/openapi-and-grpc-side-byside) - APIStrat Conference -
 Tim Burks
 - [Go+Microservices at Mercari](https://talks.godoc.org/github.com/tcnksm/talks/2017/11/gocon2017/gocon2017.slide) - Taichi Nakashima at Go Conference 2017
 - [gRPC - RPC rebirth?](https://www.slideshare.net/LusBarbosa9/grpcrpc-rebirth) - Presentation about gRPC at the 23. NetPonto community meeting in Porto by Luís Barbosa
@@ -347,7 +347,7 @@ Tim Burks
 - [Multiplayer Simon Says - A Game using gRPC and Kubernetes](https://github.com/grpc-ecosystem/grpc-simon-says) - Sample app with Go server and clients using Node.js (on Arduino and web), and Java (Android and CLI)
 - [Go Microservices Example](https://github.com/harlow/go-micro-services) - HTTP up front, Protobufs in the rear
 - [Streaming RPC's using gRPC](https://github.com/ridha/grpc-streaming-demo) - A quick demo of bi-directional streaming RPC's using grpc, Go and Python
-- [gRPC Java Examples](https://github.com/saturnism/grpc-java-by-example) - A collection of useful/essential gRPC Java Examples 
+- [gRPC Java Examples](https://github.com/saturnism/grpc-java-by-example) - A collection of useful/essential gRPC Java Examples
 - [gRPC/OpenCensus Demo](https://github.com/rakyll/opencensus-grpc-demo) - Export metrics and traces from gRPC servers and clients using Java, Go and Prometheus
 - [go-micro-services](https://github.com/harlow/go-micro-services) - An demonstration of Golang micro-services that expose a HTTP/JSON frontend and then leverages gRPC for inter-service communication
 - [Colossus](https://github.com/lucperkins/colossus) - An example multi-language gRPC microservice architecture built by Bazel and targeting Kubernetes
@@ -373,6 +373,8 @@ Tim Burks
 <a name="proto-tools"></a>
 ### Tools
 
+- [buf](https://buf.build) - Protobuf tool that includes linting and breaking change detection.
+  Allows many types of input including directly checking remote repositories and tarballs, and has a built-in compiler as well.
 - [prototools](https://github.com/sourcegraph/prototools) - Documentation generator & other tools for protobuf/gRPC
 - [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
 - [Protoxygen](https://github.com/lisroach/Protoxygen) - [Doxygen](http://doxygen.nl) plugin to generate documentation for protobuf/gRPC
@@ -393,7 +395,7 @@ Tim Burks
 - [Cap’n Proto](https://capnproto.org/) - Think Protocol Buffers, except faster
 - [FlatBuffers](https://google.github.io/flatbuffers/) - An efficient cross platform serialization library
 - [RSocket](http://rsocket.io/) - Application protocol providing Reactive Streams semantics
-- [Twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions 
+- [Twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [Greenpack](https://github.com/glycerine/greenpack) - Serialization format similar to MessagePack, but adds field versioning and type annotation
 
 ## Contribute
