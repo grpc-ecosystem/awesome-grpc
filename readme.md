@@ -367,7 +367,7 @@ Tim Burks
 <a name="proto-docs"></a>
 ### Documentation
 
-- [Website](https://developers.google.com/protocol-buffers/) - Official website an documentation
+- [Website](https://developers.google.com/protocol-buffers/) - Official website and documentation
 - [Third-Party Add-ons for Protocol Buffers](https://github.com/protocolbuffers/protobuf/blob/master/docs/third_party.md) - List of add-ons for Protocol Buffers in main github repository
 
 <a name="proto-tools"></a>
