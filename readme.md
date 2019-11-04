@@ -103,6 +103,7 @@
 - [hazana](https://github.com/emicklei/hazana) - A Go package for creating load test tooling. Supports gRPC.
 - [fortio](https://github.com/fortio/fortio) - A microservices (http, grpc) load testing library and tool from Istio project.
 - [grpc-swagger](https://github.com/grpc-swagger/grpc-swagger) - Debugging gRPC application with swagger-ui.
+- [grpc-tools](https://github.com/bradleyjkemp/grpc-tools) - A suite of gRPC debugging tools. Like Fiddler/Charles but for gRPC.
 
 <a name="tools-other"></a>
 ### Other
