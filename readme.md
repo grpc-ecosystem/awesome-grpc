@@ -389,6 +389,7 @@ Tim Burks
 - [go-proto-validators](https://github.com/mwitkow/go-proto-validators) - Generate message validators from .proto annotations, used in `grpc_validator` Go gRPC middleware.
 - [protolock](https://github.com/nilslice/protolock) - Protocol Buffer companion tool to `protoc` and `git`. Track your .proto files and prevent changes to messages and services which impact API compatibilty.
 - [protoc-gen-map](https://github.com/jackskj/protoc-gen-map) - SQL data mapper framework for Protocol Buffers.
+- [api-linter](https://github.com/googleapis/api-linter) - A linter for APIs defined in protocol buffers.
 
 ### Similar
 
