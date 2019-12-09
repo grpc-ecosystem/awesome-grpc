@@ -357,6 +357,7 @@ Tim Burks
 - [go-micro-services](https://github.com/harlow/go-micro-services) - An demonstration of Golang micro-services that expose a HTTP/JSON frontend and then leverages gRPC for inter-service communication
 - [Colossus](https://github.com/lucperkins/colossus) - An example multi-language gRPC microservice architecture built by Bazel and targeting Kubernetes
 - [coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A containerized polyglot gRPC microservices based on .NET Core, Nodejs and more running on Istio
+- [gRPC Microservices with Go and Kubernetes](https://github.com/shuza/kubernetes-go-grpc) - A sample application use gRPC in microservice and deploy in kubernetes.
 
 <a name="res-misc"></a>
 ### Miscellaneous
