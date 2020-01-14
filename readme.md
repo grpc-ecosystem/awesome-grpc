@@ -197,6 +197,7 @@
 - [pytest-grpc](https://github.com/kataev/pytest-grpc) - pytest plugin which allow test gRPC services
 - [grpcalchemy](https://github.com/GuangTianLi/grpcalchemy) - The Python micro framework for building gPRC application
 - [django-grpc](https://github.com/gluk-w/django-grpc) - Django application to build gRPC services with access to ORM, settings and everything else
+- [garuda](https://github.com/dhilipsiva/garuda) - Automagically Exposing Djagno ORM over gRPC for microservices written in any other languages
 
 <a name="lang-cs"></a>
 ### C#
