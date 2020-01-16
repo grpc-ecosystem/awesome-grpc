@@ -330,6 +330,7 @@
 - [JustFootball’s Journey to gRPC + Linkerd in Production](https://www.youtube.com/watch?v=AxPfa7Mp_WY) - Ben Lambert, & Kevin Lingerfelt at KubeCon + CloudNativeCon Europe 2019
 - [gRPC load balancing and Service Mesh](https://www.youtube.com/watch?v=FuXnfGHUZcU) - Vishal Powar, Google at KubeCon + CloudNativeCon Europe 2019
 - [Adopting gRPC: Overcoming Team and Technical Hurdles](https://www.youtube.com/watch?v=VNllljvhcnk) - GOTO 2019 • Adopting gRPC: Overcoming Team and Technical Hurdles • Josh Humphries
+- [Moving to gRPC Java](https://www.youtube.com/watch?v=vFBuvWVIcYQ) - Mya Pitzeruse at Indeed.com
 
 <a name="res-slides"></a>
 ### Slides
