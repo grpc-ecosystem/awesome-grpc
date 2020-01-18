@@ -153,7 +153,8 @@
 - [grpc-gateway-boilerplate](https://github.com/johanbrandhorst/grpc-gateway-boilerplate) - All the boilerplate you need to get started with writing grpc-gateway powered REST services in Go
 - [protoc-gen-struct-transformer](https://github.com/bold-commerce/protoc-gen-struct-transformer) - Transformation function generator for protocol buffers.
 - [cmux](https://github.com/soheilhy/cmux) - Connection multiplexer for GoLang: serve different services on the same port! Supports gRPC.
-- [go-grpc-channelz](https://github.com/rantav/go-grpc-channelz) - A channelz UI for Golang. Channelz is an approved and already implemented proposal describing the inner state of gRPC connections/channels. go-grpc-channelz provides a simple UI for channelz for easy diagnosis. 
+- [go-grpc-channelz](https://github.com/rantav/go-grpc-channelz) - A channelz UI for Golang. Channelz is an approved and already implemented proposal describing the inner state of gRPC connections/channels. go-grpc-channelz provides a simple UI for channelz for easy diagnosis.
+- [goprotoc](https://github.com/jhump/goprotoc) - Library for writing protoc plugins in Go; also includes a pure-Go protoc replacement.
 
 <a name="lang-nodejs"></a>
 ### Node.js
