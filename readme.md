@@ -119,6 +119,7 @@
 - [protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) - Generic generator based on golang's template system
 - [grpc-http-proxy](https://github.com/mercari/grpc-http-proxy) - A reverse proxy server which translate JSON HTTP requests to gRPC calls based on protoreflect
 - [grpc-mate](https://github.com/gdong42/grpc-mate) - A dynamic proxy server that translates JSON HTTP requests into gRPC calls
+- [jawlb](https://github.com/joa/jawlb) - An unsophisticated grpclb load balancer implementation for Kubernetes and gRPC
 
 <a name="lang"></a>
 ## Language-Specific
