@@ -298,6 +298,9 @@
 - [Node, gRPC, and Postgres](https://mherman.org/blog/node-grpc-postgres/) - This tutorial looks at how to implement an API with Node, gRPC, and Postgres.
 - [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b) - An introductory gRPC Go tutorial.
 - [Understanding gRPC](https://www.vineethweb.com/post/grpc/) - An introductory gRPC tutorial with example application in Go.
+- [Part 1: Demystifying gRPC](https://dev-state.com/posts/grpc_framework_1/) - A simple gRPC service with context cancelation and secure connection over SSL/TLS.
+- [Part 2: Demystifying gRPC](https://dev-state.com/posts/grpc_framework_2/) - Extend the service with gRPC streaming and Python backend.
+- [Part 3: Demystifying gRPC](https://dev-state.com/posts/grpc_framework_3/) - Add Unary and Stream gRPC Interceptors to a service and provide REST endpoints with grpc-gateway.  
 
 <a name="res-videos"></a>
 ### Videos
