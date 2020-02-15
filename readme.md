@@ -127,7 +127,7 @@
 
 <a name="lang-go"></a>
 ### Go
-
+- [gRPC for production](https://github.com/apssouza22/grpc-server-go) - A Golang project that provides the core requirements for a production-ready gRPC communication
 - [go-GRPC Micro](https://github.com/micro/go-grpc) - [Micro](https://github.com/micro) based gRPC framework for microservices
 - [go-kit gRPC](https://github.com/go-kit/kit/tree/master/transport/grpc) - [Go Kit](https://github.com/go-kit) with gRPC as transport
 - [gRPC over NATS](https://github.com/rapidloop/nrpc) - nRPC is an RPC framework like gRPC, but for NATS.
