@@ -127,7 +127,6 @@
 
 <a name="lang-go"></a>
 ### Go
-- [gRPC for production](https://github.com/apssouza22/grpc-server-go) - A Golang project that provides the core requirements for a production-ready gRPC communication
 - [go-GRPC Micro](https://github.com/micro/go-grpc) - [Micro](https://github.com/micro) based gRPC framework for microservices
 - [go-kit gRPC](https://github.com/go-kit/kit/tree/master/transport/grpc) - [Go Kit](https://github.com/go-kit) with gRPC as transport
 - [gRPC over NATS](https://github.com/rapidloop/nrpc) - nRPC is an RPC framework like gRPC, but for NATS.
@@ -157,6 +156,7 @@
 - [cmux](https://github.com/soheilhy/cmux) - Connection multiplexer for GoLang: serve different services on the same port! Supports gRPC.
 - [go-grpc-channelz](https://github.com/rantav/go-grpc-channelz) - A channelz UI for Golang. Channelz is an approved and already implemented proposal describing the inner state of gRPC connections/channels. go-grpc-channelz provides a simple UI for channelz for easy diagnosis.
 - [goprotoc](https://github.com/jhump/goprotoc) - Library for writing protoc plugins in Go; also includes a pure-Go protoc replacement.
+- [gRPC for production](https://github.com/apssouza22/grpc-server-go) - A Golang project that provides the core requirements for a production-ready gRPC communication.
 
 <a name="lang-nodejs"></a>
 ### Node.js
