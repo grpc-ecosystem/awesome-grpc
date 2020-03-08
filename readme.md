@@ -301,6 +301,7 @@
 - [Part 1: Demystifying gRPC](https://dev-state.com/posts/grpc_framework_1/) - A simple gRPC service with context cancelation and secure connection over SSL/TLS.
 - [Part 2: Demystifying gRPC](https://dev-state.com/posts/grpc_framework_2/) - Extend the service with gRPC streaming and Python backend.
 - [Part 3: Demystifying gRPC](https://dev-state.com/posts/grpc_framework_3/) - Add Unary and Stream gRPC Interceptors to a service and provide REST endpoints with grpc-gateway.  
+- [gRPC in Microservices](https://milad.dev/posts/grpc-in-microservices/) - Tutorial on using gRPC in microservice architetures.
 
 <a name="res-videos"></a>
 ### Videos
