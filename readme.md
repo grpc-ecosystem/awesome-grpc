@@ -105,6 +105,7 @@
 - [fortio](https://github.com/fortio/fortio) - A microservices (http, grpc) load testing library and tool from Istio project.
 - [grpc-swagger](https://github.com/grpc-swagger/grpc-swagger) - Debugging gRPC application with swagger-ui.
 - [grpc-tools](https://github.com/bradleyjkemp/grpc-tools) - A suite of gRPC debugging tools. Like Fiddler/Charles but for gRPC.
+- [jmeter-grpc-plugin](https://github.com/zalopay-oss/jmeter-grpc-plugin) - A plugin supports load test gRPC service with Jmeter
 
 <a name="tools-other"></a>
 ### Other
