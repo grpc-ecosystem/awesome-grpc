@@ -82,6 +82,7 @@
 - [gcall](https://github.com/bojand/gcall) - Simple Node.js gRPC command line interface
 - [Evans](https://github.com/ktr0731/evans) - more expressive universal gRPC (CLI) client
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+- [protodot](https://github.com/seamia/protodot) - Transforming your .proto files into .dot files (and .svg, .png if you happen to have graphviz installed)
 
 <a name="tools-gui"></a>
 ### GUI
