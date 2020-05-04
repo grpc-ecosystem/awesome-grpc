@@ -122,7 +122,7 @@
 - [grpc-http-proxy](https://github.com/mercari/grpc-http-proxy) - A reverse proxy server which translate JSON HTTP requests to gRPC calls based on protoreflect
 - [grpc-mate](https://github.com/gdong42/grpc-mate) - A dynamic proxy server that translates JSON HTTP requests into gRPC calls
 - [jawlb](https://github.com/joa/jawlb) - An unsophisticated grpclb load balancer implementation for Kubernetes and gRPC
-- [pbhbs](https://github.com/gponsinet/pbhbs) - Generate files based on protobuf definition and handlebars templates
+- [protoc-gen-hbs](https://github.com/gponsinet/protoc-gen-hbs) - Fast and easy protobuf generation with handlebars and some helpers
 
 <a name="lang"></a>
 ## Language-Specific
@@ -303,7 +303,7 @@
 - [Understanding gRPC](https://www.vineethweb.com/post/grpc/) - An introductory gRPC tutorial with example application in Go.
 - [Part 1: Demystifying gRPC](https://dev-state.com/posts/grpc_framework_1/) - A simple gRPC service with context cancelation and secure connection over SSL/TLS.
 - [Part 2: Demystifying gRPC](https://dev-state.com/posts/grpc_framework_2/) - Extend the service with gRPC streaming and Python backend.
-- [Part 3: Demystifying gRPC](https://dev-state.com/posts/grpc_framework_3/) - Add Unary and Stream gRPC Interceptors to a service and provide REST endpoints with grpc-gateway.  
+- [Part 3: Demystifying gRPC](https://dev-state.com/posts/grpc_framework_3/) - Add Unary and Stream gRPC Interceptors to a service and provide REST endpoints with grpc-gateway.
 - [gRPC in Microservices](https://milad.dev/posts/grpc-in-microservices/) - Tutorial on using gRPC in microservice architetures.
 
 <a name="res-videos"></a>
