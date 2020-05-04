@@ -159,6 +159,7 @@
 - [go-grpc-channelz](https://github.com/rantav/go-grpc-channelz) - A channelz UI for Golang. Channelz is an approved and already implemented proposal describing the inner state of gRPC connections/channels. go-grpc-channelz provides a simple UI for channelz for easy diagnosis.
 - [goprotoc](https://github.com/jhump/goprotoc) - Library for writing protoc plugins in Go; also includes a pure-Go protoc replacement.
 - [gRPC for production](https://github.com/apssouza22/grpc-server-go) - A Golang project that provides the core requirements for a production-ready gRPC communication.
+- [protoc-gen-mock](https://github.com/carvalhorr/protoc-gen-mock) - A protoc plugin to generate gRPC mock services from proto definitions in Golang
 
 <a name="lang-nodejs"></a>
 ### Node.js
