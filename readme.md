@@ -160,6 +160,8 @@
 - [goprotoc](https://github.com/jhump/goprotoc) - Library for writing protoc plugins in Go; also includes a pure-Go protoc replacement.
 - [gRPC for production](https://github.com/apssouza22/grpc-server-go) - A Golang project that provides the core requirements for a production-ready gRPC communication.
 - [protoc-gen-mock](https://github.com/carvalhorr/protoc-gen-mock) - A protoc plugin to generate gRPC mock services from proto definitions in Golang
+- [Pike](https://github.com/sashabaranov/pike) — Generate CRUD gRPC backends from single YAML description
+
 
 <a name="lang-nodejs"></a>
 ### Node.js
