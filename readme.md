@@ -83,6 +83,7 @@
 - [Evans](https://github.com/ktr0731/evans) - more expressive universal gRPC (CLI) client
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [protodot](https://github.com/seamia/protodot) - Transforming your .proto files into .dot files (and .svg, .png if you happen to have graphviz installed)
+- [grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - interactive gRPC client
 
 <a name="tools-gui"></a>
 ### GUI
