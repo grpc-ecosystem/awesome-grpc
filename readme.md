@@ -83,6 +83,7 @@
 - [Evans](https://github.com/ktr0731/evans) - more expressive universal gRPC (CLI) client
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [protodot](https://github.com/seamia/protodot) - Transforming your .proto files into .dot files (and .svg, .png if you happen to have graphviz installed)
+- [grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - interactive gRPC client
 
 <a name="tools-gui"></a>
 ### GUI
@@ -92,6 +93,7 @@
 - [grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman (also, a Go library for embedding these web UIs into Go HTTP servers)
 - [BloomRPC](https://github.com/uw-labs/bloomrpc) - A nice and simple GUI Client. Exploring and interacting with gRPC services has never been simpler, Inspired By GraphQL-Playground and Postman
 - [gRPCox](https://github.com/gusaul/grpcox) - Like Postman, but for gRPC. web based GUI Client for gRPC, extremely easy to use.
+- [Milkman](https://github.com/warmuuh/milkman) - Extensible alternative to Postman for crafting all kinds of requests, not only for gRPC, also http, sql etc.
 - [MuninRPC](https://github.com/muninrpc/muninrpc) - Protobuf request and response testing application under the gRPC system.
 - [Delivery](https://github.com/kfwerf/delivery) - A simple electron app for gRPC that uses gRPCurl to autodetect all endpoints/methods and their request bodies, just modify the JSON body. Simplicity in mind.
 - [(Yodelay.io)](https://github.com/oslabs-beta/Yodelay) - A browser GUI Making sure your outbound 🗣️ ‘yodelay’ returns the ‘IiiOoo’ 📣 that you expect.
