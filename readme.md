@@ -419,6 +419,7 @@ Tim Burks
 - [protoc-gen-map](https://github.com/jackskj/protoc-gen-map) - SQL data mapper framework for Protocol Buffers.
 - [api-linter](https://github.com/googleapis/api-linter) - A linter for APIs defined in protocol buffers.
 - [protoc-gen-struct-transformer](https://github.com/bold-commerce/protoc-gen-struct-transformer) - Transformation functions generator for Protocol Buffers.
+- [pbvm](https://github.com/ekalinin/pbvm) - Protocol Buffers Version Manager
 
 ### Similar
 
