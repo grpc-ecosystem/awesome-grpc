@@ -195,6 +195,7 @@
 - [grpc-java-contrib](https://github.com/salesforce/grpc-java-contrib) - Useful extensions for the grpc-java library
 - [rejoiner](https://github.com/google/rejoiner) - Generates a GraphQL schema from gRPC microservices
 - [hoverfly-java-grpc](https://mvnrepository.com/artifact/io.specto/hoverfly-java-grpc) - MITM proxy for recording and simulating gRPC services
+- [grpcmock](https://github.com/Fadelis/grpcmock) - A gRPC Java testing tool to easily mock endpoints of gRPC services for IT or Unit testing
 
 <a name="lang-ruby"></a>
 ### Ruby
