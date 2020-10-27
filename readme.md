@@ -85,6 +85,7 @@
 - [protodot](https://github.com/seamia/protodot) - Transforming your .proto files into .dot files (and .svg, .png if you happen to have graphviz installed)
 - [grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - interactive gRPC client
 - [proto2asciidoc](https://github.com/productsupcom/proto2asciidoc) - Generate AsciiDoc documentation from a .proto file
+- [proto-to-postman](https://github.com/sonatard/proto-to-postman) - Create postman API import collection from .proto files
 
 <a name="tools-gui"></a>
 ### GUI
@@ -354,7 +355,7 @@
 - [gRPC load balancing and Service Mesh](https://www.youtube.com/watch?v=FuXnfGHUZcU) - Vishal Powar, Google at KubeCon + CloudNativeCon Europe 2019
 - [Adopting gRPC: Overcoming Team and Technical Hurdles](https://www.youtube.com/watch?v=VNllljvhcnk) - GOTO 2019 • Adopting gRPC: Overcoming Team and Technical Hurdles • Josh Humphries
 - [Moving to gRPC Java](https://www.youtube.com/watch?v=vFBuvWVIcYQ) - Mya Pitzeruse at Indeed.com
-- [Building Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) - A series of tutorials for building microservices with Go, covers using gRPC ([source](https://github.com/nicholasjackson/building-microservices-youtube)). 
+- [Building Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) - A series of tutorials for building microservices with Go, covers using gRPC ([source](https://github.com/nicholasjackson/building-microservices-youtube)).
 
 <a name="res-slides"></a>
 ### Slides
