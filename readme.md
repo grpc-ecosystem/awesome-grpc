@@ -185,6 +185,7 @@
 - [grpc-promise](https://github.com/carlessistare/grpc-promise) - GRPC promisify module for all Request/Response types: standard and stream
 - [firecomm](https://github.com/firecomm/firecomm) - Feature library for gRPC-Node
 - [grpc-web-gateway](https://github.com/dialogs/grpc-web-gateway) – HTTP & WebSocket proxy gateway for gRPC services
+- [NestJS](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications with builtin support for [gRPC](https://docs.nestjs.com/microservices/grpc).
 
 <a name="lang-java"></a>
 ### Java
