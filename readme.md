@@ -258,6 +258,7 @@
 
 - [ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protoc Plugin for TypeScript Declarations
 - [protoc-gen-tstypes](https://godoc.org/github.com/tmc/grpcutil/protoc-gen-tstypes) - Configurable Protoc Plugin to generate TypeScript types.
+- [sisyphus.js](https://github.com/ButterCam/sisyphus-js) - gRPC runtime and compiler for Web Clients by HTTP transcoding. Recommend using with [Sisyphus](https://github.com/ButterCam/sisyphus) back-end framework.
 
 <a name="lang-scala"></a>
 ### Scala
@@ -278,7 +279,7 @@
 - [grpc-kotlin](https://github.com/rouzwawi/grpc-kotlin) - A protoc plugin for generating native Kotlin bindings using coroutine primitives for gRPC services
 - [gapic-generator-kotlin](https://github.com/googleapis/gapic-generator-kotlin) - Generates coroutine-based gRPC Kotlin client libraries from a protocol buffer description of an API
 - [grpc-kapt](https://github.com/google/grpc-kapt) - Annotation driven gRPC clients & servers in Kotlin with coroutines
-- [sisyphus](https://github.com/ButterCam/sisyphus) - Finding a gRPC backend framework? Spring/Protobuf/gRPC/http-transcoding/kotlin all in one.
+- [sisyphus](https://github.com/ButterCam/sisyphus) - Modern gRPC back-end development framework based on Kotlin/Spring Boot with Message DSL/[HTTP transcoding](https://aip.bybutter.com/127)/[Google AIP](https://aip.bybutter.com) support.
 
 <a name="lang-perl"></a>
 ### Perl
