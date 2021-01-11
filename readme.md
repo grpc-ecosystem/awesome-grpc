@@ -425,6 +425,8 @@ Tim Burks
 - [api-linter](https://github.com/googleapis/api-linter) - A linter for APIs defined in protocol buffers.
 - [protoc-gen-struct-transformer](https://github.com/bold-commerce/protoc-gen-struct-transformer) - Transformation functions generator for Protocol Buffers.
 - [pbvm](https://github.com/ekalinin/pbvm) - Protocol Buffers Version Manager
+- [clang-format](https://clang.llvm.org/docs/ClangFormat.html) - Protocol Buffers formating tool
+  Can be used to format on save in editor such as [Visual studio code](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format) or [IntelliJ](https://plugins.jetbrains.com/plugin/14004-protocol-buffer-editor).
 
 ### Similar
 
