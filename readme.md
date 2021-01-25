@@ -100,6 +100,7 @@
 - [Delivery](https://github.com/kfwerf/delivery) - A simple electron app for gRPC that uses gRPCurl to autodetect all endpoints/methods and their request bodies, just modify the JSON body. Simplicity in mind.
 - [(Yodelay.io)](https://github.com/oslabs-beta/Yodelay) - A browser GUI Making sure your outbound 🗣️ ‘yodelay’ returns the ‘IiiOoo’ 📣 that you expect.
 - [Wombat](https://github.com/rogchap/wombat) - A cross platform gRPC client. Auto-generates input fields from your proto files or the gRPC reflection API. Not another Electron app - built with Qt and Go.
+- [Kreya](https://kreya.app) - A gRPC client supporting environments, templating, authentication schemes and file based syncing.
 
 <a name="tools-test"></a>
 ### Testing
