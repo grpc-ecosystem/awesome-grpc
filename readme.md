@@ -32,6 +32,7 @@
   * [Dart](#lang-dart)
   * [Kotlin](#lang-kotlin)
   * [Perl](#lang-perl)
+  * [C++](#lang-cpp)
 - [Resources](#resources)
   * [Tutorials](#res-tuts)
   * [Videos](#res-videos)
@@ -288,6 +289,11 @@
 ### Perl
 
 - [grpc-perl](https://github.com/joyrex2001/grpc-perl) - Experimental Perl gRPC library supporting grpc client
+
+### C++
+<a name="lang-cpp"></a>
+
+- [QtProtobuf](https://github.com/semlanik/qtprotobuf) - gRPC and Protobuf generator and bindings for the Qt framework
 
 ## Resources
 
