@@ -61,6 +61,7 @@
 
 - [gRPC Core](https://github.com/grpc/grpc) - C, C++, Ruby, Node.js, Python, PHP, C#, Objective-C
 - [gRPC Java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
+- [gRPC Kotlin](https://github.com/grpc/grpc-kotlin) - The Kotlin gRPC implementation. Based on gRPC Java
 - [gRPC Node.js](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [gRPC Go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [gRPC Swift](https://github.com/grpc/grpc-swift) - The Swift language implementation of gRPC
