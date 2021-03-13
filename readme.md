@@ -327,6 +327,7 @@
 - [Part 3: Demystifying gRPC](https://dev-state.com/posts/grpc_framework_3/) - Add Unary and Stream gRPC Interceptors to a service and provide REST endpoints with grpc-gateway.
 - [gRPC in Microservices](https://milad.dev/posts/grpc-in-microservices/) - Tutorial on using gRPC in microservice architetures.
 - [gRPC and Protobuffer API Documentation with proto2asciidoc and code2asciidoc](https://blog.productsup.dev/2020/05/grpc-and-protobuffer-api-documentation-with-proto2asciidoc-and-code2asciidoc/) - Tutorial on generating AsciiDoc documentation from a .proto file, includes a small gRPC demo project too.
+- [gRPC in Go](https://lixueduan.com/categories/gRPC/) - A detailed tutorial for play gRPC with Go.
 
 <a name="res-videos"></a>
 ### Videos
