@@ -437,6 +437,7 @@ Tim Burks
 - [pbvm](https://github.com/ekalinin/pbvm) - Protocol Buffers Version Manager
 - [clang-format](https://clang.llvm.org/docs/ClangFormat.html) - Protocol Buffers formating tool
   Can be used to format on save in editor such as [Visual studio code](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format) or [IntelliJ](https://plugins.jetbrains.com/plugin/14004-protocol-buffer-editor).
+- [ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript.
 
 ### Similar
 
