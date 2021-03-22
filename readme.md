@@ -88,6 +88,7 @@
 - [grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - interactive gRPC client
 - [proto2asciidoc](https://github.com/productsupcom/proto2asciidoc) - Generate AsciiDoc documentation from a .proto file
 - [proto-to-postman](https://github.com/sonatard/proto-to-postman) - Create postman API import collection from .proto files
+- [gWhisper](https://github.com/IBM/gWhisper) - Client with interactive tab-completion (uses reflection) and human readable format
 
 <a name="tools-gui"></a>
 ### GUI
