@@ -399,6 +399,7 @@ Tim Burks
 - [coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A containerized polyglot gRPC microservices based on .NET Core, Nodejs and more running on Istio
 - [gRPC Microservices with Go and Kubernetes](https://github.com/shuza/kubernetes-go-grpc) - A sample application use gRPC in microservice and deploy in kubernetes.
 - [Making a Multiplayer Game With Go and gRPC](https://mortenson.coffee/blog/making-multiplayer-game-go-and-grpc/) - gRPC game example in Go. [Source](https://github.com/mortenson/grpc-game-example).
+- [Detailed examples for Go](https://github.com/lixd/grpc-go-example) - A detailed gRPC example in Go. 
 
 <a name="res-misc"></a>
 ### Miscellaneous
