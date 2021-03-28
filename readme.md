@@ -329,6 +329,7 @@
 - [gRPC in Microservices](https://milad.dev/posts/grpc-in-microservices/) - Tutorial on using gRPC in microservice architetures.
 - [gRPC and Protobuffer API Documentation with proto2asciidoc and code2asciidoc](https://blog.productsup.dev/2020/05/grpc-and-protobuffer-api-documentation-with-proto2asciidoc-and-code2asciidoc/) - Tutorial on generating AsciiDoc documentation from a .proto file, includes a small gRPC demo project too.
 - [gRPC in Go](https://lixueduan.com/categories/gRPC/) - A detailed tutorial for play gRPC with Go.
+- [gRPC: Top 6 Things that Bite Newbies](https://charles-thayer.medium.com/grpc-top-6-things-that-bite-newbies-dfa740ffc67d) - A review of stumbling blocks for those moving to gRPC for the first time.
 
 <a name="res-videos"></a>
 ### Videos
