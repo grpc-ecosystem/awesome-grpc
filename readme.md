@@ -264,6 +264,9 @@
 - [ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protoc Plugin for TypeScript Declarations
 - [protoc-gen-tstypes](https://godoc.org/github.com/tmc/grpcutil/protoc-gen-tstypes) - Configurable Protoc Plugin to generate TypeScript types.
 - [sisyphus.js](https://github.com/ButterCam/sisyphus-js) - gRPC runtime and compiler for Web Clients by HTTP transcoding. Recommend using with [Sisyphus](https://github.com/ButterCam/sisyphus) back-end framework.
+- [protoc-gen-grpc-gateway-ts](https://github.com/grpc-ecosystem/protoc-gen-grpc-gateway-ts) - TypeScript client generator for the grpc-gateway project that generates idiomatic TypeScript clients that connect the web frontend and golang backend fronted by grpc-gateway.
+- [protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protocol buffers and RPC for Node.js and the Web Browser. Pure TypeScript.
+- [ts-proto](https://github.com/stephenh/ts-proto) - Transforms your .proto files into strongly-typed, idiomatic TypeScript files!
 
 <a name="lang-scala"></a>
 ### Scala
