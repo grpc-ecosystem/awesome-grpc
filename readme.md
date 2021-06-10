@@ -105,6 +105,7 @@
 - [Wombat](https://github.com/rogchap/wombat) - A cross platform gRPC client. Auto-generates input fields from your proto files or the gRPC reflection API. Not another Electron app - built with Qt and Go.
 - [Kreya](https://kreya.app) - A gRPC client supporting environments, templating, authentication schemes and file based syncing.
 - [Plumber](https://github.com/pashkatrick/Plumber) - Another one GUI for GRPC requests (reflection only)
+- [Fint](http://bytesmotion.com/fint) - Create, run, manage performance tests and functional tests cases for gRPC service in a single (commercial) tool
 
 <a name="tools-test"></a>
 ### Testing
