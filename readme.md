@@ -192,6 +192,7 @@
 - [grpc-promise](https://github.com/carlessistare/grpc-promise) - GRPC promisify module for all Request/Response types: standard and stream
 - [firecomm](https://github.com/firecomm/firecomm) - Feature library for gRPC-Node
 - [grpc-web-gateway](https://github.com/dialogs/grpc-web-gateway) – HTTP & WebSocket proxy gateway for gRPC services
+- [grpc-reflection-js](https://github.com/redhoyasa/grpc-reflection-js) – gRPC Reflection client for JS
 
 <a name="lang-java"></a>
 ### Java
