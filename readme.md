@@ -135,6 +135,7 @@
 - [grpc-mate](https://github.com/gdong42/grpc-mate) - A dynamic proxy server that translates JSON HTTP requests into gRPC calls
 - [jawlb](https://github.com/joa/jawlb) - An unsophisticated grpclb load balancer implementation for Kubernetes and gRPC
 - [protoc-gen-hbs](https://github.com/gponsinet/protoc-gen-hbs) - Fast and easy protobuf generation with handlebars and some helpers
+- [hosted-gRPC-mock-interface](https://grpc.techunits.com) - Fast, Simple, Free Hosted gRPC testing mock interface for developers
 
 <a name="lang"></a>
 ## Language-Specific
