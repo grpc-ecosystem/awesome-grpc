@@ -176,6 +176,7 @@
 - [protoc-gen-mock](https://github.com/carvalhorr/protoc-gen-mock) - A protoc plugin to generate gRPC mock services from proto definitions in Golang
 - [Pike](https://github.com/sashabaranov/pike) — Generate CRUD gRPC backends from single YAML description
 - [Mortar](https://github.com/go-masonry/mortar) - GO framework for building gRPC (and REST) web services with DI, Telemetry and more
+- [sqlc-grpc](https://github.com/walterwanderley/sqlc-grpc) - Generate gRPC/HTTP server (with metrics, tracing, swagger and grpcui) from SQL
 
 
 <a name="lang-nodejs"></a>
