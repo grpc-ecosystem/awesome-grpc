@@ -276,6 +276,7 @@
 - [protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protocol buffers and RPC for Node.js and the Web Browser. Pure TypeScript.
 - [ts-proto](https://github.com/stephenh/ts-proto) - Transforms your .proto files into strongly-typed, idiomatic TypeScript files!
 - [grpc-js-typescript](https://github.com/badsyntax/grpc-js-typescript) - Examples of how to use gRPC with TypeScript & Node.js.
+- [nice-grpc](https://github.com/deeplay-io/nice-grpc) - gRPC library for Node.js and the Browser with modern API and middleware support.
 
 <a name="lang-scala"></a>
 ### Scala
