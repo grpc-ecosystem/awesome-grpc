@@ -137,6 +137,7 @@
 - [jawlb](https://github.com/joa/jawlb) - An unsophisticated grpclb load balancer implementation for Kubernetes and gRPC
 - [protoc-gen-hbs](https://github.com/gponsinet/protoc-gen-hbs) - Fast and easy protobuf generation with handlebars and some helpers
 - [grpcson](https://github.com/siyanew/grpcson) - An easy to use proxy which translates JSON HTTP requests to gRPC calls with web ui
+- [rk-grpc](https://github.com/rookie-ninja/rk-grpc) - Middleware and bootstrapper library for gRPC with logging, metrics, auth, tracing etc.
 
 <a name="lang"></a>
 ## Language-Specific
