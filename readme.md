@@ -416,7 +416,8 @@ Tim Burks
 - [coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A containerized polyglot gRPC microservices based on .NET Core, Nodejs and more running on Istio
 - [gRPC Microservices with Go and Kubernetes](https://github.com/shuza/kubernetes-go-grpc) - A sample application use gRPC in microservice and deploy in kubernetes.
 - [Making a Multiplayer Game With Go and gRPC](https://mortenson.coffee/blog/making-multiplayer-game-go-and-grpc/) - gRPC game example in Go. [Source](https://github.com/mortenson/grpc-game-example).
-- [Detailed examples for Go](https://github.com/lixd/grpc-go-example) - A detailed gRPC example in Go. 
+- [Detailed examples for Go](https://github.com/lixd/grpc-go-example) - A detailed gRPC example in Go.
+- [Envoy proxy as an API gateway for gRPC microservice](https://dev.ms/post/envoy-as-an-api-gateway/) - A gRPC service in Go, built with Bazel and deployed into Kubernetes cluster with [Tilt](https://tilt.dev) and REST API enabled. [Source](https://github.com/ekhabarov/blog-code-snippets/tree/master/bazel-k8s-envoy)
 
 <a name="res-misc"></a>
 ### Miscellaneous
