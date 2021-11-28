@@ -108,6 +108,7 @@
 - [Kreya](https://kreya.app) - A gRPC client supporting environments, templating, authentication schemes and file based syncing.
 - [Plumber](https://github.com/pashkatrick/Plumber) - Another one GUI for GRPC requests (reflection only)
 - [Fint](http://bytesmotion.com/fint) - Create, run, manage performance tests and functional tests cases for gRPC service in a single (commercial) tool
+- [Grip](https://gripgrpc.dev) - Native macOS client for interacting with gRPC services
 
 <a name="tools-test"></a>
 ### Testing
