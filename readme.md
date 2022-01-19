@@ -141,6 +141,7 @@
 - [grpcson](https://github.com/siyanew/grpcson) - An easy to use proxy which translates JSON HTTP requests to gRPC calls with web ui
 - [rk-grpc](https://github.com/rookie-ninja/rk-grpc) - Middleware and bootstrapper library for gRPC with logging, metrics, auth, tracing etc.
 - [PropaneDB](https://github.com/elan8/propanedb) - A Protocol Buffers database with gRPC API and Golang driver.
+- [APISIX](https://github.com/apache/apisix) - A gateway that can proxy gRPC traffic and supports protocol transcoding so that clients can access your gRPC API by using HTTP/JSON.
 
 <a name="lang"></a>
 ## Language-Specific
