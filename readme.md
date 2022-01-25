@@ -239,6 +239,7 @@
 
 - [MagicOnion](https://github.com/neuecc/MagicOnion) - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity
 - [Grpc.Tools](https://www.nuget.org/packages/Grpc.Tools/) - gRPC and Protocol Buffer compiler for managed C# and native C++ projects. See [Introduction to gRPC on .NET Core](https://docs.microsoft.com/en-us/aspnet/core/grpc/?view=aspnetcore-3.0) tutorial.
+- [GrpcBrowser](https://github.com/thomaswormald/grpc-browser) - a web UI for interactively debugging all types of gRPC endpoints
 
 <a name="lang-rust"></a>
 ### Rust
