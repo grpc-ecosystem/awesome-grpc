@@ -312,6 +312,7 @@
 <a name="lang-cpp"></a>
 
 - [QtProtobuf](https://github.com/semlanik/qtprotobuf) - gRPC and Protobuf generator and bindings for the Qt framework
+- [asio-grpc](https://github.com/Tradias/asio-grpc) - Asynchronous gRPC with [Boost.Asio](https://github.com/boostorg/asio) or [libunifex](https://github.com/facebookexperimental/libunifex)
 
 ## Resources
 
