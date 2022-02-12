@@ -84,7 +84,7 @@
 - [gcall](https://github.com/bojand/gcall) - Simple Node.js gRPC command line interface
 - [Evans](https://github.com/ktr0731/evans) - more expressive universal gRPC (CLI) client
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-- [httpyac](https://httpyac.github.io/guide/installation_cli.html) - a command line client for executing integration tests for all kinds of requests (gRPC, HTTP, MQTT, Websocket). 
+- [httpyac](https://httpyac.github.io/guide/installation_cli.html) - a command line client for executing integration tests for all kinds of requests (gRPC, HTTP, MQTT, Websocket).
 - [protodot](https://github.com/seamia/protodot) - Transforming your .proto files into .dot files (and .svg, .png if you happen to have graphviz installed)
 - [grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - interactive gRPC client
 - [proto2asciidoc](https://github.com/productsupcom/proto2asciidoc) - Generate AsciiDoc documentation from a .proto file
@@ -423,7 +423,7 @@ Tim Burks
 - [gRPC Microservices with Go and Kubernetes](https://github.com/shuza/kubernetes-go-grpc) - A sample application use gRPC in microservice and deploy in kubernetes.
 - [Making a Multiplayer Game With Go and gRPC](https://mortenson.coffee/blog/making-multiplayer-game-go-and-grpc/) - gRPC game example in Go. [Source](https://github.com/mortenson/grpc-game-example).
 - [Detailed examples for Go](https://github.com/lixd/grpc-go-example) - A detailed gRPC example in Go.
-- [Envoy proxy as an API gateway for gRPC microservice](https://dev.ms/post/envoy-as-an-api-gateway/) - A gRPC service in Go, built with Bazel and deployed into Kubernetes cluster with [Tilt](https://tilt.dev) and REST API enabled. [Source](https://github.com/ekhabarov/blog-code-snippets/tree/master/bazel-k8s-envoy)
+- [Envoy proxy as an API gateway for gRPC microservice](https://ekhabarov.com/post/envoy-as-an-api-gateway/) - A gRPC service in Go, built with Bazel and deployed into Kubernetes cluster with [Tilt](https://tilt.dev) and REST API enabled. [Source](https://github.com/ekhabarov/bazel-k8s-envoy)
 
 <a name="res-misc"></a>
 ### Miscellaneous
