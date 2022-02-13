@@ -185,6 +185,7 @@
 - [Pike](https://github.com/sashabaranov/pike) — Generate CRUD gRPC backends from single YAML description
 - [Mortar](https://github.com/go-masonry/mortar) - GO framework for building gRPC (and REST) web services with DI, Telemetry and more
 - [sqlc-grpc](https://github.com/walterwanderley/sqlc-grpc) - Generate gRPC/HTTP server (with metrics, tracing, swagger and grpcui) from SQL
+- [protoc-gen-fieldmask](https://github.com/idodod/protoc-gen-fieldmask) - A protoc plugin that generates fieldmask paths as static type properties of proto messages
 
 
 <a name="lang-nodejs"></a>
