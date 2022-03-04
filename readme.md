@@ -33,6 +33,7 @@
   * [Kotlin](#lang-kotlin)
   * [Perl](#lang-perl)
   * [C++](#lang-cpp)
+  * [Ballerina](#lang-ballerina)
 - [Resources](#resources)
   * [Tutorials](#res-tuts)
   * [Videos](#res-videos)
@@ -320,6 +321,11 @@
 - [QtProtobuf](https://github.com/semlanik/qtprotobuf) - gRPC and Protobuf generator and bindings for the Qt framework
 - [asio-grpc](https://github.com/Tradias/asio-grpc) - Asynchronous gRPC with [Boost.Asio](https://github.com/boostorg/asio) or [libunifex](https://github.com/facebookexperimental/libunifex)
 
+<a name="lang-ballerina"></a>
+### Ballerina
+
+- [Ballerina gRPC](https://github.com/ballerina-platform/module-ballerina-grpc) - Ballerina library for gRPC
+
 ## Resources
 
 <a name="res-tuts"></a>
@@ -355,6 +361,7 @@
 - [gRPC in Go](https://lixueduan.com/categories/gRPC/) - A detailed tutorial for play gRPC with Go.
 - [gRPC: Top 6 Things that Bite Newbies](https://charles-thayer.medium.com/grpc-top-6-things-that-bite-newbies-dfa740ffc67d) - A review of stumbling blocks for those moving to gRPC for the first time.
 - [A beginners guide to gRPC with Rust](https://dev.to/anshulgoyal15/a-beginners-guide-to-grpc-with-rust-3c7o)
+- [Writing a gRPC service with Ballerina](https://ballerina.io/learn/writing-a-grpc-service-with-ballerina/) - Getting started guide on building a simple gRPC service with Ballerina and invoking the service through a Ballerina gRPC client application. 
 
 <a name="res-videos"></a>
 ### Videos
@@ -427,6 +434,7 @@ Tim Burks
 - [Making a Multiplayer Game With Go and gRPC](https://mortenson.coffee/blog/making-multiplayer-game-go-and-grpc/) - gRPC game example in Go. [Source](https://github.com/mortenson/grpc-game-example).
 - [Detailed examples for Go](https://github.com/lixd/grpc-go-example) - A detailed gRPC example in Go.
 - [Envoy proxy as an API gateway for gRPC microservice](https://ekhabarov.com/post/envoy-as-an-api-gateway/) - A gRPC service in Go, built with Bazel and deployed into Kubernetes cluster with [Tilt](https://tilt.dev) and REST API enabled. [Source](https://github.com/ekhabarov/bazel-k8s-envoy)
+- [gRPC Ballerina Example](https://ballerina.io/learn/by-example/grpc-simple.html) - A collection of simple gRPC examples written in Ballerina
 
 <a name="res-misc"></a>
 ### Miscellaneous
