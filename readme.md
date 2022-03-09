@@ -362,6 +362,7 @@
 - [gRPC: Top 6 Things that Bite Newbies](https://charles-thayer.medium.com/grpc-top-6-things-that-bite-newbies-dfa740ffc67d) - A review of stumbling blocks for those moving to gRPC for the first time.
 - [A beginners guide to gRPC with Rust](https://dev.to/anshulgoyal15/a-beginners-guide-to-grpc-with-rust-3c7o)
 - [Writing a gRPC service with Ballerina](https://ballerina.io/learn/writing-a-grpc-service-with-ballerina/) - Getting started guide on building a simple gRPC service with Ballerina and invoking the service through a Ballerina gRPC client application. 
+- [gRPC-web: Using gRPC in Your Front-End Application](https://grpcguide.com/grpc-web-frontend) - A tutorial on using gRPC-web in a frontend application.
 
 <a name="res-videos"></a>
 ### Videos
