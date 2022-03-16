@@ -33,6 +33,7 @@
   * [Kotlin](#lang-kotlin)
   * [Perl](#lang-perl)
   * [C++](#lang-cpp)
+  * [Ballerina](#lang-ballerina)
 - [Resources](#resources)
   * [Tutorials](#res-tuts)
   * [Videos](#res-videos)
@@ -84,12 +85,13 @@
 - [gcall](https://github.com/bojand/gcall) - Simple Node.js gRPC command line interface
 - [Evans](https://github.com/ktr0731/evans) - more expressive universal gRPC (CLI) client
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-- [httpyac](https://httpyac.github.io/guide/installation_cli.html) - a command line client for executing integration tests for all kinds of requests (gRPC, HTTP, MQTT, Websocket). 
+- [httpyac](https://httpyac.github.io/guide/installation_cli.html) - a command line client for executing integration tests for all kinds of requests (gRPC, HTTP, MQTT, Websocket).
 - [protodot](https://github.com/seamia/protodot) - Transforming your .proto files into .dot files (and .svg, .png if you happen to have graphviz installed)
 - [grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - interactive gRPC client
 - [proto2asciidoc](https://github.com/productsupcom/proto2asciidoc) - Generate AsciiDoc documentation from a .proto file
 - [proto-to-postman](https://github.com/sonatard/proto-to-postman) - Create postman API import collection from .proto files
 - [gWhisper](https://github.com/IBM/gWhisper) - Client with interactive tab-completion (uses reflection) and human readable format
+- [grpcdebug](https://github.com/grpc-ecosystem/grpcdebug) - Debugs serving gRPC applications with tools like channel trace info, xDS config dump, and health checking
 
 <a name="tools-gui"></a>
 ### GUI
@@ -109,6 +111,7 @@
 - [Plumber](https://github.com/pashkatrick/Plumber) - Another one GUI for GRPC requests (reflection only)
 - [Fint](http://bytesmotion.com/fint) - Create, run, manage performance tests and functional tests cases for gRPC service in a single (commercial) tool
 - [Protocall](https://protocall.dev) - A browser-based gRPC & protobuf API client.  Integrates with Github and automatically resolves all proto imports with no manual configuration.
+- [Grip](https://gripgrpc.dev) - Native macOS client for interacting with gRPC services
 
 <a name="tools-test"></a>
 ### Testing
@@ -142,8 +145,10 @@
 - [grpcson](https://github.com/siyanew/grpcson) - An easy to use proxy which translates JSON HTTP requests to gRPC calls with web ui
 - [rk-grpc](https://github.com/rookie-ninja/rk-grpc) - Middleware and bootstrapper library for gRPC with logging, metrics, auth, tracing etc.
 - [PropaneDB](https://github.com/elan8/propanedb) - A Protocol Buffers database with gRPC API and Golang driver.
+- [APISIX](https://github.com/apache/apisix) - An api gateway that supports gRPC, HTTP(s) to gRPC and gRPC web request proxying.
 
 <a name="lang"></a>
+
 ## Language-Specific
 
 <a name="lang-go"></a>
@@ -182,6 +187,7 @@
 - [Pike](https://github.com/sashabaranov/pike) — Generate CRUD gRPC backends from single YAML description
 - [Mortar](https://github.com/go-masonry/mortar) - GO framework for building gRPC (and REST) web services with DI, Telemetry and more
 - [sqlc-grpc](https://github.com/walterwanderley/sqlc-grpc) - Generate gRPC/HTTP server (with metrics, tracing, swagger and grpcui) from SQL
+- [protoc-gen-fieldmask](https://github.com/idodod/protoc-gen-fieldmask) - A protoc plugin that generates fieldmask paths as static type properties of proto messages
 
 
 <a name="lang-nodejs"></a>
@@ -240,6 +246,7 @@
 
 - [MagicOnion](https://github.com/neuecc/MagicOnion) - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity
 - [Grpc.Tools](https://www.nuget.org/packages/Grpc.Tools/) - gRPC and Protocol Buffer compiler for managed C# and native C++ projects. See [Introduction to gRPC on .NET Core](https://docs.microsoft.com/en-us/aspnet/core/grpc/?view=aspnetcore-3.0) tutorial.
+- [GrpcBrowser](https://github.com/thomaswormald/grpc-browser) - a web UI for interactively debugging all types of gRPC endpoints
 
 <a name="lang-rust"></a>
 ### Rust
@@ -313,6 +320,12 @@
 <a name="lang-cpp"></a>
 
 - [QtProtobuf](https://github.com/semlanik/qtprotobuf) - gRPC and Protobuf generator and bindings for the Qt framework
+- [asio-grpc](https://github.com/Tradias/asio-grpc) - Asynchronous gRPC with [Boost.Asio](https://github.com/boostorg/asio) or [libunifex](https://github.com/facebookexperimental/libunifex)
+
+<a name="lang-ballerina"></a>
+### Ballerina
+
+- [Ballerina gRPC](https://github.com/ballerina-platform/module-ballerina-grpc) - Ballerina library for gRPC
 
 ## Resources
 
@@ -349,6 +362,8 @@
 - [gRPC in Go](https://lixueduan.com/categories/gRPC/) - A detailed tutorial for play gRPC with Go.
 - [gRPC: Top 6 Things that Bite Newbies](https://charles-thayer.medium.com/grpc-top-6-things-that-bite-newbies-dfa740ffc67d) - A review of stumbling blocks for those moving to gRPC for the first time.
 - [A beginners guide to gRPC with Rust](https://dev.to/anshulgoyal15/a-beginners-guide-to-grpc-with-rust-3c7o)
+- [Writing a gRPC service with Ballerina](https://ballerina.io/learn/writing-a-grpc-service-with-ballerina/) - Getting started guide on building a simple gRPC service with Ballerina and invoking the service through a Ballerina gRPC client application. 
+- [gRPC-web: Using gRPC in Your Front-End Application](https://grpcguide.com/grpc-web-frontend) - A tutorial on using gRPC-web in a frontend application.
 
 <a name="res-videos"></a>
 ### Videos
@@ -420,7 +435,8 @@ Tim Burks
 - [gRPC Microservices with Go and Kubernetes](https://github.com/shuza/kubernetes-go-grpc) - A sample application use gRPC in microservice and deploy in kubernetes.
 - [Making a Multiplayer Game With Go and gRPC](https://mortenson.coffee/blog/making-multiplayer-game-go-and-grpc/) - gRPC game example in Go. [Source](https://github.com/mortenson/grpc-game-example).
 - [Detailed examples for Go](https://github.com/lixd/grpc-go-example) - A detailed gRPC example in Go.
-- [Envoy proxy as an API gateway for gRPC microservice](https://dev.ms/post/envoy-as-an-api-gateway/) - A gRPC service in Go, built with Bazel and deployed into Kubernetes cluster with [Tilt](https://tilt.dev) and REST API enabled. [Source](https://github.com/ekhabarov/blog-code-snippets/tree/master/bazel-k8s-envoy)
+- [Envoy proxy as an API gateway for gRPC microservice](https://ekhabarov.com/post/envoy-as-an-api-gateway/) - A gRPC service in Go, built with Bazel and deployed into Kubernetes cluster with [Tilt](https://tilt.dev) and REST API enabled. [Source](https://github.com/ekhabarov/bazel-k8s-envoy)
+- [gRPC Ballerina Example](https://ballerina.io/learn/by-example/grpc-simple.html) - A collection of simple gRPC examples written in Ballerina
 
 <a name="res-misc"></a>
 ### Miscellaneous
