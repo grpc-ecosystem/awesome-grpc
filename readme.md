@@ -72,7 +72,6 @@
 - [gRPC Web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [gRPC Ecosystem](https://github.com/grpc-ecosystem) - gRPC Ecosystem that complements gRPC
 - [gRPC contrib](https://github.com/grpc/grpc-contrib) - Known useful contributions around github
-- [Homebrew gRPC](https://github.com/grpc/homebrew-grpc) - gRPC formulae repo for Homebrew
 - [grpc_cli](https://github.com/grpc/grpc/blob/master/doc/command_line_tool.md) - gRPC CLI tool
 
 ## Tools
