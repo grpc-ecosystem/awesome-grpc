@@ -438,6 +438,7 @@ Tim Burks
 - [Detailed examples for Go](https://github.com/lixd/grpc-go-example) - A detailed gRPC example in Go.
 - [Envoy proxy as an API gateway for gRPC microservice](https://ekhabarov.com/post/envoy-as-an-api-gateway/) - A gRPC service in Go, built with Bazel and deployed into Kubernetes cluster with [Tilt](https://tilt.dev) and REST API enabled. [Source](https://github.com/ekhabarov/bazel-k8s-envoy)
 - [gRPC Ballerina Example](https://ballerina.io/learn/by-example/grpc-simple.html) - A collection of simple gRPC examples written in Ballerina
+- [Go gRPC features examples](https://github.com/vladimirvivien/go-grpc) - A collection of gRPC and Go examples showcasing features of the framework
 
 <a name="res-misc"></a>
 ### Miscellaneous
