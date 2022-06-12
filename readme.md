@@ -480,6 +480,7 @@ Tim Burks
   Can be used to format on save in editor such as [Visual studio code](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format) or [IntelliJ](https://plugins.jetbrains.com/plugin/14004-protocol-buffer-editor).
 - [intellij-protobuf-plugin](https://github.com/devkanro/intellij-protobuf-plugin) - IntelliJ-based IDEs Protobuf Language Plugin that provides Protobuf language support.
 - [GenDocu](https://gendocu.com) - gRPC Documentation and SDK generator as a Service.
+- [protolint](https://github.com/yoheimuta/protolint) - A pluggable linter and fixer to enforce Protocol Buffer style and conventions.
 
 ### Similar
 
