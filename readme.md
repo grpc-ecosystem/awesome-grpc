@@ -98,7 +98,7 @@
 - [letmegrpc](https://github.com/gogo/letmegrpc) - Generate a web form gui from a grpc specification
 - [omgRPC](https://github.com/troylelandshields/omgrpc) (Deprecated) - A GUI client for interacting with gRPC services, similar to what Postman is for REST APIs
 - [grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman (also, a Go library for embedding these web UIs into Go HTTP servers)
-- [BloomRPC](https://github.com/uw-labs/bloomrpc) - A nice and simple GUI Client. Exploring and interacting with gRPC services has never been simpler, Inspired By GraphQL-Playground and Postman
+- [BloomRPC](https://github.com/uw-labs/bloomrpc) - A nice and simple GUI Client. Exploring and interacting with gRPC and gRPC-web services has never been simpler, Inspired By GraphQL-Playground and Postman
 - [gRPCox](https://github.com/gusaul/grpcox) - Like Postman, but for gRPC. web based GUI Client for gRPC, extremely easy to use.
 - [vscode-httpyac](https://httpyac.github.io/guide/installation_vscode.html) - A VSCode extension which supports sending all kinds of requests (gRPC, HTTP, MQTT, Websocket)
 - [Milkman](https://github.com/warmuuh/milkman) - Extensible alternative to Postman for crafting all kinds of requests, not only for gRPC, also http, sql etc.
@@ -106,11 +106,12 @@
 - [Delivery](https://github.com/kfwerf/delivery) - A simple electron app for gRPC that uses gRPCurl to autodetect all endpoints/methods and their request bodies, just modify the JSON body. Simplicity in mind.
 - [(Yodelay.io)](https://github.com/oslabs-beta/Yodelay) - A browser GUI Making sure your outbound 🗣️ ‘yodelay’ returns the ‘IiiOoo’ 📣 that you expect.
 - [Wombat](https://github.com/rogchap/wombat) - A cross platform gRPC client. Auto-generates input fields from your proto files or the gRPC reflection API. Not another Electron app - built with Qt and Go.
-- [Kreya](https://kreya.app) - A gRPC client supporting environments, templating, authentication schemes and file based syncing.
+- [Kreya](https://kreya.app) - A gRPC and gRPC-web client supporting environments, templating, authentication schemes and file based syncing.
 - [Plumber](https://github.com/pashkatrick/Plumber) - Another one GUI for GRPC requests (reflection only)
 - [Fint](http://bytesmotion.com/fint) - Create, run, manage performance tests and functional tests cases for gRPC service in a single (commercial) tool
 - [Protocall](https://protocall.dev) - A browser-based gRPC & protobuf API client.  Integrates with Github and automatically resolves all proto imports with no manual configuration.
 - [Grip](https://gripgrpc.dev) - Native macOS client for interacting with gRPC services
+- [ezy](https://github.com/getezy/ezy) - desktop gRPC client.
 
 <a name="tools-test"></a>
 ### Testing
@@ -126,7 +127,8 @@
 - [camouflage](https://github.com/testinggospels/camouflage) - Camouflage is a backend mocking tool for HTTP, gRPC and Websockets protocols.
 - [Mediator](https://github.com/ButterCam/Mediator) - Cross-platform GUI gRPC debugging proxy like charles but design for gRPC.
 - [grpc_bench](https://github.com/LesnyRumcajs/grpc_bench) - A suite of gRPC benchmarks for different technologies.
-
+- [grpcdump](https://github.com/rmedvedev/grpcdump) - Tool for capture and decode GRPC messages from ethernet traffic only for Linux
+- [nosymouse](https://nosymouse.io/) - Saas tool to functional, perfomance and secure testing gRPC
 <a name="tools-other"></a>
 ### Other
 
