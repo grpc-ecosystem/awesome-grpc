@@ -91,6 +91,7 @@
 - [proto-to-postman](https://github.com/sonatard/proto-to-postman) - Create postman API import collection from .proto files
 - [gWhisper](https://github.com/IBM/gWhisper) - Client with interactive tab-completion (uses reflection) and human readable format
 - [grpcdebug](https://github.com/grpc-ecosystem/grpcdebug) - Debugs serving gRPC applications with tools like channel trace info, xDS config dump, and health checking
+- [Webezy.io](https://www.webezy.io) - A gRPC framework to generate code and Protobuf files for client and servers in Python/Typescript from CLI
 
 <a name="tools-gui"></a>
 ### GUI
