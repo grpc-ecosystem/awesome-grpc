@@ -112,7 +112,7 @@
 - [Fint](http://bytesmotion.com/fint) - Create, run, manage performance tests and functional tests cases for gRPC service in a single (commercial) tool
 - [Protocall](https://protocall.dev) - A browser-based gRPC & protobuf API client.  Integrates with Github and automatically resolves all proto imports with no manual configuration.
 - [Grip](https://gripgrpc.dev) - Native macOS client for interacting with gRPC services
-- [ezy](https://github.com/getezy/ezy) - desktop gRPC client.
+- [ezy](https://github.com/getezy/ezy) - 🔥 Fully-featured GUI client for gRPC/gRPC-Web.
 - [Warthog](https://github.com/forest33/warthog) - A cross platform gRPC client. Input generation for all types, including nested and looped messages. Saving requests and servers.
 
 <a name="tools-test"></a>
