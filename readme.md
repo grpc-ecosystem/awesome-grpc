@@ -468,7 +468,8 @@ Tim Burks
 
 - [buf](https://buf.build) - Protobuf tool that includes linting and breaking change detection.
   Allows many types of input including directly checking remote repositories and tarballs, and has a built-in compiler as well.
-- [prototools](https://github.com/sourcegraph/prototools) - Documentation generator & other tools for protobuf/gRPC
+- [prototools](https://github.com/sourcegraph/prototools) - Documentation generator & other tools for protobuf/gRPC.
+- [protoc-gen-apidocs](https://github.com/tmc/protoc-gen-apidocs) - Documentation generator plugin for protobuf/gRPC.
 - [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
 - [Protoxygen](https://github.com/lisroach/Protoxygen) - [Doxygen](http://doxygen.nl) plugin to generate documentation for protobuf/gRPC
 - [openapi2proto](https://github.com/NYTimes/openapi2proto) - A tool for generating Protobuf v3 schemas and gRPC service definitions from OpenAPI specifications
