@@ -91,6 +91,7 @@
 - [proto-to-postman](https://github.com/sonatard/proto-to-postman) - Create postman API import collection from .proto files
 - [gWhisper](https://github.com/IBM/gWhisper) - Client with interactive tab-completion (uses reflection) and human readable format
 - [grpcdebug](https://github.com/grpc-ecosystem/grpcdebug) - Debugs serving gRPC applications with tools like channel trace info, xDS config dump, and health checking
+- [Webezy.io](https://www.webezy.io) - A gRPC framework for building projects in __Python__, __Typescript__ and __Go__ from a simple CLI
 
 <a name="tools-gui"></a>
 ### GUI
@@ -98,7 +99,7 @@
 - [letmegrpc](https://github.com/gogo/letmegrpc) - Generate a web form gui from a grpc specification
 - [omgRPC](https://github.com/troylelandshields/omgrpc) (Deprecated) - A GUI client for interacting with gRPC services, similar to what Postman is for REST APIs
 - [grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman (also, a Go library for embedding these web UIs into Go HTTP servers)
-- [BloomRPC](https://github.com/uw-labs/bloomrpc) - A nice and simple GUI Client. Exploring and interacting with gRPC and gRPC-web services has never been simpler, Inspired By GraphQL-Playground and Postman
+- [BloomRPC](https://github.com/uw-labs/bloomrpc) (Deprecated) - A nice and simple GUI Client. Exploring and interacting with gRPC and gRPC-web services has never been simpler, Inspired By GraphQL-Playground and Postman
 - [gRPCox](https://github.com/gusaul/grpcox) - Like Postman, but for gRPC. web based GUI Client for gRPC, extremely easy to use.
 - [vscode-httpyac](https://httpyac.github.io/guide/installation_vscode.html) - A VSCode extension which supports sending all kinds of requests (gRPC, HTTP, MQTT, Websocket)
 - [Milkman](https://github.com/warmuuh/milkman) - Extensible alternative to Postman for crafting all kinds of requests, not only for gRPC, also http, sql etc.
@@ -111,7 +112,8 @@
 - [Fint](http://bytesmotion.com/fint) - Create, run, manage performance tests and functional tests cases for gRPC service in a single (commercial) tool
 - [Protocall](https://protocall.dev) - A browser-based gRPC & protobuf API client.  Integrates with Github and automatically resolves all proto imports with no manual configuration.
 - [Grip](https://gripgrpc.dev) - Native macOS client for interacting with gRPC services
-- [ezy](https://github.com/getezy/ezy) - desktop gRPC client.
+- [ezy](https://github.com/getezy/ezy) - 🔥 Fully-featured GUI client for gRPC/gRPC-Web.
+- [Warthog](https://github.com/forest33/warthog) - A cross platform gRPC client. Input generation for all types, including nested and looped messages. Saving requests and servers.
 
 <a name="tools-test"></a>
 ### Testing
@@ -129,6 +131,8 @@
 - [grpc_bench](https://github.com/LesnyRumcajs/grpc_bench) - A suite of gRPC benchmarks for different technologies.
 - [grpcdump](https://github.com/rmedvedev/grpcdump) - Tool for capture and decode GRPC messages from ethernet traffic only for Linux
 - [nosymouse](https://nosymouse.io/) - Saas tool to functional, perfomance and secure testing gRPC
+- [Step CI](https://github.com/stepci/stepci) - Open-Source API Testing and Monitoring (now with gRPC support!)
+
 <a name="tools-other"></a>
 ### Other
 
@@ -465,7 +469,8 @@ Tim Burks
 
 - [buf](https://buf.build) - Protobuf tool that includes linting and breaking change detection.
   Allows many types of input including directly checking remote repositories and tarballs, and has a built-in compiler as well.
-- [prototools](https://github.com/sourcegraph/prototools) - Documentation generator & other tools for protobuf/gRPC
+- [prototools](https://github.com/sourcegraph/prototools) - Documentation generator & other tools for protobuf/gRPC.
+- [protoc-gen-apidocs](https://github.com/tmc/protoc-gen-apidocs) - Documentation generator plugin for protobuf/gRPC.
 - [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
 - [Protoxygen](https://github.com/lisroach/Protoxygen) - [Doxygen](http://doxygen.nl) plugin to generate documentation for protobuf/gRPC
 - [openapi2proto](https://github.com/NYTimes/openapi2proto) - A tool for generating Protobuf v3 schemas and gRPC service definitions from OpenAPI specifications
