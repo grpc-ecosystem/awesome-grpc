@@ -153,6 +153,7 @@
 - [rk-grpc](https://github.com/rookie-ninja/rk-grpc) - Middleware and bootstrapper library for gRPC with logging, metrics, auth, tracing etc.
 - [PropaneDB](https://github.com/elan8/propanedb) - A Protocol Buffers database with gRPC API and Golang driver.
 - [APISIX](https://github.com/apache/apisix) - An api gateway that supports gRPC, HTTP(s) to gRPC and gRPC web request proxying.
+- [Zilla](https://github.com/aklivity/zilla) - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 
 <a name="lang"></a>
 
