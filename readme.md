@@ -412,6 +412,7 @@
 - [Adopting gRPC: Overcoming Team and Technical Hurdles](https://www.youtube.com/watch?v=VNllljvhcnk) - GOTO 2019 • Adopting gRPC: Overcoming Team and Technical Hurdles • Josh Humphries
 - [Moving to gRPC Java](https://www.youtube.com/watch?v=vFBuvWVIcYQ) - Mya Pitzeruse at Indeed.com
 - [Building Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) - A series of tutorials for building microservices with Go, covers using gRPC ([source](https://github.com/nicholasjackson/building-microservices-youtube)).
+- [From WCF to gRPC - Mark Rendle](https://www.youtube.com/watch?v=76X9oo-LlUY) - Mark Rendle, a CTO at visualrecode, talking about gRPC, and why use gRPC instead of WCF for .NET Developers.
 
 <a name="res-slides"></a>
 ### Slides
