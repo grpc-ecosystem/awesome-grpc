@@ -91,7 +91,7 @@
 - [proto-to-postman](https://github.com/sonatard/proto-to-postman) - Create postman API import collection from .proto files
 - [gWhisper](https://github.com/IBM/gWhisper) - Client with interactive tab-completion (uses reflection) and human readable format
 - [grpcdebug](https://github.com/grpc-ecosystem/grpcdebug) - Debugs serving gRPC applications with tools like channel trace info, xDS config dump, and health checking
-- [Webezy.io](https://www.webezy.io) - A gRPC framework for building projects in __Python__, __Typescript__ and __Go__ from a simple CLI
+- [sylk](https://www.sylk.build) - A gRPC framework for building projects in __Python__, __Typescript__ / __NodeJS__ and __Go__ from a simple CLI and powerful `Beta` UI platform
 
 <a name="tools-gui"></a>
 ### GUI
@@ -114,6 +114,7 @@
 - [Grip](https://gripgrpc.dev) - Native macOS client for interacting with gRPC services
 - [ezy](https://github.com/getezy/ezy) - 🔥 Fully-featured GUI client for gRPC/gRPC-Web.
 - [Warthog](https://github.com/forest33/warthog) - A cross platform gRPC client. Input generation for all types, including nested and looped messages. Saving requests and servers.
+- [ptg](https://github.com/crossoverjie/ptg) - GUI gRPC client, it is also a performance testing tool.
 
 <a name="tools-test"></a>
 ### Testing
@@ -152,6 +153,7 @@
 - [rk-grpc](https://github.com/rookie-ninja/rk-grpc) - Middleware and bootstrapper library for gRPC with logging, metrics, auth, tracing etc.
 - [PropaneDB](https://github.com/elan8/propanedb) - A Protocol Buffers database with gRPC API and Golang driver.
 - [APISIX](https://github.com/apache/apisix) - An api gateway that supports gRPC, HTTP(s) to gRPC and gRPC web request proxying.
+- [Zilla](https://github.com/aklivity/zilla) - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 
 <a name="lang"></a>
 
@@ -301,7 +303,7 @@
 
 - [ScalaPB](https://scalapb.github.io/) - Protocol Buffer Compiler for Scala
 - [Akka-gRPC](https://developer.lightbend.com/docs/akka-grpc/current/) - Akka gRPC provides support for building streaming gRPC servers and clients on top of Akka Streams.
-- [Mu](https://higherkindness.io/mu/) - Mu RPC is a purely functional library for building RPC endpoint-based services with support for gRPC and HTTP/2
+- [Mu](https://higherkindness.github.io/mu/) - Mu RPC is a purely functional library for building RPC endpoint-based services with support for gRPC and HTTP/2
 
 <a name="lang-dart"></a>
 ### Dart
@@ -371,6 +373,7 @@
 - [Writing a gRPC service with Ballerina](https://ballerina.io/learn/writing-a-grpc-service-with-ballerina/) - Getting started guide on building a simple gRPC service with Ballerina and invoking the service through a Ballerina gRPC client application. 
 - [gRPC-web: Using gRPC in Your Front-End Application](https://grpcguide.com/grpc-web-frontend) - A tutorial on using gRPC-web in a frontend application.
 - [Load balancing gRPC in Kubernetes with a service mesh](https://www.useanvil.com/blog/engineering/load-balancing-grpc-in-kubernetes-with-istio) - Explains issues load balancing gRPC, then employs a service mesh (istio) to L7 load balance a gRPC service in Kubernetes.
+- [RPC Adoption and Working Architecture](https://www.xenonstack.com/insights/what-is-grpc) - Overview of gRPC and comparison with REST and WebSockets.
 
 <a name="res-videos"></a>
 ### Videos
@@ -446,6 +449,7 @@ Tim Burks
 - [Envoy proxy as an API gateway for gRPC microservice](https://ekhabarov.com/post/envoy-as-an-api-gateway/) - A gRPC service in Go, built with Bazel and deployed into Kubernetes cluster with [Tilt](https://tilt.dev) and REST API enabled. [Source](https://github.com/ekhabarov/bazel-k8s-envoy)
 - [gRPC Ballerina Example](https://ballerina.io/learn/by-example/grpc-simple.html) - A collection of simple gRPC examples written in Ballerina
 - [Go gRPC features examples](https://github.com/vladimirvivien/go-grpc) - A collection of gRPC and Go examples showcasing features of the framework
+- [Hello gRPC](https://github.com/feuyeux/hello-grpc) - Simple server and client examples showcasing gRPC features(including proxy and propagate, running in containers and kubernetes) with Java/Kotlin/Go/NodeJs/Python/Rust/C++/C#.
 
 <a name="res-misc"></a>
 ### Miscellaneous
