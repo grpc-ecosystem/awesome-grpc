@@ -304,6 +304,8 @@
 - [ScalaPB](https://scalapb.github.io/) - Protocol Buffer Compiler for Scala
 - [Akka-gRPC](https://developer.lightbend.com/docs/akka-grpc/current/) - Akka gRPC provides support for building streaming gRPC servers and clients on top of Akka Streams.
 - [Mu](https://higherkindness.github.io/mu/) - Mu RPC is a purely functional library for building RPC endpoint-based services with support for gRPC and HTTP/2
+- [fs2-grpc](https://github.com/typelevel/fs2-grpc) - gRPC implementation for FS2/cats-effect
+- [zio-grpc](https://github.com/scalapb/zio-grpc) - ScalaPB meets ZIO: write purely functional gRPC services and clients using ZIO
 
 <a name="lang-dart"></a>
 ### Dart
