@@ -334,6 +334,7 @@
 ### Ballerina
 
 - [Ballerina gRPC](https://github.com/ballerina-platform/module-ballerina-grpc) - Ballerina library for gRPC
+- [Ballerina gRPC CLI](https://github.com/ballerina-platform/protoc-tools) - Ballerina gRPC CLI tool
 
 ## Resources
 
@@ -370,7 +371,7 @@
 - [gRPC in Go](https://lixueduan.com/categories/gRPC/) - A detailed tutorial for play gRPC with Go.
 - [gRPC: Top 6 Things that Bite Newbies](https://charles-thayer.medium.com/grpc-top-6-things-that-bite-newbies-dfa740ffc67d) - A review of stumbling blocks for those moving to gRPC for the first time.
 - [A beginners guide to gRPC with Rust](https://dev.to/anshulgoyal15/a-beginners-guide-to-grpc-with-rust-3c7o)
-- [Writing a gRPC service with Ballerina](https://ballerina.io/learn/writing-a-grpc-service-with-ballerina/) - Getting started guide on building a simple gRPC service with Ballerina and invoking the service through a Ballerina gRPC client application. 
+- [Writing a gRPC service with Ballerina](https://ballerina.io/learn/write-a-grpc-service-with-ballerina/) - Getting started guide on building a simple gRPC service with Ballerina and invoking the service through a Ballerina gRPC client application. 
 - [gRPC-web: Using gRPC in Your Front-End Application](https://grpcguide.com/grpc-web-frontend) - A tutorial on using gRPC-web in a frontend application.
 - [Load balancing gRPC in Kubernetes with a service mesh](https://www.useanvil.com/blog/engineering/load-balancing-grpc-in-kubernetes-with-istio) - Explains issues load balancing gRPC, then employs a service mesh (istio) to L7 load balance a gRPC service in Kubernetes.
 - [RPC Adoption and Working Architecture](https://www.xenonstack.com/insights/what-is-grpc) - Overview of gRPC and comparison with REST and WebSockets.
@@ -412,6 +413,7 @@
 - [Adopting gRPC: Overcoming Team and Technical Hurdles](https://www.youtube.com/watch?v=VNllljvhcnk) - GOTO 2019 • Adopting gRPC: Overcoming Team and Technical Hurdles • Josh Humphries
 - [Moving to gRPC Java](https://www.youtube.com/watch?v=vFBuvWVIcYQ) - Mya Pitzeruse at Indeed.com
 - [Building Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) - A series of tutorials for building microservices with Go, covers using gRPC ([source](https://github.com/nicholasjackson/building-microservices-youtube)).
+- [Building a gRPC application in Ballerina](https://www.youtube.com/watch?v=-wHFIPa1-3I&t=1s) - A Demo on how to build a gRPC application in Ballerina at gRPC Meetup
 
 <a name="res-slides"></a>
 ### Slides
@@ -446,9 +448,11 @@ Tim Burks
 - [Making a Multiplayer Game With Go and gRPC](https://mortenson.coffee/blog/making-multiplayer-game-go-and-grpc/) - gRPC game example in Go. [Source](https://github.com/mortenson/grpc-game-example).
 - [Detailed examples for Go](https://github.com/lixd/grpc-go-example) - A detailed gRPC example in Go.
 - [Envoy proxy as an API gateway for gRPC microservice](https://ekhabarov.com/post/envoy-as-an-api-gateway/) - A gRPC service in Go, built with Bazel and deployed into Kubernetes cluster with [Tilt](https://tilt.dev) and REST API enabled. [Source](https://github.com/ekhabarov/bazel-k8s-envoy)
-- [gRPC Ballerina Example](https://ballerina.io/learn/by-example/grpc-simple.html) - A collection of simple gRPC examples written in Ballerina
+- [gRPC Ballerina service Example](https://ballerina.io/learn/by-example/#grpc-service) - A collection of simple gRPC service examples written in Ballerina
+- [gRPC Ballerina client Example](https://ballerina.io/learn/by-example/#grpc-client) - A collection of simple gRPC client examples written in Ballerina
 - [Go gRPC features examples](https://github.com/vladimirvivien/go-grpc) - A collection of gRPC and Go examples showcasing features of the framework
 - [Hello gRPC](https://github.com/feuyeux/hello-grpc) - Simple server and client examples showcasing gRPC features(including proxy and propagate, running in containers and kubernetes) with Java/Kotlin/Go/NodeJs/Python/Rust/C++/C#.
+- [GCP - Online Boutique application rewritten in Ballerina](https://github.com/ballerina-guides/gcp-microservices-demo) - Online Boutique application rewritten in Ballerina
 
 <a name="res-misc"></a>
 ### Miscellaneous
