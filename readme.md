@@ -248,6 +248,7 @@
 - [garuda](https://github.com/dhilipsiva/garuda) - Automagically Exposing Django ORM over gRPC for microservices written in any other languages
 - [django-grpc-framework](https://github.com/fengsp/django-grpc-framework) - A gRPC toolkit for Django inspired by djangorestframework
 - [grpc_requests](https://github.com/wesky93/grpc_requests) - GRPC for Humans! grpc reflection support client. you can request grpc just like REST(No need Stub!)
+- [betterproto](https://github.com/danielgtaylor/python-betterproto) - More pythonic gRPC based on grpclib and dataclasses
 
 <a name="lang-cs"></a>
 ### C#
