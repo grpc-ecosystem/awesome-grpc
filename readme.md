@@ -496,6 +496,7 @@ Tim Burks
 - [intellij-protobuf-plugin](https://github.com/devkanro/intellij-protobuf-plugin) - IntelliJ-based IDEs Protobuf Language Plugin that provides Protobuf language support.
 - [GenDocu](https://gendocu.com) - gRPC Documentation and SDK generator as a Service.
 - [protolint](https://github.com/yoheimuta/protolint) - A pluggable linter and fixer to enforce Protocol Buffer style and conventions.
+- [protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for Node.js and the Web Browser.
 
 ### Similar
 
