@@ -293,7 +293,7 @@
 - [protoc-gen-tstypes](https://godoc.org/github.com/tmc/grpcutil/protoc-gen-tstypes) - Configurable Protoc Plugin to generate TypeScript types.
 - [sisyphus.js](https://github.com/ButterCam/sisyphus-js) - gRPC runtime and compiler for Web Clients by HTTP transcoding. Recommend using with [Sisyphus](https://github.com/ButterCam/sisyphus) back-end framework.
 - [protoc-gen-grpc-gateway-ts](https://github.com/grpc-ecosystem/protoc-gen-grpc-gateway-ts) - TypeScript client generator for the grpc-gateway project that generates idiomatic TypeScript clients that connect the web frontend and golang backend fronted by grpc-gateway.
-- [protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protocol buffers and RPC for Node.js and the Web Browser. Pure TypeScript.
+- [protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protoc plugin and runtime for TypeScript. Generates gRPC server/client for Node.js, gRPC-Web/Twirp clients for browser, uses Fetch API.
 - [ts-proto](https://github.com/stephenh/ts-proto) - Transforms your .proto files into strongly-typed, idiomatic TypeScript files!
 - [grpc-js-typescript](https://github.com/badsyntax/grpc-js-typescript) - Examples of how to use gRPC with TypeScript & Node.js.
 - [nice-grpc](https://github.com/deeplay-io/nice-grpc) - gRPC library for Node.js and the Browser with modern API and middleware support.
