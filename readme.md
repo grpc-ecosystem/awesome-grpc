@@ -248,6 +248,7 @@
 - [django-grpc-framework](https://github.com/fengsp/django-grpc-framework) - A gRPC toolkit for Django inspired by djangorestframework
 - [homi](https://github.com/spaceone-dev/homi) - Python micro framework for build grpc server easy and fast.
 - [grpc_requests](https://github.com/spaceone-dev/grpc_requests) - GRPC for Humans! grpc reflection support client. you can request grpc just like REST(No need Stub!)
+- [betterproto](https://github.com/danielgtaylor/python-betterproto) - More pythonic gRPC based on grpclib and dataclasses
 
 <a name="lang-cs"></a>
 ### C#
