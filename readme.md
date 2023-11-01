@@ -96,6 +96,7 @@
 <a name="tools-gui"></a>
 ### GUI
 
+- [Postman](https://postman.com/products/grpc-client) - Create, test, and debug gRPC services directly from Postman, including for protobuf files and schema discovery
 - [letmegrpc](https://github.com/gogo/letmegrpc) - Generate a web form gui from a grpc specification
 - [omgRPC](https://github.com/troylelandshields/omgrpc) (Deprecated) - A GUI client for interacting with gRPC services, similar to what Postman is for REST APIs
 - [grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman (also, a Go library for embedding these web UIs into Go HTTP servers)
