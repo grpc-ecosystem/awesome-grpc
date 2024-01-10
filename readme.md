@@ -42,6 +42,7 @@
   * [Miscellaneous](#res-misc)
 - [Protocol Buffers](#proto)
   * [Documentation](#proto-docs)
+  * [Package Managers](#proto-package-managers)
   * [Tools](#proto-tools)
 - [Similar](#similar)
 
@@ -475,6 +476,11 @@ Tim Burks
 
 - [Website](https://developers.google.com/protocol-buffers/) - Official website and documentation
 - [Third-Party Add-ons for Protocol Buffers](https://github.com/protocolbuffers/protobuf/blob/master/docs/third_party.md) - List of add-ons for Protocol Buffers in main github repository
+
+<a name="proto-package-managers"></a>
+### Package Managers
+
+- [buffrs](https://github.com/helsing-ai/buffrs) – A modern package manager for protocol buffers and gRPC architectures.
 
 <a name="proto-tools"></a>
 ### Tools
