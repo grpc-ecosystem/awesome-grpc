@@ -92,6 +92,7 @@
 - [gWhisper](https://github.com/IBM/gWhisper) - Client with interactive tab-completion (uses reflection) and human readable format
 - [grpcdebug](https://github.com/grpc-ecosystem/grpcdebug) - Debugs serving gRPC applications with tools like channel trace info, xDS config dump, and health checking
 - [sylk](https://www.sylk.build) - A gRPC framework for building projects in __Python__, __Typescript__ / __NodeJS__ and __Go__ from a simple CLI and powerful `Beta` UI platform
+- [grpcmd](https://github.com/grpcmd/grpcmd) - A simple, easy-to-use, and developer-friendly CLI tool for gRPC.
 
 <a name="tools-gui"></a>
 ### GUI
