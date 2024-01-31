@@ -268,7 +268,7 @@
 
 - [grpc-rs](https://github.com/pingcap/grpc-rs) - The gRPC library for Rust built on C Core library and futures
 - [grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
-- [tower-grpc](https://github.com/tower-rs/tower-grpc) - A client and server gRPC implementation based on Tower
+- [tower-grpc](https://github.com/tower-rs/tower-grpc) (Deprecated) - A client and server gRPC implementation based on Tower. Deprecated in favour of tonic
 - [tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support
 
 <a name="lang-hs"></a>
