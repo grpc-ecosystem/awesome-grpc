@@ -160,6 +160,7 @@
 - [APISIX](https://github.com/apache/apisix) - An api gateway that supports gRPC, HTTP(s) to gRPC and gRPC web request proxying.
 - [Zilla](https://github.com/aklivity/zilla) - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 - [grpc-pentest-suite](https://github.com/nxenon/grpc-pentest-suite) - A collection of tools for pentesting gRPC-Web, including a Burp Suite extension for manipulating gRPC-Web payloads.
+- [limitador](https://github.com/Kuadrant/limitador) - Generic rate-limiter written in Rust exposing a gRPC service that implements the Envoy Rate Limit protocol (v3).
 
 <a name="lang"></a>
 
