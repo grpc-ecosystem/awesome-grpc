@@ -236,6 +236,7 @@
 - [hoverfly-java-grpc](https://mvnrepository.com/artifact/io.specto/hoverfly-java-grpc) - MITM proxy for recording and simulating gRPC services
 - [grpcmock](https://github.com/Fadelis/grpcmock) - A gRPC Java testing tool to easily mock endpoints of gRPC services for IT or Unit testing
 - [protoc-gen-java-optional](https://github.com/Fadelis/protoc-gen-java-optional) - A Java Protoc plugin extending generated java classes with null safe `setOrClear` and `getOptional` methods.
+- [Vert.x gRPC](https://vertx.io/docs/vertx-grpc/java) - Asynchronous, non-blocking gRPC server and client built with the Vert.x HTTP server and client. It helps you create gRPC applications using a low-level message API or generated stubs.
 
 <a name="lang-ruby"></a>
 ### Ruby
