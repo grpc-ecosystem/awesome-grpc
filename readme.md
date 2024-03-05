@@ -160,6 +160,7 @@
 - [APISIX](https://github.com/apache/apisix) - An api gateway that supports gRPC, HTTP(s) to gRPC and gRPC web request proxying.
 - [Zilla](https://github.com/aklivity/zilla) - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 - [grpc-pentest-suite](https://github.com/nxenon/grpc-pentest-suite) - A collection of tools for pentesting gRPC-Web, including a Burp Suite extension for manipulating gRPC-Web payloads.
+- [sabledocs](https://github.com/markvincze/sabledocs) - A simple static documentation generator for Protobuf and gRPC contracts.
 
 <a name="lang"></a>
 
