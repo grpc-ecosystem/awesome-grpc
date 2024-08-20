@@ -270,6 +270,7 @@
 - [grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
 - [tower-grpc](https://github.com/tower-rs/tower-grpc) - A client and server gRPC implementation based on Tower
 - [tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support
+- [wtx](https://github.com/c410-f3r/wtx) - RFC7541 and RFC9113 implementation with built-in support for `gRPC` connections.
 
 <a name="lang-hs"></a>
 ### Haskell
