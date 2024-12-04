@@ -508,6 +508,7 @@ Tim Burks
 - [intellij-protobuf-plugin](https://github.com/devkanro/intellij-protobuf-plugin) - IntelliJ-based IDEs Protobuf Language Plugin that provides Protobuf language support.
 - [GenDocu](https://gendocu.com) - gRPC Documentation and SDK generator as a Service.
 - [protolint](https://github.com/yoheimuta/protolint) - A pluggable linter and fixer to enforce Protocol Buffer style and conventions.
+- [Mouse Melon](https://mousemelon.dev) - A user-friendly Protocol Buffers data editor.
 
 ### Similar
 
