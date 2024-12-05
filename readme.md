@@ -519,7 +519,7 @@ Tim Burks
 
 ### Similar
 
-- [gogoprotobuf](https://github.com/gogo/protobuf) - Fork of golang/protobuf with extra code generation features
+- [gogoprotobuf](https://github.com/gogo/protobuf) - [[Deprecated] Fork of golang/protobuf with extra code generation features
 - [MessagePack](http://msgpack.org/index.html) - It's like JSON, but fast and small
 - [Thrift](https://thrift.apache.org/) - Thrift is an interface definition language and binary communication protocol
 - [TChannel](https://github.com/uber/tchannel) - Network multiplexing and framing protocol for RPC
