@@ -118,6 +118,7 @@
 - [ezy](https://github.com/getezy/ezy) - 🔥 Fully-featured GUI client for gRPC/gRPC-Web.
 - [Warthog](https://github.com/forest33/warthog) - A cross platform gRPC client. Input generation for all types, including nested and looped messages. Saving requests and servers.
 - [ptg](https://github.com/crossoverjie/ptg) - GUI gRPC client, it is also a performance testing tool.
+- [Kalisto](https://kalisto.app/) - Automate and test intricate gRPC API workflows with ease using JavaScript-based scripting
 
 <a name="tools-test"></a>
 ### Testing
