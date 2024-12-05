@@ -161,6 +161,7 @@
 - [Zilla](https://github.com/aklivity/zilla) - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 - [grpc-pentest-suite](https://github.com/nxenon/grpc-pentest-suite) - A collection of tools for pentesting gRPC-Web, including a Burp Suite extension for manipulating gRPC-Web payloads.
 - [sabledocs](https://github.com/markvincze/sabledocs) - A simple static documentation generator for Protobuf and gRPC contracts.
+- [limitador](https://github.com/Kuadrant/limitador) - Generic rate-limiter written in Rust exposing a gRPC service that implements the Envoy Rate Limit protocol (v3).
 
 <a name="lang"></a>
 
@@ -237,6 +238,7 @@
 - [hoverfly-java-grpc](https://mvnrepository.com/artifact/io.specto/hoverfly-java-grpc) - MITM proxy for recording and simulating gRPC services
 - [grpcmock](https://github.com/Fadelis/grpcmock) - A gRPC Java testing tool to easily mock endpoints of gRPC services for IT or Unit testing
 - [protoc-gen-java-optional](https://github.com/Fadelis/protoc-gen-java-optional) - A Java Protoc plugin extending generated java classes with null safe `setOrClear` and `getOptional` methods.
+- [Vert.x gRPC](https://vertx.io/docs/vertx-grpc/java) - Asynchronous, non-blocking gRPC server and client built with the Vert.x HTTP server and client. It helps you create gRPC applications using a low-level message API or generated stubs.
 
 <a name="lang-ruby"></a>
 ### Ruby
@@ -269,7 +271,7 @@
 
 - [grpc-rs](https://github.com/pingcap/grpc-rs) - The gRPC library for Rust built on C Core library and futures
 - [grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
-- [tower-grpc](https://github.com/tower-rs/tower-grpc) - A client and server gRPC implementation based on Tower
+- [tower-grpc](https://github.com/tower-rs/tower-grpc) (Deprecated) - A client and server gRPC implementation based on Tower. Deprecated in favour of tonic
 - [tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support
 
 <a name="lang-hs"></a>
