@@ -1,4 +1,4 @@
-# Awesome gRPC [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome gRPC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://cdn.rawgit.com/grpc/grpc.github.io/master/img/grpc.svg" align="right">](https://grpc.io)
 
@@ -42,6 +42,7 @@
   * [Miscellaneous](#res-misc)
 - [Protocol Buffers](#proto)
   * [Documentation](#proto-docs)
+  * [Package Managers](#proto-package-managers)
   * [Tools](#proto-tools)
 - [Similar](#similar)
 
@@ -92,11 +93,12 @@
 - [gWhisper](https://github.com/IBM/gWhisper) - Client with interactive tab-completion (uses reflection) and human readable format
 - [grpcdebug](https://github.com/grpc-ecosystem/grpcdebug) - Debugs serving gRPC applications with tools like channel trace info, xDS config dump, and health checking
 - [sylk](https://www.sylk.build) - A gRPC framework for building projects in __Python__, __Typescript__ / __NodeJS__ and __Go__ from a simple CLI and powerful `Beta` UI platform
+- [grpcmd](https://github.com/grpcmd/grpcmd) - A simple, easy-to-use, and developer-friendly CLI tool for gRPC.
 
 <a name="tools-gui"></a>
 ### GUI
 
-- [Kalisto](https://kalisto.app/) - Automate and test intricate gRPC API workflows with ease using JavaScript-based scripting
+- [Postman](https://postman.com/) - Create, test, and debug gRPC services directly from Postman
 - [letmegrpc](https://github.com/gogo/letmegrpc) - Generate a web form gui from a grpc specification
 - [omgRPC](https://github.com/troylelandshields/omgrpc) (Deprecated) - A GUI client for interacting with gRPC services, similar to what Postman is for REST APIs
 - [grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman (also, a Go library for embedding these web UIs into Go HTTP servers)
@@ -116,6 +118,7 @@
 - [ezy](https://github.com/getezy/ezy) - 🔥 Fully-featured GUI client for gRPC/gRPC-Web.
 - [Warthog](https://github.com/forest33/warthog) - A cross platform gRPC client. Input generation for all types, including nested and looped messages. Saving requests and servers.
 - [ptg](https://github.com/crossoverjie/ptg) - GUI gRPC client, it is also a performance testing tool.
+- [Kalisto](https://kalisto.app/) - Automate and test intricate gRPC API workflows with ease using JavaScript-based scripting
 
 <a name="tools-test"></a>
 ### Testing
@@ -135,6 +138,7 @@
 - [grpcdump](https://github.com/rmedvedev/grpcdump) - Tool for capture and decode GRPC messages from ethernet traffic only for Linux
 - [nosymouse](https://nosymouse.io/) - Saas tool to functional, perfomance and secure testing gRPC
 - [Step CI](https://github.com/stepci/stepci) - Open-Source API Testing and Monitoring (now with gRPC support!)
+- [Microcks](https://github.com/microcks/microcks) - A [Cloud Native Computing Sandbox project](https://landscape.cncf.io/?selected=microcks) 🚀 dedicated to API Mocking and Testing ([gRPC supported](https://microcks.io/documentation/using/grpc/))
 
 <a name="tools-other"></a>
 ### Other
@@ -157,6 +161,8 @@
 - [APISIX](https://github.com/apache/apisix) - An api gateway that supports gRPC, HTTP(s) to gRPC and gRPC web request proxying.
 - [Zilla](https://github.com/aklivity/zilla) - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 - [grpc-pentest-suite](https://github.com/nxenon/grpc-pentest-suite) - A collection of tools for pentesting gRPC-Web, including a Burp Suite extension for manipulating gRPC-Web payloads.
+- [sabledocs](https://github.com/markvincze/sabledocs) - A simple static documentation generator for Protobuf and gRPC contracts.
+- [limitador](https://github.com/Kuadrant/limitador) - Generic rate-limiter written in Rust exposing a gRPC service that implements the Envoy Rate Limit protocol (v3).
 
 <a name="lang"></a>
 
@@ -233,6 +239,7 @@
 - [hoverfly-java-grpc](https://mvnrepository.com/artifact/io.specto/hoverfly-java-grpc) - MITM proxy for recording and simulating gRPC services
 - [grpcmock](https://github.com/Fadelis/grpcmock) - A gRPC Java testing tool to easily mock endpoints of gRPC services for IT or Unit testing
 - [protoc-gen-java-optional](https://github.com/Fadelis/protoc-gen-java-optional) - A Java Protoc plugin extending generated java classes with null safe `setOrClear` and `getOptional` methods.
+- [Vert.x gRPC](https://vertx.io/docs/vertx-grpc/java) - Asynchronous, non-blocking gRPC server and client built with the Vert.x HTTP server and client. It helps you create gRPC applications using a low-level message API or generated stubs.
 
 <a name="lang-ruby"></a>
 ### Ruby
@@ -243,6 +250,7 @@
 <a name="lang-py"></a>
 ### Python
 
+- [Bali](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
 - [grpclib](https://github.com/vmagamedov/grpclib) - Pure-Python gRPC implementation, based on hyper-h2 project
 - [pytest-grpc](https://github.com/kataev/pytest-grpc) - pytest plugin which allow test gRPC services
 - [grpcalchemy](https://github.com/GuangTianLi/grpcalchemy) - The Python micro framework for building gPRC application
@@ -264,7 +272,7 @@
 
 - [grpc-rs](https://github.com/pingcap/grpc-rs) - The gRPC library for Rust built on C Core library and futures
 - [grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
-- [tower-grpc](https://github.com/tower-rs/tower-grpc) - A client and server gRPC implementation based on Tower
+- [tower-grpc](https://github.com/tower-rs/tower-grpc) (Deprecated) - A client and server gRPC implementation based on Tower. Deprecated in favour of tonic
 - [tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support
 
 <a name="lang-hs"></a>
@@ -374,7 +382,7 @@
 - [gRPC in Go](https://lixueduan.com/categories/gRPC/) - A detailed tutorial for play gRPC with Go.
 - [gRPC: Top 6 Things that Bite Newbies](https://charles-thayer.medium.com/grpc-top-6-things-that-bite-newbies-dfa740ffc67d) - A review of stumbling blocks for those moving to gRPC for the first time.
 - [A beginners guide to gRPC with Rust](https://dev.to/anshulgoyal15/a-beginners-guide-to-grpc-with-rust-3c7o)
-- [Writing a gRPC service with Ballerina](https://ballerina.io/learn/write-a-grpc-service-with-ballerina/) - Getting started guide on building a simple gRPC service with Ballerina and invoking the service through a Ballerina gRPC client application. 
+- [Writing a gRPC service with Ballerina](https://ballerina.io/learn/write-a-grpc-service-with-ballerina/) - Getting started guide on building a simple gRPC service with Ballerina and invoking the service through a Ballerina gRPC client application.
 - [gRPC-web: Using gRPC in Your Front-End Application](https://grpcguide.com/grpc-web-frontend) - A tutorial on using gRPC-web in a frontend application.
 - [Load balancing gRPC in Kubernetes with a service mesh](https://www.useanvil.com/blog/engineering/load-balancing-grpc-in-kubernetes-with-istio) - Explains issues load balancing gRPC, then employs a service mesh (istio) to L7 load balance a gRPC service in Kubernetes.
 - [RPC Adoption and Working Architecture](https://www.xenonstack.com/insights/what-is-grpc) - Overview of gRPC and comparison with REST and WebSockets.
@@ -473,6 +481,11 @@ Tim Burks
 
 - [Website](https://developers.google.com/protocol-buffers/) - Official website and documentation
 - [Third-Party Add-ons for Protocol Buffers](https://github.com/protocolbuffers/protobuf/blob/master/docs/third_party.md) - List of add-ons for Protocol Buffers in main github repository
+
+<a name="proto-package-managers"></a>
+### Package Managers
+
+- [buffrs](https://github.com/helsing-ai/buffrs) – A modern package manager for protocol buffers and gRPC architectures.
 
 <a name="proto-tools"></a>
 ### Tools
