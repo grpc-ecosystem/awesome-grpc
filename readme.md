@@ -206,6 +206,7 @@
 - [sqlc-grpc](https://github.com/walterwanderley/sqlc-grpc) - Generate gRPC/HTTP server (with metrics, tracing, swagger and grpcui) from SQL
 - [protoc-gen-fieldmask](https://github.com/idodod/protoc-gen-fieldmask) - A protoc plugin that generates fieldmask paths as static type properties of proto messages
 - [Thunder Framework](https://github.com/Raezil/Thunder) - A gRPC-Gateway-powered framework with Prisma, Kubernetes, and Go for scalable microservices.
+- [protoc-gen-go-mock](https://github.com/kw510/protoc-gen-go-mock) - A protoc plugin for generating minimal gRPC service mocks suitable for use in tests.
 
 <a name="lang-nodejs"></a>
 ### Node.js
@@ -274,6 +275,7 @@
 - [grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
 - [tower-grpc](https://github.com/tower-rs/tower-grpc) (Deprecated) - A client and server gRPC implementation based on Tower. Deprecated in favour of tonic
 - [tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support
+- [wtx](https://github.com/c410-f3r/wtx) - RFC7541 and RFC9113 implementation with built-in support for `gRPC` connections.
 
 <a name="lang-hs"></a>
 ### Haskell
@@ -517,6 +519,7 @@ Tim Burks
 - [GenDocu](https://gendocu.com) - gRPC Documentation and SDK generator as a Service.
 - [protolint](https://github.com/yoheimuta/protolint) - A pluggable linter and fixer to enforce Protocol Buffer style and conventions.
 - [Mouse Melon](https://mousemelon.dev) - A user-friendly Protocol Buffers data editor.
+- [Protovalidate](https://github.com/bufbuild/protovalidate) - Protovalidate provides standard annotations to validate common rules on messages and fields, as well as the ability to use CEL to write custom rules.
 
 ### Similar
 
