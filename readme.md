@@ -93,7 +93,7 @@
 - [gWhisper](https://github.com/IBM/gWhisper) - Client with interactive tab-completion (uses reflection) and human readable format
 - [grpcdebug](https://github.com/grpc-ecosystem/grpcdebug) - Debugs serving gRPC applications with tools like channel trace info, xDS config dump, and health checking
 - [sylk](https://www.sylk.build) - A gRPC framework for building projects in __Python__, __Typescript__ / __NodeJS__ and __Go__ from a simple CLI and powerful `Beta` UI platform
-- [grpcmd](https://github.com/grpcmd/grpcmd) - A simple, easy-to-use, and developer-friendly CLI tool for gRPC.
+- [grpcmd](https://grpc.md) - The "grpc" command: A simple, easy-to-use, and developer-friendly CLI tool for gRPC.
 
 <a name="tools-gui"></a>
 ### GUI
@@ -119,6 +119,7 @@
 - [Warthog](https://github.com/forest33/warthog) - A cross platform gRPC client. Input generation for all types, including nested and looped messages. Saving requests and servers.
 - [ptg](https://github.com/crossoverjie/ptg) - GUI gRPC client, it is also a performance testing tool.
 - [Kalisto](https://kalisto.app/) - Automate and test intricate gRPC API workflows with ease using JavaScript-based scripting
+- [grpcmd-gui](https://grpc.md/gui) - A modern cross-platform desktop app and API client for gRPC development and testing.
 
 <a name="tools-test"></a>
 ### Testing
@@ -139,6 +140,7 @@
 - [nosymouse](https://nosymouse.io/) - Saas tool to functional, perfomance and secure testing gRPC
 - [Step CI](https://github.com/stepci/stepci) - Open-Source API Testing and Monitoring (now with gRPC support!)
 - [Microcks](https://github.com/microcks/microcks) - A [Cloud Native Computing Sandbox project](https://landscape.cncf.io/?selected=microcks) 🚀 dedicated to API Mocking and Testing ([gRPC supported](https://microcks.io/documentation/using/grpc/))
+- [grpcmd-script](https://grpc.md/script) - A powerful framework for testing gRPC endpoints using JavaScript within a single binary executable.
 
 <a name="tools-other"></a>
 ### Other
