@@ -205,8 +205,8 @@
 - [Mortar](https://github.com/go-masonry/mortar) - GO framework for building gRPC (and REST) web services with DI, Telemetry and more
 - [sqlc-grpc](https://github.com/walterwanderley/sqlc-grpc) - Generate gRPC/HTTP server (with metrics, tracing, swagger and grpcui) from SQL
 - [protoc-gen-fieldmask](https://github.com/idodod/protoc-gen-fieldmask) - A protoc plugin that generates fieldmask paths as static type properties of proto messages
+- [Thunder Framework](https://github.com/Raezil/Thunder) - A gRPC-Gateway-powered framework with Prisma, Kubernetes, and Go for scalable microservices.
 - [protoc-gen-go-mock](https://github.com/kw510/protoc-gen-go-mock) - A protoc plugin for generating minimal gRPC service mocks suitable for use in tests.
-
 
 <a name="lang-nodejs"></a>
 ### Node.js
