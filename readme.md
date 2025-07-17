@@ -256,6 +256,7 @@
 - [Bali](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
 - [grpclib](https://github.com/vmagamedov/grpclib) - Pure-Python gRPC implementation, based on hyper-h2 project
 - [pytest-grpc](https://github.com/kataev/pytest-grpc) - pytest plugin which allow test gRPC services
+- [Fast-gRPC](https://github.com/OlegYurchik/fast-grpc) - The Python async micro framework for easy develop gRPC server 
 - [grpcalchemy](https://github.com/GuangTianLi/grpcalchemy) - The Python micro framework for building gPRC application
 - [django-grpc](https://github.com/gluk-w/django-grpc) - Django application to build gRPC services with access to ORM, settings and everything else
 - [garuda](https://github.com/dhilipsiva/garuda) - Automagically Exposing Django ORM over gRPC for microservices written in any other languages
