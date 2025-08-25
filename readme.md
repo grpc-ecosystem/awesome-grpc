@@ -140,7 +140,10 @@
 - [nosymouse](https://nosymouse.io/) - Saas tool to functional, perfomance and secure testing gRPC
 - [Step CI](https://github.com/stepci/stepci) - Open-Source API Testing and Monitoring (now with gRPC support!)
 - [Microcks](https://github.com/microcks/microcks) - A [Cloud Native Computing Sandbox project](https://landscape.cncf.io/?selected=microcks) 🚀 dedicated to API Mocking and Testing ([gRPC supported](https://microcks.io/documentation/using/grpc/))
-- [grpcmd-script](https://grpc.md/script) - A powerful framework for testing gRPC endpoints using JavaScript within a single binary executable.
+- [grpcmd-script](https://grpc.md/script) - A powerful framework for testing gRPC endpoints using JavaScript within a single binary executable
+- [Keploy](https://github/keploy/keploy) - Keploy is developer-centric API testing tool that creates tests along with built-in-mocks, faster than unit tests. ([gRPC supported](https://keploy.io/docs/keploy-explained/api-testing-faq/#3-what-protocols-and-formats-does-keploy-support))
+
+
 
 <a name="tools-other"></a>
 ### Other
