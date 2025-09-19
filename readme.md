@@ -472,6 +472,7 @@ Tim Burks
 - [Go gRPC features examples](https://github.com/vladimirvivien/go-grpc) - A collection of gRPC and Go examples showcasing features of the framework
 - [Hello gRPC](https://github.com/feuyeux/hello-grpc) - Simple server and client examples showcasing gRPC features(including proxy and propagate, running in containers and kubernetes) with Java/Kotlin/Go/NodeJs/Python/Rust/C++/C#.
 - [GCP - Online Boutique application rewritten in Ballerina](https://github.com/ballerina-guides/gcp-microservices-demo) - Online Boutique application rewritten in Ballerina
+- [gRPC Goat - An intentionally vulnerable gRPC Security Lab](https://github.com/rootxjs/grpc-goat) -  gRPC Goat is a "Vulnerable by Design" lab created to provide an interactive, hands-on playground for learning and practicing gRPC security. 
 
 <a name="res-misc"></a>
 ### Miscellaneous
