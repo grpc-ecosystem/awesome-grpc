@@ -332,6 +332,7 @@
 
 - [qtgrpc](https://github.com/qt/qtgrpc) - gRPC and Protobuf generator and bindings for the Qt framework
 - [asio-grpc](https://github.com/Tradias/asio-grpc) - Asynchronous gRPC with [Boost.Asio](https://github.com/boostorg/asio) or [libunifex](https://github.com/facebookexperimental/libunifex)
+- [sugar-proto](https://github.com/illegal-instruction-co/sugar-proto) - A Protobuf wrapper with expressive, minimal, and strongly-typed C++ syntax, close to plain structs.
 
 <a name="lang-ballerina"></a>
 ### Ballerina
