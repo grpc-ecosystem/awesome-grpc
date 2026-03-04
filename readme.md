@@ -19,6 +19,7 @@
   * [Go](#lang-go)
   * [Node.js](#lang-nodejs)
   * [Java](#lang-java)
+  * [PHP](#lang-php)
   * [Ruby](#lang-ruby)
   * [Python](#lang-py)
   * [C#](#lang-cs)
@@ -230,6 +231,11 @@
 - [grpcmock](https://github.com/Fadelis/grpcmock) - A gRPC Java testing tool to easily mock endpoints of gRPC services for IT or Unit testing
 - [protoc-gen-java-optional](https://github.com/Fadelis/protoc-gen-java-optional) - A Java Protoc plugin extending generated java classes with null safe `setOrClear` and `getOptional` methods.
 - [Vert.x gRPC](https://vertx.io/docs/vertx-grpc/java) - Asynchronous, non-blocking gRPC server and client built with the Vert.x HTTP server and client. It helps you create gRPC applications using a low-level message API or generated stubs.
+
+<a name="lang-php"></a>
+### PHP
+
+- [grpc-php-rs](https://github.com/BSN4/grpc-php-rs) - Drop-in replacement for ext-grpc, built on tonic and rustls. Fixes ZTS thread safety crashes and OpenSSL conflicts. Installable via PIE with pre-built binaries.
 
 <a name="lang-ruby"></a>
 ### Ruby
