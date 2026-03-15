@@ -116,7 +116,7 @@
 - [Warthog](https://github.com/forest33/warthog) - A cross platform gRPC client. Input generation for all types, including nested and looped messages. Saving requests and servers.
 - [ptg](https://github.com/crossoverjie/ptg) - GUI gRPC client, it is also a performance testing tool.
 - [Kalisto](https://github.com/Kalisto-Application/kalisto) - Automate and test intricate gRPC API workflows with ease using JavaScript-based scripting
-- [Kaja](https://kaja.tools) - A code-based UI for gRPC and Twirp APIs with full IntelliSense, available as a macOS app or Docker container.
+- [Kaja](https://kaja.tools) - A code-based UI for exploring and calling gRPC and Twirp APIs, available as a macOS app or Docker container.
 
 <a name="tools-test"></a>
 ### Testing
