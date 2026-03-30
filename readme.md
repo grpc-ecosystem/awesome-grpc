@@ -201,6 +201,7 @@
 - [Thunder Framework](https://github.com/Raezil/Thunder) - A gRPC-Gateway-powered framework with Prisma, Kubernetes, and Go for scalable microservices.
 - [protoc-gen-go-mock](https://github.com/kw510/protoc-gen-go-mock) - A protoc plugin for generating minimal gRPC service mocks suitable for use in tests.
 - [gRPC over WebSocket](https://github.com/glerchundi/grpc-boomerang) - connect to a gRPC Server behind a firewall by using a pre-established WebSocket connection
+- [grpc.authz](https://github.com/o3co/grpc.authz) - Declare gRPC authorization policy in `.proto` method options and enforce via interceptors, with built-in adapters for OPA, Cedar, and static rules
 
 <a name="lang-nodejs"></a>
 ### Node.js
