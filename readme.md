@@ -5,6 +5,7 @@
 > A curated list of useful resources for gRPC
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for service-oriented multi-agent orchestration with automated task delegation and coordination. MIT licensed.
 ## Contents
 
 - [Documentation](#documentation)
