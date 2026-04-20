@@ -502,6 +502,7 @@ Tim Burks
 - [protolint](https://github.com/yoheimuta/protolint) - A pluggable linter and fixer to enforce Protocol Buffer style and conventions.
 - [Mouse Melon](https://mousemelon.dev) - A user-friendly Protocol Buffers data editor.
 - [Protovalidate](https://github.com/bufbuild/protovalidate) - Protovalidate provides standard annotations to validate common rules on messages and fields, as well as the ability to use CEL to write custom rules.
+- [proteus-diff](https://github.com/ghostdogpr/proteus) - CLI for detecting breaking changes between `.proto` schemas, with wire/source compatibility modes, configurable severity per change type, and text/JSON/Markdown output for CI.
 
 ### Similar
 
