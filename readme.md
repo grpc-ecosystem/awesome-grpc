@@ -308,6 +308,7 @@
 - [fs2-grpc](https://github.com/typelevel/fs2-grpc) - gRPC implementation for FS2/cats-effect using netty
 - [http4s-grpc](https://github.com/http4s/http4s-grpc) - A pure Scala gRPC implementation! Use it with http4s Ember and deploy on JVM, Node.js, and Native.
 - [zio-grpc](https://github.com/scalapb/zio-grpc) - ScalaPB meets ZIO: write purely functional gRPC services and clients using ZIO
+- [Proteus](https://github.com/ghostdogpr/proteus) - Code-first library to generate Protobuf codecs and `.proto` files from Scala code, and define gRPC services declaratively with multiple backends (direct style, Future, ZIO, fs2, Ox).
 
 
 <a name="lang-dart"></a>
@@ -502,6 +503,7 @@ Tim Burks
 - [protolint](https://github.com/yoheimuta/protolint) - A pluggable linter and fixer to enforce Protocol Buffer style and conventions.
 - [Mouse Melon](https://mousemelon.dev) - A user-friendly Protocol Buffers data editor.
 - [Protovalidate](https://github.com/bufbuild/protovalidate) - Protovalidate provides standard annotations to validate common rules on messages and fields, as well as the ability to use CEL to write custom rules.
+- [proteus-diff](https://github.com/ghostdogpr/proteus) - CLI for detecting breaking changes between `.proto` schemas, with wire/source compatibility modes, configurable severity per change type, and text/JSON/Markdown output for CI.
 
 ### Similar
 
