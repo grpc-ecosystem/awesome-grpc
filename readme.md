@@ -308,6 +308,7 @@
 - [fs2-grpc](https://github.com/typelevel/fs2-grpc) - gRPC implementation for FS2/cats-effect using netty
 - [http4s-grpc](https://github.com/http4s/http4s-grpc) - A pure Scala gRPC implementation! Use it with http4s Ember and deploy on JVM, Node.js, and Native.
 - [zio-grpc](https://github.com/scalapb/zio-grpc) - ScalaPB meets ZIO: write purely functional gRPC services and clients using ZIO
+- [Proteus](https://github.com/ghostdogpr/proteus) - Code-first library to generate Protobuf codecs and `.proto` files from Scala code, and define gRPC services declaratively with multiple backends (direct style, Future, ZIO, fs2, Ox).
 
 
 <a name="lang-dart"></a>
