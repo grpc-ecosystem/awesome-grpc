@@ -455,6 +455,7 @@ Tim Burks
 - [Hello gRPC](https://github.com/feuyeux/hello-grpc) - Simple server and client examples showcasing gRPC features(including proxy and propagate, running in containers and kubernetes) with Java/Kotlin/Go/NodeJs/Python/Rust/C++/C#.
 - [GCP - Online Boutique application rewritten in Ballerina](https://github.com/ballerina-guides/gcp-microservices-demo) - Online Boutique application rewritten in Ballerina
 - [gRPC Goat - An intentionally vulnerable gRPC Security Lab](https://github.com/rootxjs/grpc-goat) -  gRPC Goat is a "Vulnerable by Design" lab created to provide an interactive, hands-on playground for learning and practicing gRPC security. 
+- [Casino Engine](https://github.com/nekzabirov/IGaming-Game-Engine) - Open-source iGaming/casino engine in Kotlin/Ktor exposing a gRPC API (`game.v1` proto, six services for sessions, rounds, freespins, providers, games, and aggregators) alongside a published Kotlin client JAR. Production reference for gRPC services with hexagonal architecture, DDD, and CQRS.
 
 <a name="res-misc"></a>
 ### Miscellaneous
