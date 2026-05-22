@@ -352,6 +352,7 @@
 - [Bidirectional gRPC streaming for Go](https://rakyll.org/grpc-streaming/)
 - [How We Build gRPC Services At Namely](https://medium.com/namely-labs/how-we-build-grpc-services-at-namely-52a3ae9e7c35) - Blog article from Namely Labs
 - [Our experience designing and building gRPC services](https://blog.bugsnag.com/using-grpc-in-production/) - Blog series from Bugsnag on building a new Releases dashboard backend using gRPC
+- [TutorialSearch](https://tutorialsearch.io/?q=grpc) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Writing gRPC Interceptors in Go](https://medium.com/@shijuvar/writing-grpc-interceptors-in-go-bf3e7671fe48) - A simple tutorial on gRPC Interceptors
 - [An introduction to gRPC](https://devopedia.org/grpc)
 - [How we use gRPC to build a client/server system in Go](https://medium.com/pantomath/how-we-use-grpc-to-build-a-client-server-system-in-go-dd20045fa1c2) - A technical presentation on how to use gRPC (and Protobuf) to build a robust client/server system
