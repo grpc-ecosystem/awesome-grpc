@@ -116,6 +116,7 @@
 - [Warthog](https://github.com/forest33/warthog) - A cross platform gRPC client. Input generation for all types, including nested and looped messages. Saving requests and servers.
 - [ptg](https://github.com/crossoverjie/ptg) - GUI gRPC client, it is also a performance testing tool.
 - [Kalisto](https://github.com/Kalisto-Application/kalisto) - Automate and test intricate gRPC API workflows with ease using JavaScript-based scripting
+- [grpc-studio](https://github.com/electronicarts/grpc-studio) - A reflection-based web UI for exploring and invoking gRPC services, with dynamic form generation from protobuf descriptors, streaming support over WebSocket, and pluggable auth for outbound gRPC metadata.
 
 <a name="tools-test"></a>
 ### Testing
