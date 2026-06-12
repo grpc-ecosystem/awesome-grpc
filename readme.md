@@ -455,6 +455,7 @@ Tim Burks
 - [Hello gRPC](https://github.com/feuyeux/hello-grpc) - Simple server and client examples showcasing gRPC features(including proxy and propagate, running in containers and kubernetes) with Java/Kotlin/Go/NodeJs/Python/Rust/C++/C#.
 - [GCP - Online Boutique application rewritten in Ballerina](https://github.com/ballerina-guides/gcp-microservices-demo) - Online Boutique application rewritten in Ballerina
 - [gRPC Goat - An intentionally vulnerable gRPC Security Lab](https://github.com/rootxjs/grpc-goat) -  gRPC Goat is a "Vulnerable by Design" lab created to provide an interactive, hands-on playground for learning and practicing gRPC security. 
+- [DCS-gRPC](https://github.com/DCS-gRPC/rust-server) - gRPC server embedded in DCS World (military flight sim); exposes mission state and commands to external clients in any language.
 
 <a name="res-misc"></a>
 ### Miscellaneous
