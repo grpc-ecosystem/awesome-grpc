@@ -512,6 +512,7 @@ Tim Burks
 - [RSocket](http://rsocket.io/) - Application protocol providing Reactive Streams semantics
 - [Twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [Greenpack](https://github.com/glycerine/greenpack) - Serialization format similar to MessagePack, but adds field versioning and type annotation
+- [Graftcode](https://github.com/grft-dev/graftcode) - Integration-free development layer that lets you call methods across languages and runtimes as if they were local, without hand-writing REST, gRPC, or Thrift integration code
 
 ## Archive
 
