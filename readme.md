@@ -163,6 +163,7 @@
 - [grpc-pentest-suite](https://github.com/nxenon/grpc-pentest-suite) - A collection of tools for pentesting gRPC-Web, including a Burp Suite extension for manipulating gRPC-Web payloads.
 - [sabledocs](https://github.com/markvincze/sabledocs) - A simple static documentation generator for Protobuf and gRPC contracts.
 - [limitador](https://github.com/Kuadrant/limitador) - Generic rate-limiter written in Rust exposing a gRPC service that implements the Envoy Rate Limit protocol (v3).
+- [Arke](https://github.com/sassoftware/arke) - Cloud-native gRPC gateway and proxy for message brokers.
 
 <a name="lang"></a>
 
