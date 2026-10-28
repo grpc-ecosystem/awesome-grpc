@@ -128,6 +128,7 @@
 - [grpc-swagger](https://github.com/grpc-swagger/grpc-swagger) - Debugging gRPC application with swagger-ui.
 - [grpc-tools](https://github.com/bradleyjkemp/grpc-tools) - A suite of gRPC debugging tools. Like Fiddler/Charles but for gRPC.
 - [jmeter-grpc-plugin](https://github.com/zalopay-oss/jmeter-grpc-plugin) - A plugin supports load test gRPC service with Jmeter.
+- [gatling-grpc-connector-demo](https://github.com/FruNoman/gatling-grpc-connector-demo) - A free gRPC connector for current [Gatling](https://gatling.io/) versions, built over protoc-generated method descriptors. Unary, server/client/bidi streaming.
 - [camouflage](https://github.com/testinggospels/camouflage) - Camouflage is a backend mocking tool for HTTP, gRPC and Websockets protocols.
 - [Mediator](https://github.com/ButterCam/Mediator) - Cross-platform GUI gRPC debugging proxy like charles but design for gRPC.
 - [grpc_bench](https://github.com/LesnyRumcajs/grpc_bench) - A suite of gRPC benchmarks for different technologies.
