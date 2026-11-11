@@ -250,6 +250,7 @@
 - [django-grpc-framework](https://github.com/fengsp/django-grpc-framework) - A gRPC toolkit for Django inspired by djangorestframework
 - [grpc_requests](https://github.com/wesky93/grpc_requests) - GRPC for Humans! grpc reflection support client. you can request grpc just like REST(No need Stub!)
 - [betterproto](https://github.com/danielgtaylor/python-betterproto) - More pythonic gRPC based on grpclib and dataclasses
+- [pygrpc-native](https://github.com/pygrpc/pygrpc-native) - Drop-in grpcio server that runs HTTP/2 and gRPC in Rust, outside the GIL
 
 <a name="lang-cs"></a>
 ### C#
